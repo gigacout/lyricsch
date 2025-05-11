@@ -1,6 +1,6 @@
 {
   "mama_wo_xiang_ni_longpiao": {
-    "title": "媽媽我想你",
+    "title": "妈妈我想你",
     "artist": "龍飄飄 (Long Piao Piao)",
     "cover_url": "https://i.ytimg.com/vi/0q486TbH13E/maxresdefault.jpg",
     "language_names": {
@@ -11,8 +11,8 @@
     "lines": [
       {
         "original_char_pinyin": [
-          { "char": "媽", "pinyin": "mā" },
-          { "char": "媽", "pinyin": "mā" },
+          { "char": "妈", "pinyin": "mā" },
+          { "char": "妈", "pinyin": "mā" },
           { "char": "我", "pinyin": "wǒ" },
           { "char": "想", "pinyin": "xiǎng" },
           { "char": "你", "pinyin": "nǐ" }
@@ -28,8 +28,8 @@
       {
         "original_char_pinyin": [
           { "char": "我", "pinyin": "wǒ" },
-          { "char": "離", "pinyin": "lí" },
-          { "char": "開", "pinyin": "kāi" },
+          { "char": "离", "pinyin": "lí" },
+          { "char": "开", "pinyin": "kāi" },
           { "char": "了", "pinyin": "le" },
           { "char": "你", "pinyin": "nǐ" }
         ],
@@ -47,7 +47,7 @@
           { "char": "不", "pinyin": "bù" },
           { "char": "是", "pinyin": "shì" },
           { "char": "我", "pinyin": "wǒ" },
-          { "char": "願", "pinyin": "yuàn" },
+          { "char": "愿", "pinyin": "yuàn" },
           { "char": "意", "pinyin": "yì" }
         ],
         "texts": {
@@ -60,8 +60,8 @@
       },
       {
         "original_char_pinyin": [
-          { "char": "媽", "pinyin": "mā" },
-          { "char": "媽", "pinyin": "mā" },
+          { "char": "妈", "pinyin": "mā" },
+          { "char": "妈", "pinyin": "mā" },
           { "char": "我", "pinyin": "wǒ" },
           { "char": "想", "pinyin": "xiǎng" },
           { "char": "你", "pinyin": "nǐ" }
@@ -74,24 +74,316 @@
         "duration": 4.0,
         "isMelody": false
       }
-      // ... Aquí puedes añadir más líneas de esta canción si las tienes ...
+    ]
+  },
+  "tian_mi_mi_teresa_teng": {
+    "title": "甜蜜蜜 (Tian Mi Mi)",
+    "artist": "鄧麗君 (Teresa Teng)",
+    "cover_url": "https://e.snmc.io/i/1200/s/70b0a8f093859685f0f7e7821f2c8614/3479129", // Ejemplo de URL de cover
+    "language_names": {
+      "es": "Español",
+      "en": "English",
+      "zh-CN": "简体中文 (Chino Simplificado)", // Tian Mi Mi a menudo se ve en simplificado también
+      "zh-TW": "繁體中文 (Chino Tradicional)" // Si quieres mantenerla como la "original" para mostrar
+    },
+    "lines": [
+      { // Línea 0 - Intro
+        "original_char_pinyin": [ // No hay caracteres/pinyin para una melodía pura
+           // Podrías poner un símbolo si quieres que aparezca algo en la línea principal
+           // { "char": "♫", "pinyin": "" } 
+        ],
+        "texts": { // Las traducciones de "Intro" pueden ir aquí
+          "es": "♫ Intro ♫",
+          "en": "♫ Intro ♫"
+        },
+        "duration": 5.0, // Usa la duración de tu archivo de sesión o ajústala
+        "isMelody": true
+      },
+      { // Línea 1 - 甜蜜蜜
+        "original_char_pinyin": [
+          { "char": "甜", "pinyin": "tián" },
+          { "char": "蜜", "pinyin": "mì" },
+          { "char": "蜜", "pinyin": "mì" }
+        ],
+        "texts": {
+          "es": "Tan dulce",
+          "en": "So sweet",
+          "zh-CN": "甜蜜蜜",
+          "zh-TW": "甜蜜蜜"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+      { // Línea 2 - 你笑得甜蜜蜜
+        "original_char_pinyin": [
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "笑", "pinyin": "xiào" },
+          { "char": "得", "pinyin": "de" },
+          { "char": "甜", "pinyin": "tián" },
+          { "char": "蜜", "pinyin": "mì" },
+          { "char": "蜜", "pinyin": "mì" }
+        ],
+        "texts": {
+          "es": "Sonríes tan dulcemente",
+          "en": "Your smile is so sweet",
+          "zh-CN": "你笑得甜蜜蜜",
+          "zh-TW": "你笑得甜蜜蜜"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+      { // Línea 3 - 好像花兒開在春風裡
+        "original_char_pinyin": [
+          { "char": "好", "pinyin": "hǎo" },
+          { "char": "像", "pinyin": "xiàng" },
+          { "char": "花", "pinyin": "huā" },
+          { "char": "兒", "pinyin": "ér" }, // o "er" sin tono si es sufijo neutro
+          { "char": "開", "pinyin": "kāi" },
+          { "char": "在", "pinyin": "zài" },
+          { "char": "春", "pinyin": "chūn" },
+          { "char": "風", "pinyin": "fēng" },
+          { "char": "裡", "pinyin": "lǐ" }
+        ],
+        "texts": {
+          "es": "Como flores abriéndose en la brisa primaveral",
+          "en": "Like flowers blooming in the spring breeze",
+          "zh-CN": "好像花儿开在春风里",
+          "zh-TW": "好像花兒開在春風裡"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+      { // Línea 4 - 開在春風裡
+        "original_char_pinyin": [
+          { "char": "開", "pinyin": "kāi" },
+          { "char": "在", "pinyin": "zài" },
+          { "char": "春", "pinyin": "chūn" },
+          { "char": "風", "pinyin": "fēng" },
+          { "char": "裡", "pinyin": "lǐ" }
+        ],
+        "texts": {
+          "es": "Abriéndose en la brisa primaveral",
+          "en": "Blooming in the spring breeze",
+          "zh-CN": "开在春风里",
+          "zh-TW": "開在春風裡"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+      { // Línea 5 - Interludio
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Pausa 1 ♫",
+          "en": "♫ Break 1 ♫"
+        },
+        "duration": 4.0,
+        "isMelody": true
+      },
+      { // Línea 6 - 在哪裡 在哪裡見過你
+        "original_char_pinyin": [
+          { "char": "在", "pinyin": "zài" },
+          { "char": "哪", "pinyin": "nǎ" },
+          { "char": "裡", "pinyin": "lǐ" },
+          { "char": " ", "pinyin": "" }, // Espacio opcional
+          { "char": "在", "pinyin": "zài" },
+          { "char": "哪", "pinyin": "nǎ" },
+          { "char": "裡", "pinyin": "lǐ" },
+          { "char": "見", "pinyin": "jiàn" },
+          { "char": "過", "pinyin": "guo" }, // Tono neutro común
+          { "char": "你", "pinyin": "nǐ" }
+        ],
+        "texts": {
+          "es": "¿Dónde, dónde te he visto antes?",
+          "en": "Where, where have I seen you before?",
+          "zh-CN": "在哪里 在哪里见过你",
+          "zh-TW": "在哪裡 在哪裡見過你"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+      { // Línea 7 - 你的笑容這樣熟悉
+        "original_char_pinyin": [
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "的", "pinyin": "de" }, // Tono neutro
+          { "char": "笑", "pinyin": "xiào" },
+          { "char": "容", "pinyin": "róng" },
+          { "char": "這", "pinyin": "zhè" },
+          { "char": "樣", "pinyin": "yàng" },
+          { "char": "熟", "pinyin": "shú" }, // También puede ser "shóu" en algunos contextos, "shú" es más común aquí
+          { "char": "悉", "pinyin": "xī" }
+        ],
+        "texts": {
+          "es": "Tu sonrisa me es tan familiar",
+          "en": "Your smile is so familiar",
+          "zh-CN": "你的笑容这样熟悉",
+          "zh-TW": "你的笑容這樣熟悉"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+      { // Línea 8 - 我一時想不起
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "一", "pinyin": "yī" }, // Puede cambiar a yí antes de un 2do o 3er tono, o yì antes de un 4to. Aquí "shí" es 2do tono, así que yí.
+          // Pero a veces se mantiene yi1 si se enfatiza "un momento"
+          // Dejaré yi1 por simplicidad, pero yí shí podría ser más natural.
+          { "char": "時", "pinyin": "shí" },
+          { "char": "想", "pinyin": "xiǎng" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "起", "pinyin": "qǐ" }
+        ],
+        "texts": {
+          "es": "No puedo recordarlo ahora mismo",
+          "en": "I can't recall right now",
+          "zh-CN": "我一时想不起",
+          "zh-TW": "我一時想不起"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+      { // Línea 9 - 啊～ 在夢裡
+        "original_char_pinyin": [
+          { "char": "啊", "pinyin": "ā" }, // O "a" sin tono si es una exclamación suave
+          { "char": "～", "pinyin": "" }, // Para el alargamiento
+          { "char": " ", "pinyin": "" },
+          { "char": "在", "pinyin": "zài" },
+          { "char": "夢", "pinyin": "mèng" },
+          { "char": "裏", "pinyin": "lǐ" }
+        ],
+        "texts": {
+          "es": "Ah~ En un sueño",
+          "en": "Ah~ In a dream",
+          "zh-CN": "啊～ 在夢裏",
+          "zh-TW": "啊～ 在夢裏"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+       { // Línea 10 - Interludio 2
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Pausa 2 ♫",
+          "en": "♫ Break 2 ♫"
+        },
+        "duration": 4.0,
+        "isMelody": true
+      },
+      { // Línea 11 - 夢裏 夢裏見過你
+        "original_char_pinyin": [
+          { "char": "夢", "pinyin": "mèng" },
+          { "char": "裏", "pinyin": "lǐ" },
+          { "char": " ", "pinyin": "" },
+          { "char": "夢", "pinyin": "mèng" },
+          { "char": "裏", "pinyin": "lǐ" },
+          { "char": "見", "pinyin": "jiàn" },
+          { "char": "過", "pinyin": "guo" },
+          { "char": "你", "pinyin": "nǐ" }
+        ],
+        "texts": {
+          "es": "En un sueño, te vi en un sueño",
+          "en": "In a dream, I saw you in a dream",
+          "zh-CN": "夢裏 夢裏見過你",
+          "zh-TW": "夢裏 夢裏見過你"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+      { // Línea 12 - 甜蜜 笑得多甜蜜
+        "original_char_pinyin": [
+          { "char": "甜", "pinyin": "tián" },
+          { "char": "蜜", "pinyin": "mì" },
+          { "char": " ", "pinyin": "" },
+          { "char": "笑", "pinyin": "xiào" },
+          { "char": "得", "pinyin": "de" },
+          { "char": "多", "pinyin": "duō" },
+          { "char": "甜", "pinyin": "tián" },
+          { "char": "蜜", "pinyin": "mì" }
+        ],
+        "texts": {
+          "es": "Dulce, sonriendo tan dulcemente",
+          "en": "Sweet, smiling so sweetly",
+          "zh-CN": "甜蜜 笑得多甜蜜",
+          "zh-TW": "甜蜜 笑得多甜蜜"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+      { // Línea 13 - 是你是你 夢見的就是你
+        "original_char_pinyin": [
+          { "char": "是", "pinyin": "shì" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": " ", "pinyin": "" },
+          { "char": "夢", "pinyin": "mèng" },
+          { "char": "見", "pinyin": "jiàn" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "就", "pinyin": "jiù" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": "你", "pinyin": "nǐ" }
+        ],
+        "texts": {
+          "es": "Eres tú, eres tú, con quien soñé eres tú",
+          "en": "It's you, it's you, the one I dreamt of is you",
+          "zh-CN": "是你 是你 夢見的就是你",
+          "zh-TW": "是你是你 夢見的就是你"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+      { // Línea 14 - Interludio 3
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Pausa 3 ♫",
+          "en": "♫ Break 3 ♫"
+        },
+        "duration": 4.0,
+        "isMelody": true
+      },
+      // ... Se repiten líneas 6-9 ... (añadirías aquí esas líneas convertidas)
+      { // Línea 15 (Repetición de 6)
+        "original_char_pinyin": [
+          { "char": "在", "pinyin": "zài" }, { "char": "哪", "pinyin": "nǎ" }, { "char": "裏", "pinyin": "lǐ" },
+          { "char": " ", "pinyin": "" },
+          { "char": "在", "pinyin": "zài" }, { "char": "哪", "pinyin": "nǎ" }, { "char": "裏", "pinyin": "lǐ" },
+          { "char": "見", "pinyin": "jiàn" }, { "char": "過", "pinyin": "guo" }, { "char": "你", "pinyin": "nǐ" }
+        ],
+        "texts": { "es": "¿Dónde, dónde te he visto antes?", "en": "Where, where have I seen you before?", "zh-CN": "在哪裏 在哪裏見過你", "zh-TW": "在哪裏 在哪裏見過你"},
+        "duration": 3.0, "isMelody": false
+      },
+      { // Línea 16 (Repetición de 7)
+        "original_char_pinyin": [
+          { "char": "你", "pinyin": "nǐ" }, { "char": "的", "pinyin": "de" }, { "char": "笑", "pinyin": "xiào" }, { "char": "容", "pinyin": "róng" },
+          { "char": "這", "pinyin": "zhè" }, { "char": "樣", "pinyin": "yàng" }, { "char": "熟", "pinyin": "shú" }, { "char": "悉", "pinyin": "xī" }
+        ],
+        "texts": { "es": "Tu sonrisa me es tan familiar", "en": "Your smile is so familiar", "zh-CN": "你的笑容這樣熟悉", "zh-TW": "你的笑容這樣熟悉"},
+        "duration": 3.0, "isMelody": false
+      },
+      { // Línea 17 (Repetición de 8)
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "wǒ" }, { "char": "一", "pinyin": "yī" }, { "char": "時", "pinyin": "shí" },
+          { "char": "想", "pinyin": "xiǎng" }, { "char": "不", "pinyin": "bù" }, { "char": "起", "pinyin": "qǐ" }
+        ],
+        "texts": { "es": "No puedo recordarlo ahora mismo", "en": "I can't recall right now", "zh-CN": "我一時想不起", "zh-TW": "我一時想不起"},
+        "duration": 3.0, "isMelody": false
+      },
+      { // Línea 18 (Repetición de 9)
+        "original_char_pinyin": [
+          { "char": "啊", "pinyin": "ā" }, { "char": "～", "pinyin": "" }, { "char": " ", "pinyin": "" },
+          { "char": "在", "pinyin": "zài" }, { "char": "夢", "pinyin": "mèng" }, { "char": "裏", "pinyin": "lǐ" }
+        ],
+        "texts": { "es": "Ah~ En un sueño", "en": "Ah~ In a dream", "zh-CN": "啊～ 在夢裏", "zh-TW": "啊～ 在夢裏"},
+        "duration": 3.0, "isMelody": false
+      },
+      { // Línea 19 - Outro
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Final ♫",
+          "en": "♫ Outro ♫"
+        },
+        "duration": 12.0,
+        "isMelody": true
+      }
     ]
   }
-  // Para añadir OTRA canción en el futuro, harías esto:
-  // , // <-- IMPORTANTE: Coma aquí si hay más canciones después
-  // "nombre_unico_otra_cancion": {
-  //   "title": "Título de la Otra Canción",
-  //   "artist": "Artista de la Otra Canción",
-  //   "cover_url": "...",
-  //   "language_names": { ... },
-  //   "lines": [
-  //     {
-  //       "original_char_pinyin": [ ... ],
-  //       "texts": { ... },
-  //       "duration": ...,
-  //       "isMelody": ...
-  //     },
-  //     // ... más líneas para la otra canción
-  //   ]
-  // }
 }
