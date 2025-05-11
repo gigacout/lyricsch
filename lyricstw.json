@@ -10,32 +10,179 @@
     },
     "lines": [
       {
-        "original_char_pinyin": [
-          { "char": "妈", "pinyin": "mā" }, { "char": "妈", "pinyin": "mā" }, { "char": "我", "pinyin": "wǒ" }, { "char": "想", "pinyin": "xiǎng" }, { "char": "你", "pinyin": "nǐ" }
-        ],
-        "texts": { "es": "Mamá, te extraño", "en": "Mom, I miss you", "zh-TW": "媽媽我想你" },
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "第", "pinyin": "dì" }, { "char": "一", "pinyin": "yī" }, { "char": "次", "pinyin": "cì" }, { "char": "睜", "pinyin": "zhēng" }, { "char": "開", "pinyin": "kāi" }, { "char": "眼", "pinyin": "yǎn" }, { "char": "睛", "pinyin": "jīng" }, { "char": " ", "pinyin": "" }, { "char": "看", "pinyin": "kàn" }, { "char": "見", "pinyin": "jiàn" }, { "char": "的", "pinyin": "de" }, { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "La primera vez que abrí los ojos, a quien vi fue a ti", "en": "The first time I opened my eyes, the one I saw was you", "zh-TW": "我第一次睜開眼睛 看見的是你" },
+        "duration": 5.5, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "第", "pinyin": "dì" }, { "char": "一", "pinyin": "yī" }, { "char": "次", "pinyin": "cì" }, { "char": "哭", "pinyin": "kū" }, { "char": "泣", "pinyin": "qì" }, { "char": " ", "pinyin": "" }, { "char": "為", "pinyin": "wèi" }, { "char": "我", "pinyin": "wǒ" }, { "char": "擦", "pinyin": "cā" }, { "char": "乾", "pinyin": "gān" }, { "char": "的", "pinyin": "de" }, { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "La primera vez que lloré, quien secó mis lágrimas fuiste tú", "en": "The first time I cried, the one who dried my tears was you", "zh-TW": "我第一次哭泣 為我擦乾的是你" },
+        "duration": 5.5, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "第", "pinyin": "dì" }, { "char": "一", "pinyin": "yī" }, { "char": "次", "pinyin": "cì" }, { "char": "跌", "pinyin": "diē" }, { "char": "倒", "pinyin": "dǎo" }, { "char": "時", "pinyin": "shí" }, { "char": " ", "pinyin": "" }, { "char": "攙", "pinyin": "chān" }, { "char": "扶", "pinyin": "fú" }, { "char": "的", "pinyin": "de" }, { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "La primera vez que caí, quien me ayudó a levantarme fuiste tú", "en": "The first time I fell, the one who helped me up was you", "zh-TW": "我第一次跌倒時 攙扶的是你" },
+        "duration": 5.5, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "第", "pinyin": "dì" }, { "char": "一", "pinyin": "yī" }, { "char": "次", "pinyin": "cì" }, { "char": "喊", "pinyin": "hǎn" }, { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "呀", "pinyin": "ya" }, { "char": " ", "pinyin": "" }, { "char": "最", "pinyin": "zuì" }, { "char": "開", "pinyin": "kāi" }, { "char": "心", "pinyin": "xīn" }, { "char": "的", "pinyin": "de" }, { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "La primera vez que grité 'mamá', la más feliz fuiste tú", "en": "The first time I called 'mama', the happiest one was you", "zh-TW": "我第一次喊媽媽呀 最開心的是你" },
+        "duration": 6.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "第", "pinyin": "dì" }, { "char": "一", "pinyin": "yī" }, { "char": "次", "pinyin": "cì" }, { "char": "離", "pinyin": "lí" }, { "char": "開", "pinyin": "kāi" }, { "char": "家", "pinyin": "jiā" }, { "char": " ", "pinyin": "" }, { "char": "送", "pinyin": "sòng" }, { "char": "我", "pinyin": "wǒ" }, { "char": "的", "pinyin": "de" }, { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "La primera vez que me fui de casa, quien me despidió fuiste tú", "en": "The first time I left home, the one who saw me off was you", "zh-TW": "我第一次離開家 送我的是你" },
+        "duration": 5.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "第", "pinyin": "dì" }, { "char": "一", "pinyin": "yī" }, { "char": "次", "pinyin": "cì" }, { "char": "有", "pinyin": "yǒu" }, { "char": "成", "pinyin": "chéng" }, { "char": "績", "pinyin": "jì" }, { "char": " ", "pinyin": "" }, { "char": "最", "pinyin": "zuì" }, { "char": "激", "pinyin": "jī" }, { "char": "動", "pinyin": "dòng" }, { "char": "的", "pinyin": "de" }, { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "La primera vez que tuve un logro, la más emocionada fuiste tú", "en": "The first time I had an achievement, the most excited one was you", "zh-TW": "我第一次有成績 最激動的是你" },
+        "duration": 6.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "第", "pinyin": "dì" }, { "char": "一", "pinyin": "yī" }, { "char": "次", "pinyin": "cì" }, { "char": "絕", "pinyin": "jué" }, { "char": "望", "pinyin": "wàng" }, { "char": "時", "pinyin": "shí" }, { "char": " ", "pinyin": "" }, { "char": "呼", "pinyin": "hū" }, { "char": "喚", "pinyin": "huàn" }, { "char": "的", "pinyin": "de" }, { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "La primera vez que desesperé, a quien llamé fue a ti", "en": "The first time I despaired, the one I called out to was you", "zh-TW": "我第一次絕望時 呼喚的是你" },
+        "duration": 5.5, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "第", "pinyin": "dì" }, { "char": "一", "pinyin": "yī" }, { "char": "次", "pinyin": "cì" }, { "char": "懂", "pinyin": "dǒng" }, { "char": "事", "pinyin": "shì" }, { "char": "時", "pinyin": "shí" }, { "char": " ", "pinyin": "" }, { "char": "誇", "pinyin": "kuā" }, { "char": "獎", "pinyin": "jiǎng" }, { "char": "的", "pinyin": "de" }, { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "La primera vez que fui sensato, quien me elogió fuiste tú", "en": "The first time I was sensible, the one who praised me was you", "zh-TW": "我第一次懂事時 誇獎的是你" },
+        "duration": 5.5, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "呀", "pinyin": "ya" }, { "char": " ", "pinyin": "" }, { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "呀", "pinyin": "ya" }, { "char": " ", "pinyin": "" }, { "char": "我", "pinyin": "wǒ" }, { "char": "想", "pinyin": "xiǎng" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "Mamá, mamá, te extraño", "en": "Mama, mama, I miss you", "zh-TW": "媽媽呀 媽媽呀 我想你" },
         "duration": 4.5, "isMelody": false
       },
       {
-        "original_char_pinyin": [
-          { "char": "我", "pinyin": "wǒ" }, { "char": "离", "pinyin": "lí" }, { "char": "开", "pinyin": "kāi" }, { "char": "了", "pinyin": "le" }, { "char": "你", "pinyin": "nǐ" }
-        ],
-        "texts": { "es": "Te dejé", "en": "I left you", "zh-TW": "我離開了你" },
-        "duration": 3.8, "isMelody": false
+        "original_char_pinyin": [ { "char": "沒", "pinyin": "méi" }, { "char": "有", "pinyin": "yǒu" }, { "char": "你", "pinyin": "nǐ" }, { "char": "的", "pinyin": "de" }, { "char": "夜", "pinyin": "yè" }, { "char": "裡", "pinyin": "lǐ" }, { "char": "我", "pinyin": "wǒ" }, { "char": "好", "pinyin": "hǎo" }, { "char": "孤", "pinyin": "gū" }, { "char": "寂", "pinyin": "jì" } ],
+        "texts": { "es": "En las noches sin ti, me siento tan solo", "en": "In the nights without you, I feel so lonely", "zh-TW": "沒有你的夜裡我好孤寂" },
+        "duration": 5.0, "isMelody": false
       },
       {
-        "original_char_pinyin": [
-          { "char": "也", "pinyin": "yě" }, { "char": "不", "pinyin": "bù" }, { "char": "是", "pinyin": "shì" }, { "char": "我", "pinyin": "wǒ" }, { "char": "愿", "pinyin": "yuàn" }, { "char": "意", "pinyin": "yì" }
-        ],
-        "texts": { "es": "Tampoco fue mi deseo", "en": "It wasn't my wish either", "zh-TW": "也不是我願意" },
-        "duration": 4.2, "isMelody": false
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "時", "pinyin": "shí" }, { "char": "常", "pinyin": "cháng" }, { "char": "時", "pinyin": "shí" }, { "char": "常", "pinyin": "cháng" }, { "char": "把", "pinyin": "bǎ" }, { "char": "你", "pinyin": "nǐ" }, { "char": "惦", "pinyin": "diàn" }, { "char": "記", "pinyin": "jì" } ],
+        "texts": { "es": "A menudo, a menudo pienso en ti", "en": "Often, often I think of you", "zh-TW": "我時常時常把你惦記" },
+        "duration": 5.0, "isMelody": false
       },
       {
-        "original_char_pinyin": [
-          { "char": "妈", "pinyin": "mā" }, { "char": "妈", "pinyin": "mā" }, { "char": "我", "pinyin": "wǒ" }, { "char": "想", "pinyin": "xiǎng" }, { "char": "你", "pinyin": "nǐ" }
-        ],
-        "texts": { "es": "Mamá, te extraño", "en": "Mom, I miss you", "zh-TW": "媽媽我想你" },
-        "duration": 4.0, "isMelody": false
+        "original_char_pinyin": [ { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "累", "pinyin": "lèi" }, { "char": "了", "pinyin": "le" }, { "char": " ", "pinyin": "" }, { "char": "你", "pinyin": "nǐ" }, { "char": "就", "pinyin": "jiù" }, { "char": "好", "pinyin": "hǎo" }, { "char": "好", "pinyin": "hǎo" }, { "char": "休", "pinyin": "xiū" }, { "char": "息", "pinyin": "xi" } ],
+        "texts": { "es": "Mamá, si estás cansada, descansa bien", "en": "Mama, if you're tired, please rest well", "zh-TW": "媽媽累了 你就好好休息" },
+        "duration": 5.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "呀", "pinyin": "ya" }, { "char": " ", "pinyin": "" }, { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "呀", "pinyin": "ya" }, { "char": " ", "pinyin": "" }, { "char": "我", "pinyin": "wǒ" }, { "char": "想", "pinyin": "xiǎng" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "Mamá, mamá, te extraño", "en": "Mama, mama, I miss you", "zh-TW": "媽媽呀 媽媽呀 我想你" },
+        "duration": 4.5, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "你", "pinyin": "nǐ" }, { "char": "走", "pinyin": "zǒu" }, { "char": "後", "pinyin": "hòu" }, { "char": "的", "pinyin": "de" }, { "char": "天", "pinyin": "tiān" }, { "char": "空", "pinyin": "kōng" }, { "char": "一", "pinyin": "yī" }, { "char": "直", "pinyin": "zhí" }, { "char": "下", "pinyin": "xià" }, { "char": "著", "pinyin": "zhe" }, { "char": "雨", "pinyin": "yǔ" } ],
+        "texts": { "es": "Desde que te fuiste, el cielo no ha dejado de llover", "en": "Since you left, the sky has been constantly raining", "zh-TW": "你走後的天空一直下著雨" },
+        "duration": 5.5, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "帶", "pinyin": "dài" }, { "char": "上", "pinyin": "shang" }, { "char": "你", "pinyin": "nǐ" }, { "char": "心", "pinyin": "xīn" }, { "char": "愛", "pinyin": "ài" }, { "char": "的", "pinyin": "de" }, { "char": "油", "pinyin": "yóu" }, { "char": "紙", "pinyin": "zhǐ" }, { "char": "傘", "pinyin": "sǎn" } ],
+        "texts": { "es": "Lleva contigo tu amado paraguas de papel de aceite", "en": "Take your beloved oil-paper umbrella with you", "zh-TW": "帶上你心愛的油紙傘" },
+        "duration": 5.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": " ", "pinyin": "" }, { "char": "你", "pinyin": "nǐ" }, { "char": "要", "pinyin": "yào" }, { "char": "照", "pinyin": "zhào" }, { "char": "顧", "pinyin": "gù" }, { "char": "自", "pinyin": "zì" }, { "char": "己", "pinyin": "jǐ" } ],
+        "texts": { "es": "Mamá, debes cuidarte", "en": "Mama, you must take care of yourself", "zh-TW": "媽媽 你要照顧自己" },
+        "duration": 5.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "呀", "pinyin": "ya" }, { "char": " ", "pinyin": "" }, { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "呀", "pinyin": "ya" }, { "char": " ", "pinyin": "" }, { "char": "我", "pinyin": "wǒ" }, { "char": "想", "pinyin": "xiǎng" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "Mamá, mamá, te extraño", "en": "Mama, mama, I miss you", "zh-TW": "媽媽呀 媽媽呀 我想你" },
+        "duration": 4.5, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" }, { "char": "讓", "pinyin": "ràng" }, { "char": "我", "pinyin": "wǒ" }, { "char": "鼓", "pinyin": "gǔ" }, { "char": "起", "pinyin": "qǐ" }, { "char": "了", "pinyin": "le" }, { "char": "勇", "pinyin": "yǒng" }, { "char": "氣", "pinyin": "qì" } ],
+        "texts": { "es": "Fuiste tú quien me dio el coraje", "en": "It was you who gave me courage", "zh-TW": "是你讓我鼓起了勇氣" },
+        "duration": 5.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": "約", "pinyin": "yuē" }, { "char": "好", "pinyin": "hǎo" }, { "char": "了", "pinyin": "le" }, { "char": "吧", "pinyin": "ba" }, { "char": " ", "pinyin": "" }, { "char": "約", "pinyin": "yuē" }, { "char": "好", "pinyin": "hǎo" }, { "char": "了", "pinyin": "le" }, { "char": "吧", "pinyin": "ba" }, { "char": " ", "pinyin": "" }, { "char": "來", "pinyin": "lái" }, { "char": "世", "pinyin": "shì" }, { "char": "在", "pinyin": "zài" }, { "char": "這", "pinyin": "zhè" }, { "char": "裡", "pinyin": "lǐ" }, { "char": "團", "pinyin": "tuán" }, { "char": "聚", "pinyin": "jù" } ],
+        "texts": { "es": "Lo prometimos, ¿verdad? Prometimos reunirnos aquí en la próxima vida", "en": "We made a promise, right? Promised to reunite here in the next life", "zh-TW": "我們約好了吧 約好了吧 來世在這裡團聚" },
+        "duration": 7.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "第", "pinyin": "dì" }, { "char": "一", "pinyin": "yī" }, { "char": "次", "pinyin": "cì" }, { "char": "離", "pinyin": "lí" }, { "char": "開", "pinyin": "kāi" }, { "char": "家", "pinyin": "jiā" }, { "char": " ", "pinyin": "" }, { "char": "送", "pinyin": "sòng" }, { "char": "我", "pinyin": "wǒ" }, { "char": "的", "pinyin": "de" }, { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "La primera vez que me fui de casa, quien me despidió fuiste tú", "en": "The first time I left home, the one who saw me off was you", "zh-TW": "我第一次離開家 送我的是你" },
+        "duration": 5.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "第", "pinyin": "dì" }, { "char": "一", "pinyin": "yī" }, { "char": "次", "pinyin": "cì" }, { "char": "有", "pinyin": "yǒu" }, { "char": "成", "pinyin": "chéng" }, { "char": "績", "pinyin": "jì" }, { "char": " ", "pinyin": "" }, { "char": "最", "pinyin": "zuì" }, { "char": "激", "pinyin": "jī" }, { "char": "動", "pinyin": "dòng" }, { "char": "的", "pinyin": "de" }, { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "La primera vez que tuve un logro, la más emocionada fuiste tú", "en": "The first time I had an achievement, the most excited one was you", "zh-TW": "我第一次有成績 最激動的是你" },
+        "duration": 6.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "第", "pinyin": "dì" }, { "char": "一", "pinyin": "yī" }, { "char": "次", "pinyin": "cì" }, { "char": "絕", "pinyin": "jué" }, { "char": "望", "pinyin": "wàng" }, { "char": "時", "pinyin": "shí" }, { "char": " ", "pinyin": "" }, { "char": "呼", "pinyin": "hū" }, { "char": "喚", "pinyin": "huàn" }, { "char": "的", "pinyin": "de" }, { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "La primera vez que desesperé, a quien llamé fue a ti", "en": "The first time I despaired, the one I called out to was you", "zh-TW": "我第一次絕望時 呼喚的是你" },
+        "duration": 5.5, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "第", "pinyin": "dì" }, { "char": "一", "pinyin": "yī" }, { "char": "次", "pinyin": "cì" }, { "char": "懂", "pinyin": "dǒng" }, { "char": "事", "pinyin": "shì" }, { "char": "時", "pinyin": "shí" }, { "char": " ", "pinyin": "" }, { "char": "誇", "pinyin": "kuā" }, { "char": "獎", "pinyin": "jiǎng" }, { "char": "的", "pinyin": "de" }, { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "La primera vez que fui sensato, quien me elogió fuiste tú", "en": "The first time I was sensible, the one who praised me was you", "zh-TW": "我第一次懂事時 誇獎的是你" },
+        "duration": 5.5, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "呀", "pinyin": "ya" }, { "char": " ", "pinyin": "" }, { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "呀", "pinyin": "ya" }, { "char": " ", "pinyin": "" }, { "char": "我", "pinyin": "wǒ" }, { "char": "想", "pinyin": "xiǎng" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "Mamá, mamá, te extraño", "en": "Mama, mama, I miss you", "zh-TW": "媽媽呀 媽媽呀 我想你" },
+        "duration": 4.5, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "沒", "pinyin": "méi" }, { "char": "有", "pinyin": "yǒu" }, { "char": "你", "pinyin": "nǐ" }, { "char": "的", "pinyin": "de" }, { "char": "夜", "pinyin": "yè" }, { "char": "裡", "pinyin": "lǐ" }, { "char": "我", "pinyin": "wǒ" }, { "char": "好", "pinyin": "hǎo" }, { "char": "孤", "pinyin": "gū" }, { "char": "寂", "pinyin": "jì" } ],
+        "texts": { "es": "En las noches sin ti, me siento tan solo", "en": "In the nights without you, I feel so lonely", "zh-TW": "沒有你的夜裡我好孤寂" },
+        "duration": 5.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "時", "pinyin": "shí" }, { "char": "常", "pinyin": "cháng" }, { "char": "時", "pinyin": "shí" }, { "char": "常", "pinyin": "cháng" }, { "char": "把", "pinyin": "bǎ" }, { "char": "你", "pinyin": "nǐ" }, { "char": "惦", "pinyin": "diàn" }, { "char": "記", "pinyin": "jì" } ],
+        "texts": { "es": "A menudo, a menudo pienso en ti", "en": "Often, often I think of you", "zh-TW": "我時常時常把你惦記" },
+        "duration": 5.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "累", "pinyin": "lèi" }, { "char": "了", "pinyin": "le" }, { "char": " ", "pinyin": "" }, { "char": "你", "pinyin": "nǐ" }, { "char": "就", "pinyin": "jiù" }, { "char": "好", "pinyin": "hǎo" }, { "char": "好", "pinyin": "hǎo" }, { "char": "休", "pinyin": "xiū" }, { "char": "息", "pinyin": "xi" } ],
+        "texts": { "es": "Mamá, si estás cansada, descansa bien", "en": "Mama, if you're tired, please rest well", "zh-TW": "媽媽累了 你就好好休息" },
+        "duration": 5.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "呀", "pinyin": "ya" }, { "char": " ", "pinyin": "" }, { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "呀", "pinyin": "ya" }, { "char": " ", "pinyin": "" }, { "char": "我", "pinyin": "wǒ" }, { "char": "想", "pinyin": "xiǎng" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "Mamá, mamá, te extraño", "en": "Mama, mama, I miss you", "zh-TW": "媽媽呀 媽媽呀 我想你" },
+        "duration": 4.5, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "你", "pinyin": "nǐ" }, { "char": "走", "pinyin": "zǒu" }, { "char": "後", "pinyin": "hòu" }, { "char": "的", "pinyin": "de" }, { "char": "天", "pinyin": "tiān" }, { "char": "空", "pinyin": "kōng" }, { "char": "一", "pinyin": "yī" }, { "char": "直", "pinyin": "zhí" }, { "char": "下", "pinyin": "xià" }, { "char": "著", "pinyin": "zhe" }, { "char": "雨", "pinyin": "yǔ" } ],
+        "texts": { "es": "Desde que te fuiste, el cielo no ha dejado de llover", "en": "Since you left, the sky has been constantly raining", "zh-TW": "你走後的天空一直下著雨" },
+        "duration": 5.5, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "帶", "pinyin": "dài" }, { "char": "上", "pinyin": "shang" }, { "char": "你", "pinyin": "nǐ" }, { "char": "心", "pinyin": "xīn" }, { "char": "愛", "pinyin": "ài" }, { "char": "的", "pinyin": "de" }, { "char": "油", "pinyin": "yóu" }, { "char": "紙", "pinyin": "zhǐ" }, { "char": "傘", "pinyin": "sǎn" } ],
+        "texts": { "es": "Lleva contigo tu amado paraguas de papel de aceite", "en": "Take your beloved oil-paper umbrella with you", "zh-TW": "帶上你心愛的油紙傘" },
+        "duration": 5.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": " ", "pinyin": "" }, { "char": "你", "pinyin": "nǐ" }, { "char": "要", "pinyin": "yào" }, { "char": "照", "pinyin": "zhào" }, { "char": "顧", "pinyin": "gù" }, { "char": "自", "pinyin": "zì" }, { "char": "己", "pinyin": "jǐ" } ],
+        "texts": { "es": "Mamá, debes cuidarte", "en": "Mama, you must take care of yourself", "zh-TW": "媽媽 你要照顧自己" },
+        "duration": 5.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "呀", "pinyin": "ya" }, { "char": " ", "pinyin": "" }, { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "呀", "pinyin": "ya" }, { "char": " ", "pinyin": "" }, { "char": "我", "pinyin": "wǒ" }, { "char": "想", "pinyin": "xiǎng" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "Mamá, mamá, te extraño", "en": "Mama, mama, I miss you", "zh-TW": "媽媽呀 媽媽呀 我想你" },
+        "duration": 4.5, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" }, { "char": "讓", "pinyin": "ràng" }, { "char": "我", "pinyin": "wǒ" }, { "char": "鼓", "pinyin": "gǔ" }, { "char": "起", "pinyin": "qǐ" }, { "char": "了", "pinyin": "le" }, { "char": "勇", "pinyin": "yǒng" }, { "char": "氣", "pinyin": "qì" } ],
+        "texts": { "es": "Fuiste tú quien me dio el coraje", "en": "It was you who gave me courage", "zh-TW": "是你讓我鼓起了勇氣" },
+        "duration": 5.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": "約", "pinyin": "yuē" }, { "char": "好", "pinyin": "hǎo" }, { "char": "了", "pinyin": "le" }, { "char": "吧", "pinyin": "ba" }, { "char": " ", "pinyin": "" }, { "char": "約", "pinyin": "yuē" }, { "char": "好", "pinyin": "hǎo" }, { "char": "了", "pinyin": "le" }, { "char": "吧", "pinyin": "ba" }, { "char": " ", "pinyin": "" }, { "char": "來", "pinyin": "lái" }, { "char": "世", "pinyin": "shì" }, { "char": "在", "pinyin": "zài" }, { "char": "這", "pinyin": "zhè" }, { "char": "裡", "pinyin": "lǐ" }, { "char": "團", "pinyin": "tuán" }, { "char": "聚", "pinyin": "jù" } ],
+        "texts": { "es": "Lo prometimos, ¿verdad? Prometimos reunirnos aquí en la próxima vida", "en": "We made a promise, right? Promised to reunite here in the next life", "zh-TW": "我們約好了吧 約好了吧 來世在這裡團聚" },
+        "duration": 7.0, "isMelody": false
+      },
+      {
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": "約", "pinyin": "yuē" }, { "char": "好", "pinyin": "hǎo" }, { "char": "了", "pinyin": "le" }, { "char": "嗎", "pinyin": "ma" }, { "char": " ", "pinyin": "" }, { "char": "約", "pinyin": "yuē" }, { "char": "好", "pinyin": "hǎo" }, { "char": "了", "pinyin": "le" }, { "char": "嗎", "pinyin": "ma" }, { "char": " ", "pinyin": "" }, { "char": "媽", "pinyin": "mā" }, { "char": "媽", "pinyin": "mā" }, { "char": "我", "pinyin": "wǒ" }, { "char": "在", "pinyin": "zài" }, { "char": "這", "pinyin": "zhè" }, { "char": "裡", "pinyin": "lǐ" }, { "char": "等", "pinyin": "děng" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "¿Lo prometimos? ¿Lo prometimos? Mamá, te espero aquí", "en": "Did we promise? Did we promise? Mama, I'm waiting for you here", "zh-TW": "我們約好了嗎 約好了嗎 媽媽我在這裡等你" },
+        "duration": 7.5, "isMelody": false
       }
     ]
   },
@@ -70,73 +217,25 @@
   "taohua_nuo_wangzaixiaoqiao": {
     "title": "桃花诺 (Táohuā Nuò)",
     "artist": "旺仔小喬 (Wang Zai Xiao Qiao)",
-    "cover_url": "URL_DE_TU_IMAGEN_DE_COVER_AQUI.jpg",
+    "cover_url": "https://i.ytimg.com/vi/5Y2VzX7X2b4/maxresdefault.jpg",
     "language_names": {
       "es": "Español",
       "en": "English",
       "zh-TW": "繁體中文 (Chino Tradicional)"
     },
     "lines": [
-      {
-        "original_char_pinyin": [ { "char": "花", "pinyin": "huā" }, { "char": "开", "pinyin": "kāi" }, { "char": "就", "pinyin": "jiù" }, { "char": "一次", "pinyin": "yīcì" }, { "char": "成", "pinyin": "chéng" }, { "char": "熟", "pinyin": "shú" } ],
-        "texts": { "es": "Las flores florecen, solo una vez maduran", "en": "Flowers bloom, only once they mature", "zh-TW": "花開就一次成熟" },
-        "duration": 4.0, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "却", "pinyin": "què" }, { "char": "错", "pinyin": "cuò" }, { "char": "过", "pinyin": "guò" } ],
-        "texts": { "es": "Pero yo me lo perdí", "en": "Yet I missed it", "zh-TW": "我卻錯過" },
-        "duration": 3.5, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [ { "char": "你", "pinyin": "nǐ" }, { "char": "的", "pinyin": "de" }, { "char": "回", "pinyin": "huí" }, { "char": "眸", "pinyin": "móu" }, { "char": "像", "pinyin": "xiàng" }, { "char": "流", "pinyin": "liú" }, { "char": "星", "pinyin": "xīng" }, { "char": "陨", "pinyin": "yǔn" }, { "char": "落", "pinyin": "luò" } ],
-        "texts": { "es": "Tu mirada hacia atrás, como una estrella fugaz cayendo", "en": "Your backward glance, like a shooting star falling", "zh-TW": "你的回眸像流星隕落" },
-        "duration": 5.0, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [ { "char": "太", "pinyin": "tài" }, { "char": "美", "pinyin": "měi" }, { "char": "的", "pinyin": "de" }, { "char": "画", "pinyin": "huà" }, { "char": "我", "pinyin": "wǒ" }, { "char": "不", "pinyin": "bù" }, { "char": "敢", "pinyin": "gǎn" }, { "char": "看", "pinyin": "kàn" } ],
-        "texts": { "es": "Una pintura demasiado hermosa, no me atrevo a mirar", "en": "A painting too beautiful, I dare not look", "zh-TW": "太美的畫我不敢看" },
-        "duration": 4.5, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [ { "char": "花", "pinyin": "huā" }, { "char": "开", "pinyin": "kāi" }, { "char": "花", "pinyin": "huā" }, { "char": "落", "pinyin": "luò" }, { "char": "总", "pinyin": "zǒng" }, { "char": "有", "pinyin": "yǒu" }, { "char": "时", "pinyin": "shí" } ],
-        "texts": { "es": "Las flores florecen y caen, siempre hay un momento", "en": "Flowers bloom and fall, there's always a time", "zh-TW": "花開花落總有時" },
-        "duration": 4.0, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [ { "char": "缘", "pinyin": "yuán" }, { "char": "起", "pinyin": "qǐ" }, { "char": "缘", "pinyin": "yuán" }, { "char": "灭", "pinyin": "miè" }, { "char": "无", "pinyin": "wú" }, { "char": "穷", "pinyin": "qióng" }, { "char": "已", "pinyin": "yǐ" } ],
-        "texts": { "es": "El destino comienza y termina, sin fin", "en": "Destiny begins and ends, endlessly", "zh-TW": "緣起緣滅無窮已" },
-        "duration": 4.5, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [ { "char": "等", "pinyin": "děng" }, { "char": "你", "pinyin": "nǐ" }, { "char": "的", "pinyin": "de" }, { "char": "消", "pinyin": "xiāo" }, { "char": "息", "pinyin": "xī" }, { "char": "我", "pinyin": "wǒ" }, { "char": "不", "pinyin": "bù" }, { "char": "再", "pinyin": "zài" }, { "问", "pinyin": "wèn" } ],
-        "texts": { "es": "Esperando tus noticias, ya no preguntaré", "en": "Waiting for your news, I'll no longer ask", "zh-TW": "等你的消息我不再問" },
-        "duration": 5.0, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [ { "char": "苦", "pinyin": "kǔ" }, { "char": "海", "pinyin": "hǎi" }, { "char": "的", "pinyin": "de" }, { "char": "爱", "pinyin": "ài" }, { "char": "恨", "pinyin": "hèn" }, { "char": "勿", "pinyin": "wù" }, { "char": "念", "pinyin": "niàn" }, { "char": "勿", "pinyin": "wù" }, { "char": "再", "pinyin": "zài" }, { "char": "寻", "pinyin": "xún" } ],
-        "texts": { "es": "El amor y el odio del mar amargo, no pienses, no busques más", "en": "The love and hate of the bitter sea, don't dwell, don't seek anymore", "zh-TW": "苦海的愛恨勿念勿再尋" },
-        "duration": 5.5, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [ { "char": "几", "pinyin": "jǐ" }, { "char": "番", "pinyin": "fān" }, { "char": "恩", "pinyin": "ēn" }, { "char": "怨", "pinyin": "yuàn" }, { "char": "都", "pinyin": "dōu" }, { "char": "罢", "pinyin": "bà" }, { "char": "了", "pinyin": "le" } ],
-        "texts": { "es": "Varias bondades y rencores, todo ha terminado", "en": "Several kindnesses and grudges, all have ended", "zh-TW": "幾番恩怨都罷了" },
-        "duration": 4.0, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "曾", "pinyin": "céng" }, { "char": "痴", "pinyin": "chī" }, { "char": "狂", "pinyin": "kuáng" }, { "char": "贪", "pinyin": "tān" }, { "char": "恋", "pinyin": "liàn" }, { "char": "你", "pinyin": "nǐ" } ],
-        "texts": { "es": "Una vez estuve locamente enamorado de ti", "en": "I was once madly in love with you", "zh-TW": "我曾痴狂貪戀你" },
-        "duration": 4.5, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [ { "char": "也", "pinyin": "yě" }, { "char": "曾", "pinyin": "céng" }, { "char": "将", "pinyin": "jiāng" }, { "char": "你", "pinyin": "nǐ" }, { "char": "藏", "pinyin": "cáng" }, { "char": "心", "pinyin": "xīn" }, { "char": "底", "pinyin": "dǐ" } ],
-        "texts": { "es": "También una vez te escondí en el fondo de mi corazón", "en": "I also once hid you in the bottom of my heart", "zh-TW": "也曾將你藏心底" },
-        "duration": 4.5, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [ { "char": "一", "pinyin": "yī" }, { "char": "寸", "pinyin": "cùn" }, { "char": "土", "pinyin": "tǔ" }, { "char": "一", "pinyin": "yī" }, { "char": "缕", "pinyin": "lǚ" }, { "char": "烟", "pinyin": "yān" }, { "char": "散", "pinyin": "sàn" }, { "char": "入", "pinyin": "rù" }, { "char": "云", "pinyin": "yún" }, { "char": "里", "pinyin": "lǐ" } ],
-        "texts": { "es": "Una pulgada de tierra, una hebra de humo, se dispersan entre las nubes", "en": "An inch of earth, a wisp of smoke, scatter into the clouds", "zh-TW": "一寸土一縷煙散入雲裡" },
-        "duration": 5.5, "isMelody": false
-      }
+      { "original_char_pinyin": [ { "char": "花", "pinyin": "huā" }, { "char": "开", "pinyin": "kāi" }, { "char": "就", "pinyin": "jiù" }, { "char": "一次", "pinyin": "yīcì" }, { "char": "成", "pinyin": "chéng" }, { "char": "熟", "pinyin": "shú" } ], "texts": { "es": "Las flores florecen, solo una vez maduran", "en": "Flowers bloom, only once they mature", "zh-TW": "花開就一次成熟" }, "duration": 4.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "却", "pinyin": "què" }, { "char": "错", "pinyin": "cuò" }, { "char": "过", "pinyin": "guò" } ], "texts": { "es": "Pero yo me lo perdí", "en": "Yet I missed it", "zh-TW": "我卻錯過" }, "duration": 3.5, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "你", "pinyin": "nǐ" }, { "char": "的", "pinyin": "de" }, { "char": "回", "pinyin": "huí" }, { "char": "眸", "pinyin": "móu" }, { "char": "像", "pinyin": "xiàng" }, { "char": "流", "pinyin": "liú" }, { "char": "星", "pinyin": "xīng" }, { "char": "陨", "pinyin": "yǔn" }, { "char": "落", "pinyin": "luò" } ], "texts": { "es": "Tu mirada hacia atrás, como una estrella fugaz cayendo", "en": "Your backward glance, like a shooting star falling", "zh-TW": "你的回眸像流星隕落" }, "duration": 5.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "太", "pinyin": "tài" }, { "char": "美", "pinyin": "měi" }, { "char": "的", "pinyin": "de" }, { "char": "画", "pinyin": "huà" }, { "char": "我", "pinyin": "wǒ" }, { "char": "不", "pinyin": "bù" }, { "char": "敢", "pinyin": "gǎn" }, { "char": "看", "pinyin": "kàn" } ], "texts": { "es": "Una pintura demasiado hermosa, no me atrevo a mirar", "en": "A painting too beautiful, I dare not look", "zh-TW": "太美的畫我不敢看" }, "duration": 4.5, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "花", "pinyin": "huā" }, { "char": "开", "pinyin": "kāi" }, { "char": "花", "pinyin": "huā" }, { "char": "落", "pinyin": "luò" }, { "char": "总", "pinyin": "zǒng" }, { "char": "有", "pinyin": "yǒu" }, { "char": "时", "pinyin": "shí" } ], "texts": { "es": "Las flores florecen y caen, siempre hay un momento", "en": "Flowers bloom and fall, there's always a time", "zh-TW": "花開花落總有時" }, "duration": 4.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "缘", "pinyin": "yuán" }, { "char": "起", "pinyin": "qǐ" }, { "char": "缘", "pinyin": "yuán" }, { "char": "灭", "pinyin": "miè" }, { "char": "无", "pinyin": "wú" }, { "char": "穷", "pinyin": "qióng" }, { "char": "已", "pinyin": "yǐ" } ], "texts": { "es": "El destino comienza y termina, sin fin", "en": "Destiny begins and ends, endlessly", "zh-TW": "緣起緣滅無窮已" }, "duration": 4.5, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "等", "pinyin": "děng" }, { "char": "你", "pinyin": "nǐ" }, { "char": "的", "pinyin": "de" }, { "char": "消", "pinyin": "xiāo" }, { "char": "息", "pinyin": "xī" }, { "char": "我", "pinyin": "wǒ" }, { "char": "不", "pinyin": "bù" }, { "char": "再", "pinyin": "zài" }, { "char": "问", "pinyin": "wèn" } ], "texts": { "es": "Esperando tus noticias, ya no preguntaré", "en": "Waiting for your news, I'll no longer ask", "zh-TW": "等你的消息我不再問" }, "duration": 5.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "苦", "pinyin": "kǔ" }, { "char": "海", "pinyin": "hǎi" }, { "char": "的", "pinyin": "de" }, { "char": "爱", "pinyin": "ài" }, { "char": "恨", "pinyin": "hèn" }, { "char": "勿", "pinyin": "wù" }, { "char": "念", "pinyin": "niàn" }, { "char": "勿", "pinyin": "wù" }, { "char": "再", "pinyin": "zài" }, { "char": "寻", "pinyin": "xún" } ], "texts": { "es": "El amor y el odio del mar amargo, no pienses, no busques más", "en": "The love and hate of the bitter sea, don't dwell, don't seek anymore", "zh-TW": "苦海的愛恨勿念勿再尋" }, "duration": 5.5, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "几", "pinyin": "jǐ" }, { "char": "番", "pinyin": "fān" }, { "char": "恩", "pinyin": "ēn" }, { "char": "怨", "pinyin": "yuàn" }, { "char": "都", "pinyin": "dōu" }, { "char": "罢", "pinyin": "bà" }, { "char": "了", "pinyin": "le" } ], "texts": { "es": "Varias bondades y rencores, todo ha terminado", "en": "Several kindnesses and grudges, all have ended", "zh-TW": "幾番恩怨都罷了" }, "duration": 4.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "曾", "pinyin": "céng" }, { "char": "痴", "pinyin": "chī" }, { "char": "狂", "pinyin": "kuáng" }, { "char": "贪", "pinyin": "tān" }, { "char": "恋", "pinyin": "liàn" }, { "char": "你", "pinyin": "nǐ" } ], "texts": { "es": "Una vez estuve locamente enamorado de ti", "en": "I was once madly in love with you", "zh-TW": "我曾痴狂貪戀你" }, "duration": 4.5, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "也", "pinyin": "yě" }, { "char": "曾", "pinyin": "céng" }, { "char": "将", "pinyin": "jiāng" }, { "char": "你", "pinyin": "nǐ" }, { "char": "藏", "pinyin": "cáng" }, { "char": "心", "pinyin": "xīn" }, { "char": "底", "pinyin": "dǐ" } ], "texts": { "es": "También una vez te escondí en el fondo de mi corazón", "en": "I also once hid you in the bottom of my heart", "zh-TW": "也曾將你藏心底" }, "duration": 4.5, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "一", "pinyin": "yī" }, { "char": "寸", "pinyin": "cùn" }, { "char": "土", "pinyin": "tǔ" }, { "char": "一", "pinyin": "yī" }, { "char": "缕", "pinyin": "lǚ" }, { "char": "烟", "pinyin": "yān" }, { "char": "散", "pinyin": "sàn" }, { "char": "入", "pinyin": "rù" }, { "char": "云", "pinyin": "yún" }, { "char": "里", "pinyin": "lǐ" } ], "texts": { "es": "Una pulgada de tierra, una hebra de humo, se dispersan entre las nubes", "en": "An inch of earth, a wisp of smoke, scatter into the clouds", "zh-TW": "一寸土一縷煙散入雲裡" }, "duration": 5.5, "isMelody": false }
     ]
   }
 }
