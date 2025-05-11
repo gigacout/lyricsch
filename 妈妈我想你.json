@@ -1,8 +1,8 @@
 {
-  "mama_wo_xiang_ni_example": {
-    "title": "妈妈我想你",
-    "artist": "Artista Ejemplo (Ej. 龍飄飄 / Long Piao Piao)",
-    "cover_url": "https://direccion.a.tu.imagen.de.cover.jpg",
+  "mama_wo_xiang_ni_longpiao": {
+    "title": "媽媽我想你",
+    "artist": "龍飄飄 (Long Piao Piao)",
+    "cover_url": "https://i.ytimg.com/vi/0q486TbH13E/maxresdefault.jpg",
     "language_names": {
       "es": "Español",
       "en": "English",
@@ -11,8 +11,8 @@
     "lines": [
       {
         "original_char_pinyin": [
-          { "char": "妈", "pinyin": "mā" },
-          { "char": "妈", "pinyin": "mā" },
+          { "char": "媽", "pinyin": "mā" },
+          { "char": "媽", "pinyin": "mā" },
           { "char": "我", "pinyin": "wǒ" },
           { "char": "想", "pinyin": "xiǎng" },
           { "char": "你", "pinyin": "nǐ" }
@@ -28,8 +28,8 @@
       {
         "original_char_pinyin": [
           { "char": "我", "pinyin": "wǒ" },
-          { "char": "离", "pinyin": "lí" },
-          { "char": "开", "pinyin": "kāi" },
+          { "char": "離", "pinyin": "lí" },
+          { "char": "開", "pinyin": "kāi" },
           { "char": "了", "pinyin": "le" },
           { "char": "你", "pinyin": "nǐ" }
         ],
@@ -47,7 +47,7 @@
           { "char": "不", "pinyin": "bù" },
           { "char": "是", "pinyin": "shì" },
           { "char": "我", "pinyin": "wǒ" },
-          { "char": "愿", "pinyin": "yuàn" },
+          { "char": "願", "pinyin": "yuàn" },
           { "char": "意", "pinyin": "yì" }
         ],
         "texts": {
@@ -60,8 +60,8 @@
       },
       {
         "original_char_pinyin": [
-          { "char": "妈", "pinyin": "mā" },
-          { "char": "妈", "pinyin": "mā" },
+          { "char": "媽", "pinyin": "mā" },
+          { "char": "媽", "pinyin": "mā" },
           { "char": "我", "pinyin": "wǒ" },
           { "char": "想", "pinyin": "xiǎng" },
           { "char": "你", "pinyin": "nǐ" }
@@ -74,30 +74,24 @@
         "duration": 4.0,
         "isMelody": false
       }
-      // ... puedes continuar con más líneas de la canción ...
-      // Ejemplo de una línea más larga para ver el ajuste:
-      // {
-      //   "original_char_pinyin": [
-      //     { "char": "每", "pinyin": "měi" },
-      //     { "char": "当", "pinyin": "dāng" },
-      //     { "char": "我", "pinyin": "wǒ" },
-      //     { "char": "想", "pinyin": "xiǎng" },
-      //     { "char": "起", "pinyin": "qǐ" },
-      //     { "char": "你", "pinyin": "nǐ" },
-      //     { "char": "的", "pinyin": "de" },
-      //     { "char": "时", "pinyin": "shí" },
-      //     { "char": "候", "pinyin": "hòu" }
-      //   ],
-      //   "texts": {
-      //     "es": "Cada vez que pienso en ti",
-      //     "en": "Every time I think of you",
-      //     "zh-TW": "每當我想起你的時候"
-      //   },
-      //   "duration": 5.5,
-      //   "isMelody": false
-      // }
+      // ... Aquí puedes añadir más líneas de esta canción si las tienes ...
     ]
   }
-  // Puedes añadir más canciones aquí, separadas por comas si este es el único objeto en el archivo,
-  // o como más propiedades del objeto principal si tu `song_data.json` es un objeto de objetos.
+  // Para añadir OTRA canción en el futuro, harías esto:
+  // , // <-- IMPORTANTE: Coma aquí si hay más canciones después
+  // "nombre_unico_otra_cancion": {
+  //   "title": "Título de la Otra Canción",
+  //   "artist": "Artista de la Otra Canción",
+  //   "cover_url": "...",
+  //   "language_names": { ... },
+  //   "lines": [
+  //     {
+  //       "original_char_pinyin": [ ... ],
+  //       "texts": { ... },
+  //       "duration": ...,
+  //       "isMelody": ...
+  //     },
+  //     // ... más líneas para la otra canción
+  //   ]
+  // }
 }
