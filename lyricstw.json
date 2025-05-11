@@ -11,68 +11,31 @@
     "lines": [
       {
         "original_char_pinyin": [
-          { "char": "妈", "pinyin": "mā" },
-          { "char": "妈", "pinyin": "mā" },
-          { "char": "我", "pinyin": "wǒ" },
-          { "char": "想", "pinyin": "xiǎng" },
-          { "char": "你", "pinyin": "nǐ" }
+          { "char": "妈", "pinyin": "mā" }, { "char": "妈", "pinyin": "mā" }, { "char": "我", "pinyin": "wǒ" }, { "char": "想", "pinyin": "xiǎng" }, { "char": "你", "pinyin": "nǐ" }
         ],
-        "texts": {
-          "es": "Mamá, te extraño",
-          "en": "Mom, I miss you",
-          "zh-TW": "媽媽我想你"
-        },
-        "duration": 4.5,
-        "isMelody": false
+        "texts": { "es": "Mamá, te extraño", "en": "Mom, I miss you", "zh-TW": "媽媽我想你" },
+        "duration": 4.5, "isMelody": false
       },
       {
         "original_char_pinyin": [
-          { "char": "我", "pinyin": "wǒ" },
-          { "char": "离", "pinyin": "lí" },
-          { "char": "开", "pinyin": "kāi" },
-          { "char": "了", "pinyin": "le" },
-          { "char": "你", "pinyin": "nǐ" }
+          { "char": "我", "pinyin": "wǒ" }, { "char": "离", "pinyin": "lí" }, { "char": "开", "pinyin": "kāi" }, { "char": "了", "pinyin": "le" }, { "char": "你", "pinyin": "nǐ" }
         ],
-        "texts": {
-          "es": "Te dejé",
-          "en": "I left you",
-          "zh-TW": "我離開了你"
-        },
-        "duration": 3.8,
-        "isMelody": false
+        "texts": { "es": "Te dejé", "en": "I left you", "zh-TW": "我離開了你" },
+        "duration": 3.8, "isMelody": false
       },
       {
         "original_char_pinyin": [
-          { "char": "也", "pinyin": "yě" },
-          { "char": "不", "pinyin": "bù" },
-          { "char": "是", "pinyin": "shì" },
-          { "char": "我", "pinyin": "wǒ" },
-          { "char": "愿", "pinyin": "yuàn" },
-          { "char": "意", "pinyin": "yì" }
+          { "char": "也", "pinyin": "yě" }, { "char": "不", "pinyin": "bù" }, { "char": "是", "pinyin": "shì" }, { "char": "我", "pinyin": "wǒ" }, { "char": "愿", "pinyin": "yuàn" }, { "char": "意", "pinyin": "yì" }
         ],
-        "texts": {
-          "es": "Tampoco fue mi deseo",
-          "en": "It wasn't my wish either",
-          "zh-TW": "也不是我願意"
-        },
-        "duration": 4.2,
-        "isMelody": false
+        "texts": { "es": "Tampoco fue mi deseo", "en": "It wasn't my wish either", "zh-TW": "也不是我願意" },
+        "duration": 4.2, "isMelody": false
       },
       {
         "original_char_pinyin": [
-          { "char": "妈", "pinyin": "mā" },
-          { "char": "妈", "pinyin": "mā" },
-          { "char": "我", "pinyin": "wǒ" },
-          { "char": "想", "pinyin": "xiǎng" },
-          { "char": "你", "pinyin": "nǐ" }
+          { "char": "妈", "pinyin": "mā" }, { "char": "妈", "pinyin": "mā" }, { "char": "我", "pinyin": "wǒ" }, { "char": "想", "pinyin": "xiǎng" }, { "char": "你", "pinyin": "nǐ" }
         ],
-        "texts": {
-          "es": "Mamá, te extraño",
-          "en": "Mom, I miss you",
-          "zh-TW": "媽媽我想你"
-        },
-        "duration": 4.0,
-        "isMelody": false
+        "texts": { "es": "Mamá, te extraño", "en": "Mom, I miss you", "zh-TW": "媽媽我想你" },
+        "duration": 4.0, "isMelody": false
       }
     ]
   },
@@ -80,303 +43,99 @@
     "title": "甜蜜蜜 (Tian Mi Mi)",
     "artist": "鄧麗君 (Teresa Teng)",
     "cover_url": "https://e.snmc.io/i/1200/s/70b0a8f093859685f0f7e7821f2c8614/3479129",
+    "language_names": { "es": "Español", "en": "English", "zh-CN": "简体中文 (Chino Simplificado)", "zh-TW": "繁體中文 (Chino Tradicional)" },
+    "lines": [
+      { "original_char_pinyin": [], "texts": { "es": "♫ Intro ♫", "en": "♫ Intro ♫" }, "duration": 5.0, "isMelody": true },
+      { "original_char_pinyin": [ { "char": "甜", "pinyin": "tián" }, { "char": "蜜", "pinyin": "mì" }, { "char": "蜜", "pinyin": "mì" } ], "texts": { "es": "Tan dulce", "en": "So sweet", "zh-CN": "甜蜜蜜", "zh-TW": "甜蜜蜜" }, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "你", "pinyin": "nǐ" }, { "char": "笑", "pinyin": "xiào" }, { "char": "得", "pinyin": "de" }, { "char": "甜", "pinyin": "tián" }, { "char": "蜜", "pinyin": "mì" }, { "char": "蜜", "pinyin": "mì" } ], "texts": { "es": "Sonríes tan dulcemente", "en": "Your smile is so sweet", "zh-CN": "你笑得甜蜜蜜", "zh-TW": "你笑得甜蜜蜜" }, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "好", "pinyin": "hǎo" }, { "char": "像", "pinyin": "xiàng" }, { "char": "花", "pinyin": "huā" }, { "char": "兒", "pinyin": "ér" }, { "char": "開", "pinyin": "kāi" }, { "char": "在", "pinyin": "zài" }, { "char": "春", "pinyin": "chūn" }, { "char": "風", "pinyin": "fēng" }, { "char": "裡", "pinyin": "lǐ" } ], "texts": { "es": "Como flores abriéndose en la brisa primaveral", "en": "Like flowers blooming in the spring breeze", "zh-CN": "好像花儿开在春风里", "zh-TW": "好像花兒開在春風裡" }, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "開", "pinyin": "kāi" }, { "char": "在", "pinyin": "zài" }, { "char": "春", "pinyin": "chūn" }, { "char": "風", "pinyin": "fēng" }, { "char": "裡", "pinyin": "lǐ" } ], "texts": { "es": "Abriéndose en la brisa primaveral", "en": "Blooming in the spring breeze", "zh-CN": "开在春风里", "zh-TW": "開在春風裡" }, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [], "texts": { "es": "♫ Pausa 1 ♫", "en": "♫ Break 1 ♫" }, "duration": 4.0, "isMelody": true },
+      { "original_char_pinyin": [ { "char": "在", "pinyin": "zài" }, { "char": "哪", "pinyin": "nǎ" }, { "char": "裡", "pinyin": "lǐ" }, { "char": " ", "pinyin": "" }, { "char": "在", "pinyin": "zài" }, { "char": "哪", "pinyin": "nǎ" }, { "char": "裡", "pinyin": "lǐ" }, { "char": "見", "pinyin": "jiàn" }, { "char": "過", "pinyin": "guo" }, { "char": "你", "pinyin": "nǐ" } ], "texts": { "es": "¿Dónde, dónde te he visto antes?", "en": "Where, where have I seen you before?", "zh-CN": "在哪里 在哪里见过你", "zh-TW": "在哪裡 在哪裡見過你" }, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "你", "pinyin": "nǐ" }, { "char": "的", "pinyin": "de" }, { "char": "笑", "pinyin": "xiào" }, { "char": "容", "pinyin": "róng" }, { "char": "這", "pinyin": "zhè" }, { "char": "樣", "pinyin": "yàng" }, { "char": "熟", "pinyin": "shú" }, { "char": "悉", "pinyin": "xī" } ], "texts": { "es": "Tu sonrisa me es tan familiar", "en": "Your smile is so familiar", "zh-CN": "你的笑容这样熟悉", "zh-TW": "你的笑容這樣熟悉" }, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "一", "pinyin": "yī" }, { "char": "時", "pinyin": "shí" }, { "char": "想", "pinyin": "xiǎng" }, { "char": "不", "pinyin": "bù" }, { "char": "起", "pinyin": "qǐ" } ], "texts": { "es": "No puedo recordarlo ahora mismo", "en": "I can't recall right now", "zh-CN": "我一时想不起", "zh-TW": "我一時想不起" }, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "啊", "pinyin": "ā" }, { "char": "～", "pinyin": "" }, { "char": " ", "pinyin": "" }, { "char": "在", "pinyin": "zài" }, { "char": "夢", "pinyin": "mèng" }, { "char": "裡", "pinyin": "lǐ" } ], "texts": { "es": "Ah~ En un sueño", "en": "Ah~ In a dream", "zh-CN": "啊～ 在梦里", "zh-TW": "啊～ 在夢裡" }, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [], "texts": { "es": "♫ Pausa 2 ♫", "en": "♫ Break 2 ♫" }, "duration": 4.0, "isMelody": true },
+      { "original_char_pinyin": [ { "char": "夢", "pinyin": "mèng" }, { "char": "裡", "pinyin": "lǐ" }, { "char": " ", "pinyin": "" }, { "char": "夢", "pinyin": "mèng" }, { "char": "裡", "pinyin": "lǐ" }, { "char": "見", "pinyin": "jiàn" }, { "char": "過", "pinyin": "guo" }, { "char": "你", "pinyin": "nǐ" } ], "texts": { "es": "En un sueño, te vi en un sueño", "en": "In a dream, I saw you in a dream", "zh-CN": "梦里 梦里见过你", "zh-TW": "夢裡 夢裡見過你" }, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "甜", "pinyin": "tián" }, { "char": "蜜", "pinyin": "mì" }, { "char": " ", "pinyin": "" }, { "char": "笑", "pinyin": "xiào" }, { "char": "得", "pinyin": "de" }, { "char": "多", "pinyin": "duō" }, { "char": "甜", "pinyin": "tián" }, { "char": "蜜", "pinyin": "mì" } ], "texts": { "es": "Dulce, sonriendo tan dulcemente", "en": "Sweet, smiling so sweetly", "zh-CN": "甜蜜 笑得多甜蜜", "zh-TW": "甜蜜 笑得多甜蜜" }, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" }, { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" }, { "char": " ", "pinyin": "" }, { "char": "夢", "pinyin": "mèng" }, { "char": "見", "pinyin": "jiàn" }, { "char": "的", "pinyin": "de" }, { "char": "就", "pinyin": "jiù" }, { "char": "是", "pinyin": "shì" }, { "char": "你", "pinyin": "nǐ" } ], "texts": { "es": "Eres tú, eres tú, con quien soñé eres tú", "en": "It's you, it's you, the one I dreamt of is you", "zh-CN": "是你 是你 梦见的就是你", "zh-TW": "是你是你 夢見的就是你" }, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [], "texts": { "es": "♫ Pausa 3 ♫", "en": "♫ Break 3 ♫" }, "duration": 4.0, "isMelody": true },
+      { "original_char_pinyin": [ { "char": "在", "pinyin": "zài" }, { "char": "哪", "pinyin": "nǎ" }, { "char": "裡", "pinyin": "lǐ" }, { "char": " ", "pinyin": "" }, { "char": "在", "pinyin": "zài" }, { "char": "哪", "pinyin": "nǎ" }, { "char": "裡", "pinyin": "lǐ" }, { "char": "見", "pinyin": "jiàn" }, { "char": "過", "pinyin": "guo" }, { "char": "你", "pinyin": "nǐ" } ], "texts": { "es": "¿Dónde, dónde te he visto antes?", "en": "Where, where have I seen you before?", "zh-CN": "在哪里 在哪里见过你", "zh-TW": "在哪裡 在哪裡見過你"}, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "你", "pinyin": "nǐ" }, { "char": "的", "pinyin": "de" }, { "char": "笑", "pinyin": "xiào" }, { "char": "容", "pinyin": "róng" }, { "char": "這", "pinyin": "zhè" }, { "char": "樣", "pinyin": "yàng" }, { "char": "熟", "pinyin": "shú" }, { "char": "悉", "pinyin": "xī" } ], "texts": { "es": "Tu sonrisa me es tan familiar", "en": "Your smile is so familiar", "zh-CN": "你的笑容这样熟悉", "zh-TW": "你的笑容這樣熟悉"}, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "一", "pinyin": "yī" }, { "char": "時", "pinyin": "shí" }, { "char": "想", "pinyin": "xiǎng" }, { "char": "不", "pinyin": "bù" }, { "char": "起", "pinyin": "qǐ" } ], "texts": { "es": "No puedo recordarlo ahora mismo", "en": "I can't recall right now", "zh-CN": "我一时想不起", "zh-TW": "我一時想不起" }, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [ { "char": "啊", "pinyin": "ā" }, { "char": "～", "pinyin": "" }, { "char": " ", "pinyin": "" }, { "char": "在", "pinyin": "zài" }, { "char": "夢", "pinyin": "mèng" }, { "char": "裡", "pinyin": "lǐ" } ], "texts": { "es": "Ah~ En un sueño", "en": "Ah~ In a dream", "zh-CN": "啊～ 在梦里", "zh-TW": "啊～ 在夢裡"}, "duration": 3.0, "isMelody": false },
+      { "original_char_pinyin": [], "texts": { "es": "♫ Final ♫", "en": "♫ Outro ♫" }, "duration": 12.0, "isMelody": true }
+    ]
+  },
+  "taohua_nuo_wangzaixiaoqiao": {
+    "title": "桃花诺 (Táohuā Nuò)",
+    "artist": "旺仔小喬 (Wang Zai Xiao Qiao)",
+    "cover_url": "URL_DE_TU_IMAGEN_DE_COVER_AQUI.jpg",
     "language_names": {
       "es": "Español",
       "en": "English",
-      "zh-CN": "简体中文 (Chino Simplificado)",
       "zh-TW": "繁體中文 (Chino Tradicional)"
     },
     "lines": [
       {
-        "original_char_pinyin": [],
-        "texts": {
-          "es": "♫ Intro ♫",
-          "en": "♫ Intro ♫"
-        },
-        "duration": 5.0,
-        "isMelody": true
+        "original_char_pinyin": [ { "char": "花", "pinyin": "huā" }, { "char": "开", "pinyin": "kāi" }, { "char": "就", "pinyin": "jiù" }, { "char": "一次", "pinyin": "yīcì" }, { "char": "成", "pinyin": "chéng" }, { "char": "熟", "pinyin": "shú" } ],
+        "texts": { "es": "Las flores florecen, solo una vez maduran", "en": "Flowers bloom, only once they mature", "zh-TW": "花開就一次成熟" },
+        "duration": 4.0, "isMelody": false
       },
       {
-        "original_char_pinyin": [
-          { "char": "甜", "pinyin": "tián" },
-          { "char": "蜜", "pinyin": "mì" },
-          { "char": "蜜", "pinyin": "mì" }
-        ],
-        "texts": {
-          "es": "Tan dulce",
-          "en": "So sweet",
-          "zh-CN": "甜蜜蜜",
-          "zh-TW": "甜蜜蜜"
-        },
-        "duration": 3.0,
-        "isMelody": false
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "却", "pinyin": "què" }, { "char": "错", "pinyin": "cuò" }, { "char": "过", "pinyin": "guò" } ],
+        "texts": { "es": "Pero yo me lo perdí", "en": "Yet I missed it", "zh-TW": "我卻錯過" },
+        "duration": 3.5, "isMelody": false
       },
       {
-        "original_char_pinyin": [
-          { "char": "你", "pinyin": "nǐ" },
-          { "char": "笑", "pinyin": "xiào" },
-          { "char": "得", "pinyin": "de" },
-          { "char": "甜", "pinyin": "tián" },
-          { "char": "蜜", "pinyin": "mì" },
-          { "char": "蜜", "pinyin": "mì" }
-        ],
-        "texts": {
-          "es": "Sonríes tan dulcemente",
-          "en": "Your smile is so sweet",
-          "zh-CN": "你笑得甜蜜蜜",
-          "zh-TW": "你笑得甜蜜蜜"
-        },
-        "duration": 3.0,
-        "isMelody": false
+        "original_char_pinyin": [ { "char": "你", "pinyin": "nǐ" }, { "char": "的", "pinyin": "de" }, { "char": "回", "pinyin": "huí" }, { "char": "眸", "pinyin": "móu" }, { "char": "像", "pinyin": "xiàng" }, { "char": "流", "pinyin": "liú" }, { "char": "星", "pinyin": "xīng" }, { "char": "陨", "pinyin": "yǔn" }, { "char": "落", "pinyin": "luò" } ],
+        "texts": { "es": "Tu mirada hacia atrás, como una estrella fugaz cayendo", "en": "Your backward glance, like a shooting star falling", "zh-TW": "你的回眸像流星隕落" },
+        "duration": 5.0, "isMelody": false
       },
       {
-        "original_char_pinyin": [
-          { "char": "好", "pinyin": "hǎo" },
-          { "char": "像", "pinyin": "xiàng" },
-          { "char": "花", "pinyin": "huā" },
-          { "char": "兒", "pinyin": "ér" },
-          { "char": "開", "pinyin": "kāi" },
-          { "char": "在", "pinyin": "zài" },
-          { "char": "春", "pinyin": "chūn" },
-          { "char": "風", "pinyin": "fēng" },
-          { "char": "裡", "pinyin": "lǐ" }
-        ],
-        "texts": {
-          "es": "Como flores abriéndose en la brisa primaveral",
-          "en": "Like flowers blooming in the spring breeze",
-          "zh-CN": "好像花儿开在春风里",
-          "zh-TW": "好像花兒開在春風裡"
-        },
-        "duration": 3.0,
-        "isMelody": false
+        "original_char_pinyin": [ { "char": "太", "pinyin": "tài" }, { "char": "美", "pinyin": "měi" }, { "char": "的", "pinyin": "de" }, { "char": "画", "pinyin": "huà" }, { "char": "我", "pinyin": "wǒ" }, { "char": "不", "pinyin": "bù" }, { "char": "敢", "pinyin": "gǎn" }, { "char": "看", "pinyin": "kàn" } ],
+        "texts": { "es": "Una pintura demasiado hermosa, no me atrevo a mirar", "en": "A painting too beautiful, I dare not look", "zh-TW": "太美的畫我不敢看" },
+        "duration": 4.5, "isMelody": false
       },
       {
-        "original_char_pinyin": [
-          { "char": "開", "pinyin": "kāi" },
-          { "char": "在", "pinyin": "zài" },
-          { "char": "春", "pinyin": "chūn" },
-          { "char": "風", "pinyin": "fēng" },
-          { "char": "裡", "pinyin": "lǐ" }
-        ],
-        "texts": {
-          "es": "Abriéndose en la brisa primaveral",
-          "en": "Blooming in the spring breeze",
-          "zh-CN": "开在春风里",
-          "zh-TW": "開在春風裡"
-        },
-        "duration": 3.0,
-        "isMelody": false
+        "original_char_pinyin": [ { "char": "花", "pinyin": "huā" }, { "char": "开", "pinyin": "kāi" }, { "char": "花", "pinyin": "huā" }, { "char": "落", "pinyin": "luò" }, { "char": "总", "pinyin": "zǒng" }, { "char": "有", "pinyin": "yǒu" }, { "char": "时", "pinyin": "shí" } ],
+        "texts": { "es": "Las flores florecen y caen, siempre hay un momento", "en": "Flowers bloom and fall, there's always a time", "zh-TW": "花開花落總有時" },
+        "duration": 4.0, "isMelody": false
       },
       {
-        "original_char_pinyin": [],
-        "texts": {
-          "es": "♫ Pausa 1 ♫",
-          "en": "♫ Break 1 ♫"
-        },
-        "duration": 4.0,
-        "isMelody": true
+        "original_char_pinyin": [ { "char": "缘", "pinyin": "yuán" }, { "char": "起", "pinyin": "qǐ" }, { "char": "缘", "pinyin": "yuán" }, { "char": "灭", "pinyin": "miè" }, { "char": "无", "pinyin": "wú" }, { "char": "穷", "pinyin": "qióng" }, { "char": "已", "pinyin": "yǐ" } ],
+        "texts": { "es": "El destino comienza y termina, sin fin", "en": "Destiny begins and ends, endlessly", "zh-TW": "緣起緣滅無窮已" },
+        "duration": 4.5, "isMelody": false
       },
       {
-        "original_char_pinyin": [
-          { "char": "在", "pinyin": "zài" },
-          { "char": "哪", "pinyin": "nǎ" },
-          { "char": "裡", "pinyin": "lǐ" },
-          { "char": " ", "pinyin": "" },
-          { "char": "在", "pinyin": "zài" },
-          { "char": "哪", "pinyin": "nǎ" },
-          { "char": "裡", "pinyin": "lǐ" },
-          { "char": "見", "pinyin": "jiàn" },
-          { "char": "過", "pinyin": "guo" },
-          { "char": "你", "pinyin": "nǐ" }
-        ],
-        "texts": {
-          "es": "¿Dónde, dónde te he visto antes?",
-          "en": "Where, where have I seen you before?",
-          "zh-CN": "在哪里 在哪里见过你",
-          "zh-TW": "在哪裡 在哪裡見過你"
-        },
-        "duration": 3.0,
-        "isMelody": false
+        "original_char_pinyin": [ { "char": "等", "pinyin": "děng" }, { "char": "你", "pinyin": "nǐ" }, { "char": "的", "pinyin": "de" }, { "char": "消", "pinyin": "xiāo" }, { "char": "息", "pinyin": "xī" }, { "char": "我", "pinyin": "wǒ" }, { "char": "不", "pinyin": "bù" }, { "char": "再", "pinyin": "zài" }, { "问", "pinyin": "wèn" } ],
+        "texts": { "es": "Esperando tus noticias, ya no preguntaré", "en": "Waiting for your news, I'll no longer ask", "zh-TW": "等你的消息我不再問" },
+        "duration": 5.0, "isMelody": false
       },
       {
-        "original_char_pinyin": [
-          { "char": "你", "pinyin": "nǐ" },
-          { "char": "的", "pinyin": "de" },
-          { "char": "笑", "pinyin": "xiào" },
-          { "char": "容", "pinyin": "róng" },
-          { "char": "這", "pinyin": "zhè" },
-          { "char": "樣", "pinyin": "yàng" },
-          { "char": "熟", "pinyin": "shú" },
-          { "char": "悉", "pinyin": "xī" }
-        ],
-        "texts": {
-          "es": "Tu sonrisa me es tan familiar",
-          "en": "Your smile is so familiar",
-          "zh-CN": "你的笑容这样熟悉",
-          "zh-TW": "你的笑容這樣熟悉"
-        },
-        "duration": 3.0,
-        "isMelody": false
+        "original_char_pinyin": [ { "char": "苦", "pinyin": "kǔ" }, { "char": "海", "pinyin": "hǎi" }, { "char": "的", "pinyin": "de" }, { "char": "爱", "pinyin": "ài" }, { "char": "恨", "pinyin": "hèn" }, { "char": "勿", "pinyin": "wù" }, { "char": "念", "pinyin": "niàn" }, { "char": "勿", "pinyin": "wù" }, { "char": "再", "pinyin": "zài" }, { "char": "寻", "pinyin": "xún" } ],
+        "texts": { "es": "El amor y el odio del mar amargo, no pienses, no busques más", "en": "The love and hate of the bitter sea, don't dwell, don't seek anymore", "zh-TW": "苦海的愛恨勿念勿再尋" },
+        "duration": 5.5, "isMelody": false
       },
       {
-        "original_char_pinyin": [
-          { "char": "我", "pinyin": "wǒ" },
-          { "char": "一", "pinyin": "yī" },
-          { "char": "時", "pinyin": "shí" },
-          { "char": "想", "pinyin": "xiǎng" },
-          { "char": "不", "pinyin": "bù" },
-          { "char": "起", "pinyin": "qǐ" }
-        ],
-        "texts": {
-          "es": "No puedo recordarlo ahora mismo",
-          "en": "I can't recall right now",
-          "zh-CN": "我一时想不起",
-          "zh-TW": "我一時想不起"
-        },
-        "duration": 3.0,
-        "isMelody": false
+        "original_char_pinyin": [ { "char": "几", "pinyin": "jǐ" }, { "char": "番", "pinyin": "fān" }, { "char": "恩", "pinyin": "ēn" }, { "char": "怨", "pinyin": "yuàn" }, { "char": "都", "pinyin": "dōu" }, { "char": "罢", "pinyin": "bà" }, { "char": "了", "pinyin": "le" } ],
+        "texts": { "es": "Varias bondades y rencores, todo ha terminado", "en": "Several kindnesses and grudges, all have ended", "zh-TW": "幾番恩怨都罷了" },
+        "duration": 4.0, "isMelody": false
       },
       {
-        "original_char_pinyin": [
-          { "char": "啊", "pinyin": "ā" },
-          { "char": "～", "pinyin": "" },
-          { "char": " ", "pinyin": "" },
-          { "char": "在", "pinyin": "zài" },
-          { "char": "夢", "pinyin": "mèng" },
-          { "char": "裡", "pinyin": "lǐ" }
-        ],
-        "texts": {
-          "es": "Ah~ En un sueño",
-          "en": "Ah~ In a dream",
-          "zh-CN": "啊～ 在梦里",
-          "zh-TW": "啊～ 在夢裡"
-        },
-        "duration": 3.0,
-        "isMelody": false
-      },
-       {
-        "original_char_pinyin": [],
-        "texts": {
-          "es": "♫ Pausa 2 ♫",
-          "en": "♫ Break 2 ♫"
-        },
-        "duration": 4.0,
-        "isMelody": true
+        "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "曾", "pinyin": "céng" }, { "char": "痴", "pinyin": "chī" }, { "char": "狂", "pinyin": "kuáng" }, { "char": "贪", "pinyin": "tān" }, { "char": "恋", "pinyin": "liàn" }, { "char": "你", "pinyin": "nǐ" } ],
+        "texts": { "es": "Una vez estuve locamente enamorado de ti", "en": "I was once madly in love with you", "zh-TW": "我曾痴狂貪戀你" },
+        "duration": 4.5, "isMelody": false
       },
       {
-        "original_char_pinyin": [
-          { "char": "夢", "pinyin": "mèng" },
-          { "char": "裡", "pinyin": "lǐ" },
-          { "char": " ", "pinyin": "" },
-          { "char": "夢", "pinyin": "mèng" },
-          { "char": "裡", "pinyin": "lǐ" },
-          { "char": "見", "pinyin": "jiàn" },
-          { "char": "過", "pinyin": "guo" },
-          { "char": "你", "pinyin": "nǐ" }
-        ],
-        "texts": {
-          "es": "En un sueño, te vi en un sueño",
-          "en": "In a dream, I saw you in a dream",
-          "zh-CN": "梦里 梦里见过你",
-          "zh-TW": "夢裡 夢裡見過你"
-        },
-        "duration": 3.0,
-        "isMelody": false
+        "original_char_pinyin": [ { "char": "也", "pinyin": "yě" }, { "char": "曾", "pinyin": "céng" }, { "char": "将", "pinyin": "jiāng" }, { "char": "你", "pinyin": "nǐ" }, { "char": "藏", "pinyin": "cáng" }, { "char": "心", "pinyin": "xīn" }, { "char": "底", "pinyin": "dǐ" } ],
+        "texts": { "es": "También una vez te escondí en el fondo de mi corazón", "en": "I also once hid you in the bottom of my heart", "zh-TW": "也曾將你藏心底" },
+        "duration": 4.5, "isMelody": false
       },
       {
-        "original_char_pinyin": [
-          { "char": "甜", "pinyin": "tián" },
-          { "char": "蜜", "pinyin": "mì" },
-          { "char": " ", "pinyin": "" },
-          { "char": "笑", "pinyin": "xiào" },
-          { "char": "得", "pinyin": "de" },
-          { "char": "多", "pinyin": "duō" },
-          { "char": "甜", "pinyin": "tián" },
-          { "char": "蜜", "pinyin": "mì" }
-        ],
-        "texts": {
-          "es": "Dulce, sonriendo tan dulcemente",
-          "en": "Sweet, smiling so sweetly",
-          "zh-CN": "甜蜜 笑得多甜蜜",
-          "zh-TW": "甜蜜 笑得多甜蜜"
-        },
-        "duration": 3.0,
-        "isMelody": false
-      },
-      {
-        "original_char_pinyin": [
-          { "char": "是", "pinyin": "shì" },
-          { "char": "你", "pinyin": "nǐ" },
-          { "char": "是", "pinyin": "shì" },
-          { "char": "你", "pinyin": "nǐ" },
-          { "char": " ", "pinyin": "" },
-          { "char": "夢", "pinyin": "mèng" },
-          { "char": "見", "pinyin": "jiàn" },
-          { "char": "的", "pinyin": "de" },
-          { "char": "就", "pinyin": "jiù" },
-          { "char": "是", "pinyin": "shì" },
-          { "char": "你", "pinyin": "nǐ" }
-        ],
-        "texts": {
-          "es": "Eres tú, eres tú, con quien soñé eres tú",
-          "en": "It's you, it's you, the one I dreamt of is you",
-          "zh-CN": "是你 是你 梦见的就是你",
-          "zh-TW": "是你是你 夢見的就是你"
-        },
-        "duration": 3.0,
-        "isMelody": false
-      },
-      {
-        "original_char_pinyin": [],
-        "texts": {
-          "es": "♫ Pausa 3 ♫",
-          "en": "♫ Break 3 ♫"
-        },
-        "duration": 4.0,
-        "isMelody": true
-      },
-      {
-        "original_char_pinyin": [
-          { "char": "在", "pinyin": "zài" }, { "char": "哪", "pinyin": "nǎ" }, { "char": "裏", "pinyin": "lǐ" },
-          { "char": " ", "pinyin": "" },
-          { "char": "在", "pinyin": "zài" }, { "char": "哪", "pinyin": "nǎ" }, { "char": "裏", "pinyin": "lǐ" },
-          { "char": "見", "pinyin": "jiàn" }, { "char": "過", "pinyin": "guo" }, { "char": "你", "pinyin": "nǐ" }
-        ],
-        "texts": { "es": "¿Dónde, dónde te he visto antes?", "en": "Where, where have I seen you before?", "zh-CN": "在哪裏 在哪裏見過你", "zh-TW": "在哪裏 在哪裏見過你"},
-        "duration": 3.0, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [
-          { "char": "你", "pinyin": "nǐ" }, { "char": "的", "pinyin": "de" }, { "char": "笑", "pinyin": "xiào" }, { "char": "容", "pinyin": "róng" },
-          { "char": "這", "pinyin": "zhè" }, { "char": "樣", "pinyin": "yàng" }, { "char": "熟", "pinyin": "shú" }, { "char": "悉", "pinyin": "xī" }
-        ],
-        "texts": { "es": "Tu sonrisa me es tan familiar", "en": "Your smile is so familiar", "zh-CN": "你的笑容這樣熟悉", "zh-TW": "你的笑容這樣熟悉"},
-        "duration": 3.0, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [
-          { "char": "我", "pinyin": "wǒ" }, { "char": "一", "pinyin": "yī" }, { "char": "時", "pinyin": "shí" },
-          { "char": "想", "pinyin": "xiǎng" }, { "char": "不", "pinyin": "bù" }, { "char": "起", "pinyin": "qǐ" }
-        ],
-        "texts": { "es": "No puedo recordarlo ahora mismo", "en": "I can't recall right now", "zh-CN": "我一時想不起", "zh-TW": "我一時想不起" },
-        "duration": 3.0, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [
-          { "char": "啊", "pinyin": "ā" }, { "char": "～", "pinyin": "" }, { "char": " ", "pinyin": "" },
-          { "char": "在", "pinyin": "zài" }, { "char": "夢", "pinyin": "mèng" }, { "char": "裏", "pinyin": "lǐ" }
-        ],
-        "texts": { "es": "Ah~ En un sueño", "en": "Ah~ In a dream", "zh-CN": "啊～ 在夢裏", "zh-TW": "啊～ 在夢裏"},
-        "duration": 3.0, "isMelody": false
-      },
-      {
-        "original_char_pinyin": [],
-        "texts": {
-          "es": "♫ Final ♫",
-          "en": "♫ Outro ♫"
-        },
-        "duration": 12.0,
-        "isMelody": true
+        "original_char_pinyin": [ { "char": "一", "pinyin": "yī" }, { "char": "寸", "pinyin": "cùn" }, { "char": "土", "pinyin": "tǔ" }, { "char": "一", "pinyin": "yī" }, { "char": "缕", "pinyin": "lǚ" }, { "char": "烟", "pinyin": "yān" }, { "char": "散", "pinyin": "sàn" }, { "char": "入", "pinyin": "rù" }, { "char": "云", "pinyin": "yún" }, { "char": "里", "pinyin": "lǐ" } ],
+        "texts": { "es": "Una pulgada de tierra, una hebra de humo, se dispersan entre las nubes", "en": "An inch of earth, a wisp of smoke, scatter into the clouds", "zh-TW": "一寸土一縷煙散入雲裡" },
+        "duration": 5.5, "isMelody": false
       }
     ]
   }
