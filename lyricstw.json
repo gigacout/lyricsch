@@ -1,8 +1,8 @@
 {
   "mama_wo_xiang_ni_longpiao": {
     "title": "媽媽我想你",
-    "artist": "龍飄飄 (Long Piao Piao)",
-    "cover_url": "https://i.ytimg.com/vi/0q486TbH13E/maxresdefault.jpg",
+    "artist": "湯潮 (Tāng Cháo)",
+    "cover_url": "https://i.ibb.co/pvJvj8GJ/image.png",
     "language_names": { "es": "Español", "en": "English", "zh-TW": "繁體中文 (Chino Tradicional)" },
     "lines": [
       { "original_char_pinyin": [], "texts": { "es": "♫ Intro ♫", "en": "♫ Intro ♫" }, "duration": 4.0, "isMelody": true },
@@ -55,7 +55,7 @@
   "tian_mi_mi_teresa_teng": {
     "title": "甜蜜蜜 (Tian Mi Mi)",
     "artist": "鄧麗君 (Teresa Teng)",
-    "cover_url": "https://e.snmc.io/i/1200/s/70b0a8f093859685f0f7e7821f2c8614/3479129",
+    "cover_url": "https://i.ibb.co/JR89dLhm/TERESA.png",
     "language_names": { "es": "Español", "en": "English", "zh-CN": "简体中文 (Chino Simplificado)", "zh-TW": "繁體中文 (Chino Tradicional)" },
     "lines": [
       { "original_char_pinyin": [], "texts": { "es": "♫ Intro ♫", "en": "♫ Intro ♫" }, "duration": 5.0, "isMelody": true },
@@ -81,9 +81,9 @@
     ]
   },
   "taohua_nuo_gem": {
-    "title": "桃花诺 (Táohuā Nuò)",
+    "title": "桃花諾 (Táohuā Nuò)",
     "artist": "G.E.M. 鄧紫棋",
-    "cover_url": "URL_DE_TU_IMAGEN_DE_COVER_AQUI.jpg",
+    "cover_url": "https://i.ibb.co/ksGgQb5B/GEM.png",
     "language_names": { "es": "Español", "en": "English", "zh-TW": "繁體中文 (Chino Tradicional)", "zh-CN": "简体中文 (Chino Simplificado)" },
     "lines": [
       { "original_char_pinyin": [], "texts": { "es": "♫ Intro ♫", "en": "♫ Intro ♫" }, "duration": 18.0, "isMelody": true },
