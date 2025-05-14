@@ -206,5 +206,1083 @@
       { "original_char_pinyin": [], "texts": { "es": "♫ Melodía Instrumental ♫", "en": "♫ Instrumental Melody ♫", "zh-CN": "♫ 间奏旋律 ♫" }, "duration": 9.2, "isMelody": true },
       { "original_char_pinyin": [], "texts": { "es": "♫ Outro ♫", "en": "♫ Outro ♫", "zh-CN": "♫ 尾奏 ♫" }, "duration": 5.0, "isMelody": true }
     ]
+  },
+  "zong_hui_you_yi_tian_kuijejie": {
+    "title": "總會有一天 (Someday)",
+    "artist": "曾瑋中 (Tseng Wei-chung / Kuljelje)",
+    "cover_url": "",
+    "language_names": {
+      "es": "Español",
+      "en": "English",
+      "nan-TW": "台語 (Taiwanés Hokkien)"
+    },
+    "lines": [
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Intro ♫",
+          "en": "♫ Intro ♫"
+        },
+        "duration": 19.5,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "講", "pinyin": "kóng" },
+          { "char": "一", "pinyin": "chīt" },
+          { "char": "句", "pinyin": "kù" },
+          { "char": "歹", "pinyin": "pháinn" },
+          { "char": "勢", "pinyin": "sè" }
+        ],
+        "texts": {
+          "es": "Decir un 'lo siento'",
+          "en": "To say a 'sorry'",
+          "nan-TW": "講一句歹勢"
+        },
+        "duration": 2.8,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "共", "pinyin": "kā" },
+          { "char": "話", "pinyin": "ōe" },
+          { "char": "無", "pinyin": "bô" },
+          { "char": "詳", "pinyin": "siông" },
+          { "char": "細", "pinyin": "sè" }
+        ],
+        "texts": {
+          "es": "Las palabras no fueron detalladas (o claras)",
+          "en": "The words were not detailed (or clear)",
+          "nan-TW": "共話無詳細"
+        },
+        "duration": 2.2,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Melodía ♫",
+          "en": "♫ Melody ♫"
+        },
+        "duration": 2.9,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "你", "pinyin": "lí" },
+          { "char": "一", "pinyin": "chīt" },
+          { "char": "个", "pinyin": "ê" },
+          { "char": "輪", "pinyin": "lûn" },
+          { "char": "迴", "pinyin": "hôe" }
+        ],
+        "texts": {
+          "es": "Tú, un ciclo (o reencarnación)",
+          "en": "You, a cycle (or reincarnation)",
+          "nan-TW": "你一個輪迴"
+        },
+        "duration": 2.9,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "親", "pinyin": "chhin" },
+          { "char": "像", "pinyin": "chhiūⁿ" },
+          { "char": "咧", "pinyin": "teh" },
+          { "char": "笑", "pinyin": "chhiò" },
+          { "char": "虧", "pinyin": "khui" }
+        ],
+        "texts": {
+          "es": "Como si fuera una broma",
+          "en": "As if it's a joke",
+          "nan-TW": "親像咧笑虧"
+        },
+        "duration": 2.6,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Melodía ♫",
+          "en": "♫ Melody ♫"
+        },
+        "duration": 1.5,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "你", "pinyin": "lí" },
+          { "char": "看", "pinyin": "khuàⁿ" },
+          { "char": "彼", "pinyin": "hit" },
+          { "char": "當", "pinyin": "tong" },
+          { "char": "時", "pinyin": "sî" },
+          { "char": "置", "pinyin": "tì" },
+          { "char": "灶", "pinyin": "chàu" },
+          { "char": "跤", "pinyin": "kha" },
+          { "char": "咧", "pinyin": "teh" },
+          { "char": "炊", "pinyin": "chhoe" }
+        ],
+        "texts": {
+          "es": "Mira, en aquel entonces, cocinando en la cocina",
+          "en": "Look, back then, cooking in the kitchen",
+          "nan-TW": "你看彼當時置灶跤咧炊"
+        },
+        "duration": 4.2,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "是", "pinyin": "sī" },
+          { "char": "厝", "pinyin": "chhù" },
+          { "char": "邊", "pinyin": "piⁿ" },
+          { "char": "的", "pinyin": "ê" },
+          { "char": "運", "pinyin": "ùn" },
+          { "char": "將", "pinyin": "chiàng" },
+          { "char": "創", "pinyin": "chhòng" },
+          { "char": "啥", "pinyin": "siáⁿ" },
+          { "char": "貨", "pinyin": "hòe" }
+        ],
+        "texts": {
+          "es": "¿Qué hacía el conductor del vecindario?",
+          "en": "What was the neighborhood driver doing?",
+          "nan-TW": "是厝邊的運將創啥貨"
+        },
+        "duration": 2.8,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Melodía ♫",
+          "en": "♫ Melody ♫"
+        },
+        "duration": 1.4,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "像", "pinyin": "chhiūⁿ" },
+          { "char": "人", "pinyin": "lâng" },
+          { "char": "講", "pinyin": "kóng" },
+          { "char": "彼", "pinyin": "hit" },
+          { "char": "句", "pinyin": "kù" },
+          { "char": "話", "pinyin": "ōe" }
+        ],
+        "texts": {
+          "es": "Como dice ese dicho",
+          "en": "Like that saying goes",
+          "nan-TW": "像人講彼句話"
+        },
+        "duration": 3.3,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "人", "pinyin": "lâng" },
+          { "char": "佮", "pinyin": "kah" },
+          { "char": "人", "pinyin": "lâng" },
+          { "char": "相", "pinyin": "siong" },
+          { "char": "會", "pinyin": "hōe" }
+        ],
+        "texts": {
+          "es": "Las personas se encuentran",
+          "en": "People meet each other",
+          "nan-TW": "人佮人相會"
+        },
+        "duration": 2.6,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Melodía ♫",
+          "en": "♫ Melody ♫"
+        },
+        "duration": 2.7,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "免", "pinyin": "bián" },
+          { "char": "想", "pinyin": "siūⁿ" },
+          { "char": "濟", "pinyin": "chōe" },
+          { "char": "該", "pinyin": "kai" },
+          { "char": "伊", "pinyin": "i" },
+          { "char": "去", "pinyin": "khì" }
+        ],
+        "texts": {
+          "es": "No pienses demasiado, déjalo ir",
+          "en": "Don't think too much, let it be",
+          "nan-TW": "免想濟該伊去"
+        },
+        "duration": 3.1,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "予", "pinyin": "hō͘" },
+          { "char": "人", "pinyin": "lâng" },
+          { "char": "心", "pinyin": "sim" },
+          { "char": "內", "pinyin": "lāi" },
+          { "char": "甜", "pinyin": "tiⁿ" }
+        ],
+        "texts": {
+          "es": "Hace que el corazón se sienta dulce",
+          "en": "Makes the heart feel sweet",
+          "nan-TW": "予人心內甜"
+        },
+        "duration": 2.2,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Melodía ♫",
+          "en": "♫ Melody ♫"
+        },
+        "duration": 2.7,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "歲", "pinyin": "sòe" },
+          { "char": "月", "pinyin": "go̍at" },
+          { "char": "過", "pinyin": "kòe" },
+          { "char": "幾", "pinyin": "kúi" },
+          { "char": "輪", "pinyin": "lûn" },
+          { "char": "迴", "pinyin": "hôe" }
+        ],
+        "texts": {
+          "es": "Los años pasan, cuántos ciclos",
+          "en": "Years go by, how many cycles",
+          "nan-TW": "歲月過幾輪迴"
+        },
+        "duration": 3.1,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "相", "pinyin": "siong" },
+          { "char": "逢", "pinyin": "hông" },
+          { "char": "袂", "pinyin": "bōe" },
+          { "char": "變", "pinyin": "piàn" },
+          { "char": "卦", "pinyin": "kòa" }
+        ],
+        "texts": {
+          "es": "El encuentro no cambiará (el destino)",
+          "en": "The encounter won't change (fate)",
+          "nan-TW": "相逢袂變卦"
+        },
+        "duration": 2.5,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Melodía ♫",
+          "en": "♫ Melody ♫"
+        },
+        "duration": 1.4,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "有", "pinyin": "ū" },
+          { "char": "一", "pinyin": "chīt" },
+          { "char": "種", "pinyin": "chióng" },
+          { "char": "緣", "pinyin": "iân" },
+          { "char": "份", "pinyin": "hūn" },
+          { "char": "予", "pinyin": "hō͘" },
+          { "char": "人", "pinyin": "lâng" },
+          { "char": "做", "pinyin": "chò" },
+          { "char": "伙", "pinyin": "hóe" }
+        ],
+        "texts": {
+          "es": "Hay un tipo de destino que une a las personas",
+          "en": "There's a kind of fate that brings people together",
+          "nan-TW": "有一種緣份予人做伙"
+        },
+        "duration": 3.9,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "也", "pinyin": "iā" },
+          { "char": "著", "pinyin": "tio̍h" },
+          { "char": "有", "pinyin": "ū" },
+          { "char": "緣", "pinyin": "iân" },
+          { "char": "份", "pinyin": "hūn" },
+          { "char": "牽", "pinyin": "khan" },
+          { "char": "成", "pinyin": "sêng" },
+          { "char": "今", "pinyin": "kim" },
+          { "char": "世", "pinyin": "sè" }
+        ],
+        "texts": {
+          "es": "También se necesita destino para unirnos en esta vida",
+          "en": "It also takes fate to bring us together in this life",
+          "nan-TW": "也著有緣份牽成今世"
+        },
+        "duration": 4.2,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "可", "pinyin": "khó" },
+          { "char": "惜", "pinyin": "sioh" },
+          { "char": "咱", "pinyin": "lán" },
+          { "char": "兩", "pinyin": "nňg" },
+          { "char": "人", "pinyin": "lâng" },
+          { "char": "過", "pinyin": "kòe" },
+          { "char": "千", "pinyin": "chian" },
+          { "char": "萬", "pinyin": "bān" },
+          { "char": "里", "pinyin": "lí" },
+          { "char": "也", "pinyin": "iā" },
+          { "char": "袂", "pinyin": "bōe" },
+          { "char": "當", "pinyin": "tàng" },
+          { "char": "相", "pinyin": "siong" },
+          { "char": "會", "pinyin": "hōe" }
+        ],
+        "texts": {
+          "es": "Es una lástima que aunque estemos a miles de millas, no podamos encontrarnos",
+          "en": "It's a pity that though we are thousands of miles apart, we cannot meet",
+          "nan-TW": "可惜咱兩人過千萬里也袂當相會"
+        },
+        "duration": 6.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Melodía ♫",
+          "en": "♫ Melody ♫"
+        },
+        "duration": 1.8,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "你", "pinyin": "lí" },
+          { "char": "佇", "pinyin": "tī" },
+          { "char": "彼", "pinyin": "hit" },
+          { "char": "首", "pinyin": "siú" },
+          { "char": "歌", "pinyin": "koa" },
+          { "char": "後", "pinyin": "āu" },
+          { "char": "來", "pinyin": "lâi" },
+          { "char": "你", "pinyin": "lí" },
+          { "char": "上", "pinyin": "siōng" },
+          { "char": "愛", "pinyin": "ài" }
+        ],
+        "texts": {
+          "es": "Esa canción que luego más amaste",
+          "en": "That song which you later loved the most",
+          "nan-TW": "你佇彼首歌後來你上愛"
+        },
+        "duration": 3.4,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "四", "pinyin": "sù" },
+          { "char": "季", "pinyin": "kùi" },
+          { "char": "輪", "pinyin": "lûn" },
+          { "char": "替", "pinyin": "thè" },
+          { "char": " ", "pinyin": "" },
+          { "char": "替", "pinyin": "thè" },
+          { "char": "無", "pinyin": "bô" },
+          { "char": "咱", "pinyin": "lán" },
+          { "char": "兩", "pinyin": "nňg" },
+          { "char": "个", "pinyin": "ê" }
+        ],
+        "texts": {
+          "es": "Las estaciones cambian, pero no nos cambian a nosotros dos",
+          "en": "The seasons turn, but they don't replace us two",
+          "nan-TW": "四季輪替 替無咱兩个"
+        },
+        "duration": 3.9,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "góa" },
+          { "char": "佮", "pinyin": "kah" },
+          { "char": "你", "pinyin": "lí" },
+          { "char": "講", "pinyin": "kóng" },
+          { "char": " ", "pinyin": "" },
+          { "char": "我", "pinyin": "góa" },
+          { "char": "閣", "pinyin": "koh" },
+          { "char": "佇", "pinyin": "tī" },
+          { "char": "咧", "pinyin": "teh" },
+          { "char": "留", "pinyin": "liû" },
+          { "char": "戀", "pinyin": "loân" }
+        ],
+        "texts": {
+          "es": "Te digo, todavía estoy aferrado (al pasado)",
+          "en": "I tell you, I am still lingering (on the past)",
+          "nan-TW": "我佮你講 我閣佇咧留戀"
+        },
+        "duration": 3.8,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "親", "pinyin": "chhin" },
+          { "char": "像", "pinyin": "chhiūⁿ" },
+          { "char": "古", "pinyin": "kó͘" },
+          { "char": "早", "pinyin": "chá" },
+          { "char": "電", "pinyin": "tiān" },
+          { "char": "影", "pinyin": "iáⁿ" },
+          { "char": "的", "pinyin": "ê" },
+          { "char": "配", "pinyin": "phòe" },
+          { "char": "樂", "pinyin": "ga̍k" }
+        ],
+        "texts": {
+          "es": "Como la banda sonora de una película antigua",
+          "en": "Like the soundtrack of an old movie",
+          "nan-TW": "親像古早電影的配樂"
+        },
+        "duration": 4.3,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "góa" },
+          { "char": "時", "pinyin": "sî" },
+          { "char": "間", "pinyin": "kan" },
+          { "char": "是", "pinyin": "sī" },
+          { "char": "咱", "pinyin": "lán" },
+          { "char": "兩", "pinyin": "nňg" },
+          { "char": "人", "pinyin": "lâng" },
+          { "char": "的", "pinyin": "ê" },
+          { "char": "最", "pinyin": "chòe" },
+          { "char": "愛", "pinyin": "ài" }
+        ],
+        "texts": {
+          "es": "Mi tiempo es nuestro mayor amor (o el tiempo que pasamos juntos fue lo más preciado)",
+          "en": "My time is our greatest love (or the time we spent together was most cherished)",
+          "nan-TW": "我時間是咱兩人的最愛"
+        },
+        "duration": 3.9,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "敢", "pinyin": "kám" },
+          { "char": "講", "pinyin": "kóng" },
+          { "char": "註", "pinyin": "chù" },
+          { "char": "定", "pinyin": "tiāⁿ" },
+          { "char": "我", "pinyin": "góa" },
+          { "char": "佮", "pinyin": "kah" },
+          { "char": "你", "pinyin": "lí" },
+          { "char": "無", "pinyin": "bô" },
+          { "char": "緣", "pinyin": "iân" }
+        ],
+        "texts": {
+          "es": "¿Acaso está destinado que tú y yo no tengamos afinidad?",
+          "en": "Is it destined that you and I have no affinity?",
+          "nan-TW": "敢講註定我佮你無緣"
+        },
+        "duration": 4.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "將", "pinyin": "chiong" },
+          { "char": "我", "pinyin": "góa" },
+          { "char": "的", "pinyin": "ê" },
+          { "char": "靈", "pinyin": "lêng" },
+          { "char": "魂", "pinyin": "hûn" },
+          { "char": " ", "pinyin": "" },
+          { "char": "對", "pinyin": "tùi" },
+          { "char": "天", "pinyin": "thian" },
+          { "char": "邊", "pinyin": "piⁿ" },
+          { "char": "送", "pinyin": "sàng" }
+        ],
+        "texts": {
+          "es": "Enviando mi alma hacia el horizonte",
+          "en": "Sending my soul towards the horizon",
+          "nan-TW": "將我的靈魂 對天邊送"
+        },
+        "duration": 4.3,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "góa" },
+          { "char": "也", "pinyin": "iā" },
+          { "char": "無", "pinyin": "bô" },
+          { "char": "怨", "pinyin": "oàn" },
+          { "char": "悔", "pinyin": "hóe" }
+        ],
+        "texts": {
+          "es": "Tampoco me arrepiento",
+          "en": "I also have no regrets",
+          "nan-TW": "我也無怨悔"
+        },
+        "duration": 2.1,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Melodía ♫",
+          "en": "♫ Melody ♫"
+        },
+        "duration": 3.6,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "免", "pinyin": "bián" },
+          { "char": "想", "pinyin": "siūⁿ" },
+          { "char": "濟", "pinyin": "chōe" },
+          { "char": "該", "pinyin": "kai" },
+          { "char": "伊", "pinyin": "i" },
+          { "char": "去", "pinyin": "khì" }
+        ],
+        "texts": {
+          "es": "No pienses demasiado, déjalo ir",
+          "en": "Don't think too much, let it be",
+          "nan-TW": "免想濟該伊去"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "予", "pinyin": "hō͘" },
+          { "char": "人", "pinyin": "lâng" },
+          { "char": "心", "pinyin": "sim" },
+          { "char": "內", "pinyin": "lāi" },
+          { "char": "甜", "pinyin": "tiⁿ" }
+        ],
+        "texts": {
+          "es": "Hace que el corazón se sienta dulce",
+          "en": "Makes the heart feel sweet",
+          "nan-TW": "予人心內甜"
+        },
+        "duration": 2.1,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Melodía ♫",
+          "en": "♫ Melody ♫"
+        },
+        "duration": 2.7,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "歲", "pinyin": "sòe" },
+          { "char": "月", "pinyin": "go̍at" },
+          { "char": "過", "pinyin": "kòe" },
+          { "char": "幾", "pinyin": "kúi" },
+          { "char": "輪", "pinyin": "lûn" },
+          { "char": "迴", "pinyin": "hôe" }
+        ],
+        "texts": {
+          "es": "Los años pasan, cuántos ciclos",
+          "en": "Years go by, how many cycles",
+          "nan-TW": "歲月過幾輪迴"
+        },
+        "duration": 3.1,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "相", "pinyin": "siong" },
+          { "char": "逢", "pinyin": "hông" },
+          { "char": "袂", "pinyin": "bōe" },
+          { "char": "變", "pinyin": "piàn" },
+          { "char": "卦", "pinyin": "kòa" }
+        ],
+        "texts": {
+          "es": "El encuentro no cambiará (el destino)",
+          "en": "The encounter won't change (fate)",
+          "nan-TW": "相逢袂變卦"
+        },
+        "duration": 2.4,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Melodía ♫",
+          "en": "♫ Melody ♫"
+        },
+        "duration": 1.5,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "有", "pinyin": "ū" },
+          { "char": "一", "pinyin": "chīt" },
+          { "char": "種", "pinyin": "chióng" },
+          { "char": "緣", "pinyin": "iân" },
+          { "char": "份", "pinyin": "hūn" },
+          { "char": "予", "pinyin": "hō͘" },
+          { "char": "人", "pinyin": "lâng" },
+          { "char": "做", "pinyin": "chò" },
+          { "char": "伙", "pinyin": "hóe" }
+        ],
+        "texts": {
+          "es": "Hay un tipo de destino que une a las personas",
+          "en": "There's a kind of fate that brings people together",
+          "nan-TW": "有一種緣份予人做伙"
+        },
+        "duration": 3.9,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "也", "pinyin": "iā" },
+          { "char": "著", "pinyin": "tio̍h" },
+          { "char": "有", "pinyin": "ū" },
+          { "char": "緣", "pinyin": "iân" },
+          { "char": "份", "pinyin": "hūn" },
+          { "char": "牽", "pinyin": "khan" },
+          { "char": "成", "pinyin": "sêng" },
+          { "char": "今", "pinyin": "kim" },
+          { "char": "世", "pinyin": "sè" }
+        ],
+        "texts": {
+          "es": "También se necesita destino para unirnos en esta vida",
+          "en": "It also takes fate to bring us together in this life",
+          "nan-TW": "也著有緣份牽成今世"
+        },
+        "duration": 4.2,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "可", "pinyin": "khó" },
+          { "char": "惜", "pinyin": "sioh" },
+          { "char": "咱", "pinyin": "lán" },
+          { "char": "兩", "pinyin": "nňg" },
+          { "char": "人", "pinyin": "lâng" },
+          { "char": "過", "pinyin": "kòe" },
+          { "char": "千", "pinyin": "chian" },
+          { "char": "萬", "pinyin": "bān" },
+          { "char": "里", "pinyin": "lí" },
+          { "char": "也", "pinyin": "iā" },
+          { "char": "袂", "pinyin": "bōe" },
+          { "char": "當", "pinyin": "tàng" },
+          { "char": "相", "pinyin": "siong" },
+          { "char": "會", "pinyin": "hōe" }
+        ],
+        "texts": {
+          "es": "Es una lástima que aunque estemos a miles de millas, no podamos encontrarnos",
+          "en": "It's a pity that though we are thousands of miles apart, we cannot meet",
+          "nan-TW": "可惜咱兩人過千萬里也袂當相會"
+        },
+        "duration": 6.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Melodía ♫",
+          "en": "♫ Melody ♫"
+        },
+        "duration": 1.7,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "你", "pinyin": "lí" },
+          { "char": "佇", "pinyin": "tī" },
+          { "char": "彼", "pinyin": "hit" },
+          { "char": "首", "pinyin": "siú" },
+          { "char": "歌", "pinyin": "koa" },
+          { "char": "後", "pinyin": "āu" },
+          { "char": "來", "pinyin": "lâi" },
+          { "char": "你", "pinyin": "lí" },
+          { "char": "上", "pinyin": "siōng" },
+          { "char": "愛", "pinyin": "ài" }
+        ],
+        "texts": {
+          "es": "Esa canción que luego más amaste",
+          "en": "That song which you later loved the most",
+          "nan-TW": "你佇彼首歌後來你上愛"
+        },
+        "duration": 3.5,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "四", "pinyin": "sù" },
+          { "char": "季", "pinyin": "kùi" },
+          { "char": "輪", "pinyin": "lûn" },
+          { "char": "替", "pinyin": "thè" },
+          { "char": " ", "pinyin": "" },
+          { "char": "替", "pinyin": "thè" },
+          { "char": "無", "pinyin": "bô" },
+          { "char": "咱", "pinyin": "lán" },
+          { "char": "兩", "pinyin": "nňg" },
+          { "char": "个", "pinyin": "ê" }
+        ],
+        "texts": {
+          "es": "Las estaciones cambian, pero no nos cambian a nosotros dos",
+          "en": "The seasons turn, but they don't replace us two",
+          "nan-TW": "四季輪替 替無咱兩个"
+        },
+        "duration": 3.9,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "góa" },
+          { "char": "佮", "pinyin": "kah" },
+          { "char": "你", "pinyin": "lí" },
+          { "char": "講", "pinyin": "kóng" },
+          { "char": " ", "pinyin": "" },
+          { "char": "我", "pinyin": "góa" },
+          { "char": "閣", "pinyin": "koh" },
+          { "char": "佇", "pinyin": "tī" },
+          { "char": "咧", "pinyin": "teh" },
+          { "char": "留", "pinyin": "liû" },
+          { "char": "戀", "pinyin": "loân" }
+        ],
+        "texts": {
+          "es": "Te digo, todavía estoy aferrado (al pasado)",
+          "en": "I tell you, I am still lingering (on the past)",
+          "nan-TW": "我佮你講 我閣佇咧留戀"
+        },
+        "duration": 3.9,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "親", "pinyin": "chhin" },
+          { "char": "像", "pinyin": "chhiūⁿ" },
+          { "char": "古", "pinyin": "kó͘" },
+          { "char": "早", "pinyin": "chá" },
+          { "char": "電", "pinyin": "tiān" },
+          { "char": "影", "pinyin": "iáⁿ" },
+          { "char": "的", "pinyin": "ê" },
+          { "char": "配", "pinyin": "phòe" },
+          { "char": "樂", "pinyin": "ga̍k" }
+        ],
+        "texts": {
+          "es": "Como la banda sonora de una película antigua",
+          "en": "Like the soundtrack of an old movie",
+          "nan-TW": "親像古早電影的配樂"
+        },
+        "duration": 4.1,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "góa" },
+          { "char": "時", "pinyin": "sî" },
+          { "char": "間", "pinyin": "kan" },
+          { "char": "是", "pinyin": "sī" },
+          { "char": "咱", "pinyin": "lán" },
+          { "char": "兩", "pinyin": "nňg" },
+          { "char": "人", "pinyin": "lâng" },
+          { "char": "的", "pinyin": "ê" },
+          { "char": "最", "pinyin": "chòe" },
+          { "char": "愛", "pinyin": "ài" }
+        ],
+        "texts": {
+          "es": "Mi tiempo es nuestro mayor amor",
+          "en": "My time is our greatest love",
+          "nan-TW": "我時間是咱兩人的最愛"
+        },
+        "duration": 4.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "敢", "pinyin": "kám" },
+          { "char": "講", "pinyin": "kóng" },
+          { "char": "註", "pinyin": "chù" },
+          { "char": "定", "pinyin": "tiāⁿ" },
+          { "char": "我", "pinyin": "góa" },
+          { "char": "佮", "pinyin": "kah" },
+          { "char": "你", "pinyin": "lí" },
+          { "char": "無", "pinyin": "bô" },
+          { "char": "緣", "pinyin": "iân" }
+        ],
+        "texts": {
+          "es": "¿Acaso está destinado que tú y yo no tengamos afinidad?",
+          "en": "Is it destined that you and I have no affinity?",
+          "nan-TW": "敢講註定我佮你無緣"
+        },
+        "duration": 4.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "將", "pinyin": "chiong" },
+          { "char": "我", "pinyin": "góa" },
+          { "char": "的", "pinyin": "ê" },
+          { "char": "靈", "pinyin": "lêng" },
+          { "char": "魂", "pinyin": "hûn" },
+          { "char": " ", "pinyin": "" },
+          { "char": "對", "pinyin": "tùi" },
+          { "char": "天", "pinyin": "thian" },
+          { "char": "邊", "pinyin": "piⁿ" },
+          { "char": "送", "pinyin": "sàng" }
+        ],
+        "texts": {
+          "es": "Enviando mi alma hacia el horizonte",
+          "en": "Sending my soul towards the horizon",
+          "nan-TW": "將我的靈魂 對天邊送"
+        },
+        "duration": 4.2,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "góa" },
+          { "char": "也", "pinyin": "iā" },
+          { "char": "無", "pinyin": "bô" },
+          { "char": "怨", "pinyin": "oàn" },
+          { "char": "悔", "pinyin": "hóe" }
+        ],
+        "texts": {
+          "es": "Tampoco me arrepiento",
+          "en": "I also have no regrets",
+          "nan-TW": "我也無怨悔"
+        },
+        "duration": 1.9,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Melodía (Larga) ♫",
+          "en": "♫ Melody (Long) ♫"
+        },
+        "duration": 30.4,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "你", "pinyin": "lí" },
+          { "char": "佇", "pinyin": "tī" },
+          { "char": "彼", "pinyin": "hit" },
+          { "char": "首", "pinyin": "siú" },
+          { "char": "歌", "pinyin": "koa" },
+          { "char": "後", "pinyin": "āu" },
+          { "char": "來", "pinyin": "lâi" },
+          { "char": "你", "pinyin": "lí" },
+          { "char": "上", "pinyin": "siōng" },
+          { "char": "愛", "pinyin": "ài" }
+        ],
+        "texts": {
+          "es": "Esa canción que luego más amaste",
+          "en": "That song which you later loved the most",
+          "nan-TW": "你佇彼首歌後來你上愛"
+        },
+        "duration": 3.5,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "四", "pinyin": "sù" },
+          { "char": "季", "pinyin": "kùi" },
+          { "char": "輪", "pinyin": "lûn" },
+          { "char": "替", "pinyin": "thè" },
+          { "char": " ", "pinyin": "" },
+          { "char": "替", "pinyin": "thè" },
+          { "char": "無", "pinyin": "bô" },
+          { "char": "咱", "pinyin": "lán" },
+          { "char": "兩", "pinyin": "nňg" },
+          { "char": "个", "pinyin": "ê" }
+        ],
+        "texts": {
+          "es": "Las estaciones cambian, pero no nos cambian a nosotros dos",
+          "en": "The seasons turn, but they don't replace us two",
+          "nan-TW": "四季輪替 替無咱兩个"
+        },
+        "duration": 3.8,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "góa" },
+          { "char": "佮", "pinyin": "kah" },
+          { "char": "你", "pinyin": "lí" },
+          { "char": "講", "pinyin": "kóng" },
+          { "char": " ", "pinyin": "" },
+          { "char": "我", "pinyin": "góa" },
+          { "char": "閣", "pinyin": "koh" },
+          { "char": "佇", "pinyin": "tī" },
+          { "char": "咧", "pinyin": "teh" },
+          { "char": "留", "pinyin": "liû" },
+          { "char": "戀", "pinyin": "loân" }
+        ],
+        "texts": {
+          "es": "Te digo, todavía estoy aferrado (al pasado)",
+          "en": "I tell you, I am still lingering (on the past)",
+          "nan-TW": "我佮你講 我閣佇咧留戀"
+        },
+        "duration": 3.8,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "親", "pinyin": "chhin" },
+          { "char": "像", "pinyin": "chhiūⁿ" },
+          { "char": "古", "pinyin": "kó͘" },
+          { "char": "早", "pinyin": "chá" },
+          { "char": "電", "pinyin": "tiān" },
+          { "char": "影", "pinyin": "iáⁿ" },
+          { "char": "的", "pinyin": "ê" },
+          { "char": "配", "pinyin": "phòe" },
+          { "char": "樂", "pinyin": "ga̍k" }
+        ],
+        "texts": {
+          "es": "Como la banda sonora de una película antigua",
+          "en": "Like the soundtrack of an old movie",
+          "nan-TW": "親像古早電影的配樂"
+        },
+        "duration": 4.2,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "góa" },
+          { "char": "時", "pinyin": "sî" },
+          { "char": "間", "pinyin": "kan" },
+          { "char": "是", "pinyin": "sī" },
+          { "char": "咱", "pinyin": "lán" },
+          { "char": "兩", "pinyin": "nňg" },
+          { "char": "人", "pinyin": "lâng" },
+          { "char": "的", "pinyin": "ê" },
+          { "char": "最", "pinyin": "chòe" },
+          { "char": "愛", "pinyin": "ài" }
+        ],
+        "texts": {
+          "es": "Mi tiempo es nuestro mayor amor",
+          "en": "My time is our greatest love",
+          "nan-TW": "我時間是咱兩人的最愛"
+        },
+        "duration": 4.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "敢", "pinyin": "kám" },
+          { "char": "講", "pinyin": "kóng" },
+          { "char": "註", "pinyin": "chù" },
+          { "char": "定", "pinyin": "tiāⁿ" },
+          { "char": "我", "pinyin": "góa" },
+          { "char": "佮", "pinyin": "kah" },
+          { "char": "你", "pinyin": "lí" },
+          { "char": "無", "pinyin": "bô" },
+          { "char": "緣", "pinyin": "iân" }
+        ],
+        "texts": {
+          "es": "¿Acaso está destinado que tú y yo no tengamos afinidad?",
+          "en": "Is it destined that you and I have no affinity?",
+          "nan-TW": "敢講註定我佮你無緣"
+        },
+        "duration": 3.9,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Melodía ♫",
+          "en": "♫ Melody ♫"
+        },
+        "duration": 4.2,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "將", "pinyin": "chiong" },
+          { "char": "我", "pinyin": "góa" },
+          { "char": "的", "pinyin": "ê" },
+          { "char": "靈", "pinyin": "lêng" },
+          { "char": "魂", "pinyin": "hûn" },
+          { "char": " ", "pinyin": "" },
+          { "char": "對", "pinyin": "tùi" },
+          { "char": "天", "pinyin": "thian" },
+          { "char": "邊", "pinyin": "piⁿ" },
+          { "char": "送", "pinyin": "sàng" }
+        ],
+        "texts": {
+          "es": "Enviando mi alma hacia el horizonte",
+          "en": "Sending my soul towards the horizon",
+          "nan-TW": "將我的靈魂 對天邊送"
+        },
+        "duration": 4.3,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "góa" },
+          { "char": "也", "pinyin": "iā" },
+          { "char": "無", "pinyin": "bô" },
+          { "char": "怨", "pinyin": "oàn" },
+          { "char": "悔", "pinyin": "hóe" }
+        ],
+        "texts": {
+          "es": "Tampoco me arrepiento",
+          "en": "I also have no regrets",
+          "nan-TW": "我也無怨悔"
+        },
+        "duration": 2.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Melodía ♫",
+          "en": "♫ Melody ♫"
+        },
+        "duration": 1.9,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "將", "pinyin": "chiong" },
+          { "char": "我", "pinyin": "góa" },
+          { "char": "的", "pinyin": "ê" },
+          { "char": "靈", "pinyin": "lêng" },
+          { "char": "魂", "pinyin": "hûn" },
+          { "char": " ", "pinyin": "" },
+          { "char": "對", "pinyin": "tùi" },
+          { "char": "天", "pinyin": "thian" },
+          { "char": "邊", "pinyin": "piⁿ" },
+          { "char": "送", "pinyin": "sàng" }
+        ],
+        "texts": {
+          "es": "Enviando mi alma hacia el horizonte",
+          "en": "Sending my soul towards the horizon",
+          "nan-TW": "將我的靈魂 對天邊送"
+        },
+        "duration": 4.2,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "góa" },
+          { "char": "也", "pinyin": "iā" },
+          { "char": "無", "pinyin": "bô" },
+          { "char": "怨", "pinyin": "oàn" },
+          { "char": "悔", "pinyin": "hóe" }
+        ],
+        "texts": {
+          "es": "Tampoco me arrepiento",
+          "en": "I also have no regrets",
+          "nan-TW": "我也無怨悔"
+        },
+        "duration": 1.9,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Outro ♫",
+          "en": "♫ Outro ♫"
+        },
+        "duration": 10.0,
+        "isMelody": true
+      }
+    ]
   }
-}
