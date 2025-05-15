@@ -327,7 +327,7 @@
     ]
   },
   "houlai_de_women_mayday": {
-    "title": "後來 karşılaşmamız",
+    "title": "後來 karşılaşmamız (Here, After, Us)",
     "artist": "五月天 (Mayday)",
     "cover_url": "https://i.ibb.co/Rp80ZDNc/mayday.png",
     "language_names": {
@@ -342,48 +342,203 @@
         "isMelody": true,
         "original_char_pinyin": [],
         "texts": {
-          "es": "♫ Intro (五月天 後來 karşılaşmamız - Título en pantalla) ♫",
-          "en": "♫ Intro (Mayday Later Us - Title on screen) ♫",
+          "es": "♫ Intro Instrumental (五月天 後來的我們 - Título en pantalla) ♫",
+          "en": "♫ Instrumental Intro (Mayday 後來的我們 - Title on screen) ♫",
           "zh-CN": "♫ 前奏 (五月天 后来的我们 - 标题画面) ♫",
-          "zh-TW": "♫ 前奏 (五月天 後來 karşılaşmamız - 標題畫面) ♫"
+          "zh-TW": "♫ 前奏 (五月天 後來的我們 - 標題畫面) ♫"
         }
       },
       {
-        "duration": 21.0,
+        "duration": 3.0,
         "isMelody": false,
         "original_char_pinyin": [
-          { "char": "然", "pinyin": "rán" }, { "char": "後", "pinyin": "hòu" }, { "char": "呢", "pinyin": "ne" }, { "char": " ", "pinyin": " " },
-          { "char": "他", "pinyin": "tā" }, { "char": "們", "pinyin": "men" }, { "char": "說", "pinyin": "shuō" }, { "char": "你", "pinyin": "nǐ" }, { "char": "的", "pinyin": "de" }, { "char": "心", "pinyin": "xīn" }, { "char": " ", "pinyin": " " },
-          { "char": "似", "pinyin": "sì" }, { "char": "乎", "pinyin": "hū" }, { "char": "痊", "pinyin": "quán" }, { "char": "癒", "pinyin": "yù" }, { "char": "了", "pinyin": "le" }, { "char": " ", "pinyin": " " },
-          { "char": "也", "pinyin": "yě" }, { "char": "開", "pinyin": "kāi" }, { "char": "始", "pinyin": "shǐ" }, { "char": "有", "pinyin": "yǒu" }, { "char": "個", "pinyin": "gè" }, { "char": "人", "pinyin": "rén" }, { "char": " ", "pinyin": " " },
-          { "char": "為", "pinyin": "wèi" }, { "char": "你", "pinyin": "nǐ" }, { "char": "守", "pinyin": "shǒu" }, { "char": "護", "pinyin": "hù" }, { "char": "著", "pinyin": "zhe" }, { "char": " ", "pinyin": " " },
-          { "char": "我", "pinyin": "wǒ" }, { "char": "該", "pinyin": "gāi" }, { "char": "心", "pinyin": "xīn" }, { "char": "安", "pinyin": "ān" }, { "char": "或", "pinyin": "huò" }, { "char": "是", "pinyin": "shì" }, { "char": " ", "pinyin": " " },
-          { "char": "心", "pinyin": "xīn" }, { "char": "痛", "pinyin": "tòng" }, { "char": "呢", "pinyin": "ne" }
+          { "char": "然", "pinyin": "rán" },
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "呢", "pinyin": "ne" }
         ],
         "texts": {
-          "es": "Y entonces, dicen que tu corazón parece haber sanado, y alguien ha comenzado a cuidarte. ¿Debería sentirme aliviado o dolido?",
-          "en": "And then, they said your heart seemed to have healed, and someone started watching over you. Should I feel at ease or heartbroken?",
-          "zh-CN": "然后呢 他们说你的心 似乎痊愈了 也开始有个人 为你守护着 我该心安或是 心痛呢",
-          "zh-TW": "然後呢 他們說你的心 似乎痊癒了 也開始有個人 為你守護著 我該心安或是 心痛呢"
+          "es": "Y entonces,",
+          "en": "And then,",
+          "zh-CN": "然后呢",
+          "zh-TW": "然後呢"
         }
       },
       {
-        "duration": 20.0,
+        "duration": 3.0,
         "isMelody": false,
         "original_char_pinyin": [
-          { "char": "然", "pinyin": "rán" }, { "char": "後", "pinyin": "hòu" }, { "char": "呢", "pinyin": "ne" }, { "char": " ", "pinyin": " " },
-          { "char": "其", "pinyin": "qí" }, { "char": "實", "pinyin": "shí" }, { "char": "我", "pinyin": "wǒ" }, { "char": "的", "pinyin": "de" }, { "char": "日", "pinyin": "rì" }, { "char": "子", "pinyin": "zi" }, { "char": " ", "pinyin": " " },
-          { "char": "也", "pinyin": "yě" }, { "char": "還", "pinyin": "hái" }, { "char": "可", "pinyin": "kě" }, { "char": "以", "pinyin": "yǐ" }, { "char": "呢", "pinyin": "ne" }, { "char": " ", "pinyin": " " },
-          { "char": "除", "pinyin": "chú" }, { "char": "了", "pinyin": "le" }, { "char": "回", "pinyin": "huí" }, { "char": "憶", "pinyin": "yì" }, { "char": "肆", "pinyin": "sì" }, { "char": "虐", "pinyin": "nüè" }, { "char": " ", "pinyin": " " },
-          { "char": "的", "pinyin": "de" }, { "char": "某", "pinyin": "mǒu" }, { "char": "些", "pinyin": "xiē" }, { "char": "時", "pinyin": "shí" }, { "char": "刻", "pinyin": "kè" }, { "char": " ", "pinyin": " " },
-          { "char": "慶", "pinyin": "qìng" }, { "char": "幸", "pinyin": "xìng" }, { "char": "還", "pinyin": "hái" }, { "char": "有", "pinyin": "yǒu" }, { "char": "眼", "pinyin": "yǎn" }, { "char": "淚", "pinyin": "lèi" }, { "char": " ", "pinyin": " " },
-          { "char": "沖", "pinyin": "chōng" }, { "char": "淡", "pinyin": "dàn" }, { "char": "苦", "pinyin": "kǔ" }, { "char": "澀", "pinyin": "sè" }
+          { "char": "他", "pinyin": "tā" },
+          { "char": "們", "pinyin": "men" },
+          { "char": "說", "pinyin": "shuō" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "心", "pinyin": "xīn" },
+          { "char": " ", "pinyin": " " },
+          { "char": "似", "pinyin": "sì" },
+          { "char": "乎", "pinyin": "hū" },
+          { "char": "痊", "pinyin": "quán" },
+          { "char": "癒", "pinyin": "yù" },
+          { "char": "了", "pinyin": "le" }
         ],
         "texts": {
-          "es": "Y entonces, en realidad mis días también están bien, excepto por algunos momentos en que los recuerdos atacan. Afortunadamente, aún hay lágrimas para diluir la amargura.",
-          "en": "And then, actually my days are also okay, except for some moments when memories run wild. Luckily, there are still tears to dilute the bitterness.",
-          "zh-CN": "然后呢 其实我的日子 也还可以呢 除了回忆肆虐 的某些时刻 庆幸还有眼泪 冲淡苦涩",
-          "zh-TW": "然後呢 其實我的日子 也還可以呢 除了回憶肆虐 的某些時刻 慶幸還有眼淚 沖淡苦澀"
+          "es": "Dijeron que tu corazón parecía haber sanado",
+          "en": "They said your heart seemed to have healed",
+          "zh-CN": "他们说你的心 似乎痊愈了",
+          "zh-TW": "他們說你的心 似乎痊癒了"
+        }
+      },
+      {
+        "duration": 4.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "也", "pinyin": "yě" },
+          { "char": "開", "pinyin": "kāi" },
+          { "char": "始", "pinyin": "shǐ" },
+          { "char": "有", "pinyin": "yǒu" },
+          { "char": "個", "pinyin": "gè" },
+          { "char": "人", "pinyin": "rén" },
+          { "char": " ", "pinyin": " " },
+          { "char": "為", "pinyin": "wèi" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "守", "pinyin": "shǒu" },
+          { "char": "護", "pinyin": "hù" },
+          { "char": "著", "pinyin": "zhe" }
+        ],
+        "texts": {
+          "es": "Y que alguien empezó a cuidarte",
+          "en": "And someone started to watch over you",
+          "zh-CN": "也开始有个人 为你守护着",
+          "zh-TW": "也開始有個人 為你守護著"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "該", "pinyin": "gāi" },
+          { "char": "心", "pinyin": "xīn" },
+          { "char": "安", "pinyin": "ān" },
+          { "char": "或", "pinyin": "huò" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": " ", "pinyin": " " },
+          { "char": "心", "pinyin": "xīn" },
+          { "char": "痛", "pinyin": "tòng" },
+          { "char": "呢", "pinyin": "ne" }
+        ],
+        "texts": {
+          "es": "¿Debería sentir alivio o dolor?",
+          "en": "Should I feel relieved or heartbroken?",
+          "zh-CN": "我该心安或是 心痛呢",
+          "zh-TW": "我該心安或是 心痛呢"
+        }
+      },
+      {
+        "duration": 8.0,
+        "isMelody": true,
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
+        }
+      },
+      {
+        "duration": 1.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "然", "pinyin": "rán" },
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "呢", "pinyin": "ne" }
+        ],
+        "texts": {
+          "es": "Y entonces,",
+          "en": "And then,",
+          "zh-CN": "然后呢",
+          "zh-TW": "然後呢"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "其", "pinyin": "qí" },
+          { "char": "實", "pinyin": "shí" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "日", "pinyin": "rì" },
+          { "char": "子", "pinyin": "zi" },
+          { "char": " ", "pinyin": " " },
+          { "char": "也", "pinyin": "yě" },
+          { "char": "還", "pinyin": "hái" },
+          { "char": "可", "pinyin": "kě" },
+          { "char": "以", "pinyin": "yǐ" },
+          { "char": "呢", "pinyin": "ne" }
+        ],
+        "texts": {
+          "es": "En realidad, mis días también han estado bien",
+          "en": "Actually, my days have been alright too",
+          "zh-CN": "其实我的日子 也还可以呢",
+          "zh-TW": "其實我的日子 也還可以呢"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "除", "pinyin": "chú" },
+          { "char": "了", "pinyin": "le" },
+          { "char": "回", "pinyin": "huí" },
+          { "char": "憶", "pinyin": "yì" },
+          { "char": "肆", "pinyin": "sì" },
+          { "char": "虐", "pinyin": "nüè" },
+          { "char": " ", "pinyin": " " },
+          { "char": "的", "pinyin": "de" },
+          { "char": "某", "pinyin": "mǒu" },
+          { "char": "些", "pinyin": "xiē" },
+          { "char": "時", "pinyin": "shí" },
+          { "char": "刻", "pinyin": "kè" }
+        ],
+        "texts": {
+          "es": "Excepto por algunos momentos en que los recuerdos atacan",
+          "en": "Except for some moments when memories run rampant",
+          "zh-CN": "除了回忆肆虐 的某些时刻",
+          "zh-TW": "除了回憶肆虐 的某些時刻"
+        }
+      },
+      {
+        "duration": 4.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "慶", "pinyin": "qìng" },
+          { "char": "幸", "pinyin": "xìng" },
+          { "char": "還", "pinyin": "hái" },
+          { "char": "有", "pinyin": "yǒu" },
+          { "char": "眼", "pinyin": "yǎn" },
+          { "char": "淚", "pinyin": "lèi" },
+          { "char": " ", "pinyin": " " },
+          { "char": "沖", "pinyin": "chōng" },
+          { "char": "淡", "pinyin": "dàn" },
+          { "char": "苦", "pinyin": "kǔ" },
+          { "char": "澀", "pinyin": "sè" }
+        ],
+        "texts": {
+          "es": "Afortunadamente, aún quedan lágrimas para diluir la amargura",
+          "en": "Fortunately, there are still tears to dilute the bitterness",
+          "zh-CN": "庆幸还有眼泪 冲淡苦涩",
+          "zh-TW": "慶幸還有眼淚 沖淡苦澀"
+        }
+      },
+      {
+        "duration": 9.0,
+        "isMelody": true,
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
         }
       },
       {
@@ -391,101 +546,365 @@
         "isMelody": true,
         "original_char_pinyin": [],
         "texts": {
-          "es": "♫ Música instrumental ♫",
-          "en": "♫ Instrumental Break ♫",
+          "es": "♫ Música Instrumental Corta ♫",
+          "en": "♫ Short Instrumental Break ♫",
           "zh-CN": "♫ 间奏 ♫",
           "zh-TW": "♫ 間奏 ♫"
         }
       },
       {
-        "duration": 24.0,
+        "duration": 4.0,
         "isMelody": false,
         "original_char_pinyin": [
-          { "char": "而", "pinyin": "ér" }, { "char": "那", "pinyin": "nà" }, { "char": "些", "pinyin": "xiē" }, { "char": "昨", "pinyin": "zuó" }, { "char": "日", "pinyin": "rì" }, { "char": " ", "pinyin": " " },
-          { "char": "依", "pinyin": "yī" }, { "char": "然", "pinyin": "rán" }, { "char": "繽", "pinyin": "bīn" }, { "char": "紛", "pinyin": "fēn" }, { "char": "著", "pinyin": "zhe" }, { "char": " ", "pinyin": " " },
-          { "char": "它", "pinyin": "tā" }, { "char": "們", "pinyin": "men" }, { "char": "都", "pinyin": "dōu" }, { "char": "由", "pinyin": "yóu" }, { "char": "我", "pinyin": "wǒ" }, { "char": " ", "pinyin": " " },
-          { "char": "細", "pinyin": "xì" }, { "char": "心", "pinyin": "xīn" }, { "char": "收", "pinyin": "shōu" }, { "char": "藏", "pinyin": "cáng" }, { "char": "著", "pinyin": "zhe" }, { "char": " ", "pinyin": " " },
-          { "char": "也", "pinyin": "yě" }, { "char": "許", "pinyin": "xǔ" }, { "char": "你", "pinyin": "nǐ" }, { "char": "還", "pinyin": "hái" }, { "char": "記", "pinyin": "jì" }, { "char": "得", "pinyin": "de" }, { "char": " ", "pinyin": " " },
-          { "char": "也", "pinyin": "yě" }, { "char": "許", "pinyin": "xǔ" }, { "char": "你", "pinyin": "nǐ" }, { "char": "都", "pinyin": "dōu" }, { "char": "忘", "pinyin": "wàng" }, { "char": "了", "pinyin": "le" }, { "char": " ", "pinyin": " " },
-          { "char": "也", "pinyin": "yě" }, { "char": "不", "pinyin": "bú" }, { "char": "是", "pinyin": "shì" }, { "char": "那", "pinyin": "nà" }, { "char": "麼", "pinyin": "me" }, { "char": " ", "pinyin": " " },
-          { "char": "重", "pinyin": "zhòng" }, { "char": "要", "pinyin": "yào" }, { "char": "了", "pinyin": "le" }
+          { "char": "而", "pinyin": "ér" },
+          { "char": "那", "pinyin": "nà" },
+          { "char": "些", "pinyin": "xiē" },
+          { "char": "昨", "pinyin": "zuó" },
+          { "char": "日", "pinyin": "rì" },
+          { "char": " ", "pinyin": " " },
+          { "char": "依", "pinyin": "yī" },
+          { "char": "然", "pinyin": "rán" },
+          { "char": "繽", "pinyin": "bīn" },
+          { "char": "紛", "pinyin": "fēn" },
+          { "char": "著", "pinyin": "zhe" }
         ],
         "texts": {
-          "es": "Y aquellos ayeres siguen siendo coloridos, todos ellos los guardo cuidadosamente. Quizás aún recuerdes, quizás ya lo olvidaste todo, tampoco es tan importante ya.",
-          "en": "And those yesterdays are still colorful, I've carefully collected them all. Maybe you still remember, maybe you've forgotten, it's not that important anymore.",
-          "zh-CN": "而那些昨日 依然缤纷着 它们都有我 细心收藏着 也许你还记得 也许你都忘了 也不是那么 重要了",
-          "zh-TW": "而那些昨日 依然繽紛著 它們都有我 細心收藏著 也許你還記得 也許你都忘了 也不是那麼 重要了"
+          "es": "Y aquellos ayeres aún brillan intensamente",
+          "en": "And those yesterdays are still colorful",
+          "zh-CN": "而那些昨日 依然缤纷着",
+          "zh-TW": "而那些昨日 依然繽紛著"
         }
       },
       {
-        "duration": 13.0,
+        "duration": 3.0,
         "isMelody": false,
         "original_char_pinyin": [
-          { "char": "只", "pinyin": "zhǐ" }, { "char": "期", "pinyin": "qī" }, { "char": "待", "pinyin": "dài" }, { "char": " ", "pinyin": " " },
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "的", "pinyin": "de" }, { "char": "你", "pinyin": "nǐ" }, { "char": " ", "pinyin": " " },
-          { "char": "能", "pinyin": "néng" }, { "char": "快", "pinyin": "kuài" }, { "char": "樂", "pinyin": "lè" }, { "char": " ", "pinyin": " " },
-          { "char": "那", "pinyin": "nà" }, { "char": "就", "pinyin": "jiù" }, { "char": "是", "pinyin": "shì" }, { "char": " ", "pinyin": " " },
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "的", "pinyin": "de" }, { "char": "我", "pinyin": "wǒ" }, { "char": " ", "pinyin": " " },
-          { "char": "最", "pinyin": "zuì" }, { "char": "想", "pinyin": "xiǎng" }, { "char": "的", "pinyin": "de" }
+          { "char": "它", "pinyin": "tā" },
+          { "char": "們", "pinyin": "men" },
+          { "char": "都", "pinyin": "dōu" },
+          { "char": "由", "pinyin": "yóu" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": " ", "pinyin": " " },
+          { "char": "細", "pinyin": "xì" },
+          { "char": "心", "pinyin": "xīn" },
+          { "char": "收", "pinyin": "shōu" },
+          { "char": "藏", "pinyin": "cáng" },
+          { "char": "著", "pinyin": "zhe" }
         ],
         "texts": {
-          "es": "Solo espero que el \"tú\" de después pueda ser feliz. Eso es lo que el \"yo\" de después más desea.",
-          "en": "I only hope that the later you can be happy. That is what the later me wants the most.",
-          "zh-CN": "只期待 后来的你 能快乐 那就是 后来的我 最想的",
-          "zh-TW": "只期待 後來的你 能快樂 那就是 後來的我 最想的"
+          "es": "Los guardo todos cuidadosamente",
+          "en": "I've carefully collected them all",
+          "zh-CN": "它们都由我 细心收藏着",
+          "zh-TW": "它們都由我 細心收藏著"
         }
       },
       {
-        "duration": 11.0,
+        "duration": 2.0,
         "isMelody": false,
         "original_char_pinyin": [
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "的", "pinyin": "de" }, { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": " ", "pinyin": " " },
-          { "char": "依", "pinyin": "yī" }, { "char": "然", "pinyin": "rán" }, { "char": "走", "pinyin": "zǒu" }, { "char": "著", "pinyin": "zhe" }, { "char": " ", "pinyin": " " },
-          { "char": "只", "pinyin": "zhǐ" }, { "char": "是", "pinyin": "shì" }, { "char": "不", "pinyin": "bú" }, { "char": "再", "pinyin": "zài" }, { "char": "並", "pinyin": "bìng" }, { "char": "肩", "pinyin": "jiān" }, { "char": "了", "pinyin": "le" }, { "char": " ", "pinyin": " " },
-          { "char": "朝", "pinyin": "cháo" }, { "char": "各", "pinyin": "gè" }, { "char": "自", "pinyin": "zì" }, { "char": "的", "pinyin": "de" }, { "char": "人", "pinyin": "rén" }, { "char": "生", "pinyin": "shēng" }, { "char": " ", "pinyin": " " },
-          { "char": "追", "pinyin": "zhuī" }, { "char": "尋", "pinyin": "xún" }, { "char": "了", "pinyin": "le" }
+          { "char": "也", "pinyin": "yě" },
+          { "char": "許", "pinyin": "xǔ" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "還", "pinyin": "hái" },
+          { "char": "記", "pinyin": "jì" },
+          { "char": "得", "pinyin": "de" }
         ],
         "texts": {
-          "es": "El \"nosotros\" de después sigue caminando, solo que ya no hombro con hombro. Cada uno persiguiendo su propia vida.",
-          "en": "The later us are still walking, just not side by side anymore. Each pursuing their own lives.",
-          "zh-CN": "后来的我们 依然走着 只是不再并肩了 朝各自的人生 追寻了",
-          "zh-TW": "後來的我們 依然走著 只是不再並肩了 朝各自的人生 追尋了"
+          "es": "Quizás aún recuerdes",
+          "en": "Maybe you still remember",
+          "zh-CN": "也许你还记得",
+          "zh-TW": "也許你還記得"
         }
       },
       {
-        "duration": 13.0,
+        "duration": 2.0,
         "isMelody": false,
         "original_char_pinyin": [
-          { "char": "無", "pinyin": "wú" }, { "char": "論", "pinyin": "lùn" }, { "char": "是", "pinyin": "shì" }, { "char": " ", "pinyin": " " },
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "故", "pinyin": "gù" }, { "char": "事", "pinyin": "shì" }, { "char": " ", "pinyin": " " },
-          { "char": "怎", "pinyin": "zěn" }, { "char": "麼", "pinyin": "me" }, { "char": "了", "pinyin": "le" }, { "char": " ", "pinyin": " " },
-          { "char": "也", "pinyin": "yě" }, { "char": "要", "pinyin": "yào" }, { "char": "讓", "pinyin": "ràng" }, { "char": " ", "pinyin": " " },
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "人", "pinyin": "rén" }, { "char": "生", "pinyin": "shēng" }, { "char": " ", "pinyin": " " },
-          { "char": "精", "pinyin": "jīng" }, { "char": "彩", "pinyin": "cǎi" }, { "char": "著", "pinyin": "zhe" }
+          { "char": "也", "pinyin": "yě" },
+          { "char": "許", "pinyin": "xǔ" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "都", "pinyin": "dōu" },
+          { "char": "忘", "pinyin": "wàng" },
+          { "char": "了", "pinyin": "le" }
         ],
         "texts": {
-          "es": "No importa cómo termine la historia después, debemos hacer que la vida después sea maravillosa.",
-          "en": "No matter what happens to the story later, we must make the life later wonderful.",
-          "zh-CN": "无论是 后来故事 怎么了 也要让 后来人生 精彩着",
-          "zh-TW": "無論是 後來故事 怎麼了 也要讓 後來人生 精彩著"
+          "es": "Quizás lo hayas olvidado todo",
+          "en": "Maybe you've forgotten it all",
+          "zh-CN": "也许你都忘了",
+          "zh-TW": "也許你都忘了"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "也", "pinyin": "yě" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": "那", "pinyin": "nà" },
+          { "char": "麼", "pinyin": "me" },
+          { "char": " ", "pinyin": " " },
+          { "char": "重", "pinyin": "zhòng" },
+          { "char": "要", "pinyin": "yào" },
+          { "char": "了", "pinyin": "le" }
+        ],
+        "texts": {
+          "es": "Ya no es tan importante",
+          "en": "It's not that important anymore",
+          "zh-CN": "也不是那么 重要了",
+          "zh-TW": "也不是那麼 重要了"
+        }
+      },
+      {
+        "duration": 10.0,
+        "isMelody": true,
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "只", "pinyin": "zhǐ" },
+          { "char": "期", "pinyin": "qī" },
+          { "char": "待", "pinyin": "dài" },
+          { "char": " ", "pinyin": " " },
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": " ", "pinyin": " " },
+          { "char": "能", "pinyin": "néng" },
+          { "char": "快", "pinyin": "kuài" },
+          { "char": "樂", "pinyin": "lè" }
+        ],
+        "texts": {
+          "es": "Solo espero que tú, en el futuro, puedas ser feliz",
+          "en": "I only hope that you, later on, can be happy",
+          "zh-CN": "只期待 后来的你 能快乐",
+          "zh-TW": "只期待 後來的你 能快樂"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "那", "pinyin": "nà" },
+          { "char": "就", "pinyin": "jiù" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": " ", "pinyin": " " },
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": " ", "pinyin": " " },
+          { "char": "最", "pinyin": "zuì" },
+          { "char": "想", "pinyin": "xiǎng" },
+          { "char": "的", "pinyin": "de" }
+        ],
+        "texts": {
+          "es": "Eso es lo que yo, en el futuro, más deseo",
+          "en": "That is what I, later on, want the most",
+          "zh-CN": "那就是 后来的我 最想的",
+          "zh-TW": "那就是 後來的我 最想的"
+        }
+      },
+      {
+        "duration": 7.0,
+        "isMelody": true,
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "們", "pinyin": "men" },
+          { "char": " ", "pinyin": " " },
+          { "char": "依", "pinyin": "yī" },
+          { "char": "然", "pinyin": "rán" },
+          { "char": "走", "pinyin": "zǒu" },
+          { "char": "著", "pinyin": "zhe" }
+        ],
+        "texts": {
+          "es": "Nosotros, después, seguimos caminando",
+          "en": "We, afterwards, are still walking",
+          "zh-CN": "后来的我们 依然走着",
+          "zh-TW": "後來的我們 依然走著"
+        }
+      },
+      {
+        "duration": 2.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "只", "pinyin": "zhǐ" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "再", "pinyin": "zài" },
+          { "char": "並", "pinyin": "bìng" },
+          { "char": "肩", "pinyin": "jiān" },
+          { "char": "了", "pinyin": "le" }
+        ],
+        "texts": {
+          "es": "Solo que ya no hombro con hombro",
+          "en": "Just no longer side by side",
+          "zh-CN": "只是不再并肩了",
+          "zh-TW": "只是不再並肩了"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "朝", "pinyin": "cháo" },
+          { "char": "各", "pinyin": "gè" },
+          { "char": "自", "pinyin": "zì" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "人", "pinyin": "rén" },
+          { "char": "生", "pinyin": "shēng" },
+          { "char": " ", "pinyin": " " },
+          { "char": "追", "pinyin": "zhuī" },
+          { "char": "尋", "pinyin": "xún" },
+          { "char": "了", "pinyin": "le" }
+        ],
+        "texts": {
+          "es": "Buscando cada uno nuestras propias vidas",
+          "en": "Towards our respective lives, we pursued",
+          "zh-CN": "朝各自的人生 追寻了",
+          "zh-TW": "朝各自的人生 追尋了"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": true,
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "無", "pinyin": "wú" },
+          { "char": "論", "pinyin": "lùn" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": " ", "pinyin": " " },
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "故", "pinyin": "gù" },
+          { "char": "事", "pinyin": "shì" },
+          { "char": " ", "pinyin": " " },
+          { "char": "怎", "pinyin": "zěn" },
+          { "char": "麼", "pinyin": "me" },
+          { "char": "了", "pinyin": "le" }
+        ],
+        "texts": {
+          "es": "No importa cómo termine la historia después",
+          "en": "No matter what happened to the story later",
+          "zh-CN": "无论是 后来故事 怎么了",
+          "zh-TW": "無論是 後來故事 怎麼了"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "也", "pinyin": "yě" },
+          { "char": "要", "pinyin": "yào" },
+          { "char": "讓", "pinyin": "ràng" },
+          { "char": " ", "pinyin": " " },
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "人", "pinyin": "rén" },
+          { "char": "生", "pinyin": "shēng" },
+          { "char": " ", "pinyin": " " },
+          { "char": "精", "pinyin": "jīng" },
+          { "char": "彩", "pinyin": "cǎi" },
+          { "char": "著", "pinyin": "zhe" }
+        ],
+        "texts": {
+          "es": "Debemos dejar que la vida después sea maravillosa",
+          "en": "We must let life afterwards be brilliant",
+          "zh-CN": "也要让 后来人生 精彩着",
+          "zh-TW": "也要讓 後來人生 精彩著"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "們", "pinyin": "men" },
+          { "char": " ", "pinyin": " " },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "期", "pinyin": "qī" },
+          { "char": "待", "pinyin": "dài" },
+          { "char": "著", "pinyin": "zhe" }
+        ],
+        "texts": {
+          "es": "Nosotros, después, espero",
+          "en": "We, afterwards, I'm looking forward",
+          "zh-CN": "后来的我们 我期待着",
+          "zh-TW": "後來的我們 我期待著"
+        }
+      },
+      {
+        "duration": 4.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "淚", "pinyin": "lèi" },
+          { "char": "水", "pinyin": "shuǐ" },
+          { "char": "中", "pinyin": "zhōng" },
+          { "char": " ", "pinyin": " " },
+          { "char": "能", "pinyin": "néng" },
+          { "char": "看", "pinyin": "kàn" },
+          { "char": "到", "pinyin": "dào" },
+          { "char": " ", "pinyin": " " },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "真", "pinyin": "zhēn" },
+          { "char": "的", "pinyin": "de" },
+          { "char": " ", "pinyin": " " },
+          { "char": "自", "pinyin": "zì" },
+          { "char": "由", "pinyin": "yóu" },
+          { "char": "了", "pinyin": "le" }
+        ],
+        "texts": {
+          "es": "Que entre lágrimas pueda ver que realmente eres libre",
+          "en": "That in tears I can see you are truly free",
+          "zh-CN": "泪水中 能看到 你真的 自由了",
+          "zh-TW": "淚水中 能看到 你真的 自由了"
         }
       },
       {
         "duration": 15.0,
-        "isMelody": false,
-        "original_char_pinyin": [
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "的", "pinyin": "de" }, { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": " ", "pinyin": " " },
-          { "char": "我", "pinyin": "wǒ" }, { "char": "期", "pinyin": "qī" }, { "char": "待", "pinyin": "dài" }, { "char": "著", "pinyin": "zhe" }, { "char": " ", "pinyin": " " },
-          { "char": "淚", "pinyin": "lèi" }, { "char": "水", "pinyin": "shuǐ" }, { "char": "中", "pinyin": "zhōng" }, { "char": " ", "pinyin": " " },
-          { "char": "能", "pinyin": "néng" }, { "char": "看", "pinyin": "kàn" }, { "char": "到", "pinyin": "dào" }, { "char": " ", "pinyin": " " },
-          { "char": "你", "pinyin": "nǐ" }, { "char": "真", "pinyin": "zhēn" }, { "char": "的", "pinyin": "de" }, { "char": " ", "pinyin": " " },
-          { "char": "自", "pinyin": "zì" }, { "char": "由", "pinyin": "yóu" }, { "char": "了", "pinyin": "le" }
-        ],
+        "isMelody": true,
+        "original_char_pinyin": [],
         "texts": {
-          "es": "El \"nosotros\" de después, espero ver entre lágrimas que realmente eres libre.",
-          "en": "The later us, I hope to see in tears that you are truly free.",
-          "zh-CN": "后来的我们 我期待着 泪水中 能看到 你真的 自由了",
-          "zh-TW": "後來的我們 我期待著 淚水中 能看到 你真的 自由了"
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
         }
       },
       {
@@ -493,143 +912,464 @@
         "isMelody": true,
         "original_char_pinyin": [],
         "texts": {
-          "es": "♫ Música instrumental (con voces de fondo: \"Te extraño tanto\", \"¿Dónde estás?\") ♫",
-          "en": "♫ Instrumental Break (with background vocals: \"I miss you so much\", \"Where are you?\") ♫",
-          "zh-CN": "♫ 间奏 (背景人声：“我好想你”，“你在哪”) ♫",
-          "zh-TW": "♫ 間奏 (背景人聲：「我好想你」，「你在哪」) ♫"
+          "es": "♫ Outro Instrumental Corto (con voces de fondo \"Te extraño tanto, ¿dónde estás?\") ♫",
+          "en": "♫ Short Instrumental Outro (with background vocals \"I miss you so much, where are you?\") ♫",
+          "zh-CN": "♫ 间奏 (背景人声 \"我好想你 你在哪\") ♫",
+          "zh-TW": "♫ 間奏 (背景人聲 \"我好想你 你在哪\") ♫"
         }
       },
       {
-        "duration": 15.0,
+        "duration": 4.0,
         "isMelody": false,
         "original_char_pinyin": [
-          { "char": "親", "pinyin": "qīn" }, { "char": "愛", "pinyin": "ài" }, { "char": "的", "pinyin": "de" }, { "char": " ", "pinyin": " " },
-          { "char": "回", "pinyin": "huí" }, { "char": "憶", "pinyin": "yì" }, { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": "共", "pinyin": "gòng" }, { "char": "同", "pinyin": "tóng" }, { "char": " ", "pinyin": " " },
-          { "char": "走", "pinyin": "zǒu" }, { "char": "過", "pinyin": "guò" }, { "char": "的", "pinyin": "de" }, { "char": "曲", "pinyin": "qū" }, { "char": "折", "pinyin": "zhé" }, { "char": " ", "pinyin": " " },
-          { "char": "是", "pinyin": "shì" }, { "char": "那", "pinyin": "nà" }, { "char": "些", "pinyin": "xiē" }, { "char": "帶", "pinyin": "dài" }, { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": " ", "pinyin": " " },
-          { "char": "來", "pinyin": "lái" }, { "char": "到", "pinyin": "dào" }, { "char": "了", "pinyin": "le" }, { "char": "這", "pinyin": "zhè" }, { "char": "一", "pinyin": "yī" }, { "char": "刻", "pinyin": "kè" }
+          { "char": "親", "pinyin": "qīn" },
+          { "char": "愛", "pinyin": "ài" },
+          { "char": "的", "pinyin": "de" },
+          { "char": " ", "pinyin": " " },
+          { "char": "回", "pinyin": "huí" },
+          { "char": "憶", "pinyin": "yì" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "們", "pinyin": "men" },
+          { "char": "共", "pinyin": "gòng" },
+          { "char": "同", "pinyin": "tóng" },
+          { "char": " ", "pinyin": " " },
+          { "char": "走", "pinyin": "zǒu" },
+          { "char": "過", "pinyin": "guò" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "曲", "pinyin": "qū" },
+          { "char": "折", "pinyin": "zhé" }
         ],
         "texts": {
-          "es": "Querida, recordando los giros y vueltas que caminamos juntos, son esos los que nos trajeron a este momento.",
-          "en": "My dear, remembering the twists and turns we walked together, it's those that brought us to this moment.",
-          "zh-CN": "亲爱的 回忆我们共同 走过的曲折 是那些带我们 来到了这一刻",
-          "zh-TW": "親愛的 回憶我們共同 走過的曲折 是那些帶我們 來到了這一刻"
+          "es": "Querida, recordando las vueltas que dimos juntos",
+          "en": "My dear, remembering the twists and turns we walked together",
+          "zh-CN": "亲爱的 回忆我们共同 走过的曲折",
+          "zh-TW": "親愛的 回憶我們共同 走過的曲折"
         }
       },
       {
-        "duration": 6.0,
+        "duration": 5.0,
         "isMelody": false,
         "original_char_pinyin": [
-          { "char": "讓", "pinyin": "ràng" }, { "char": "珍", "pinyin": "zhēn" }, { "char": "貴", "pinyin": "guì" }, { "char": "的", "pinyin": "de" }, { "char": "人", "pinyin": "rén" }, { "char": "生", "pinyin": "shēng" }, { "char": " ", "pinyin": " " },
-          { "char": "有", "pinyin": "yǒu" }, { "char": "失", "pinyin": "shī" }, { "char": "有", "pinyin": "yǒu" }, { "char": "得", "pinyin": "dé" }
+          { "char": "是", "pinyin": "shì" },
+          { "char": "那", "pinyin": "nà" },
+          { "char": "些", "pinyin": "xiē" },
+          { "char": "帶", "pinyin": "dài" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "們", "pinyin": "men" },
+          { "char": " ", "pinyin": " " },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "到", "pinyin": "dào" },
+          { "char": "了", "pinyin": "le" },
+          { "char": "這", "pinyin": "zhè" },
+          { "char": "一", "pinyin": "yī" },
+          { "char": "刻", "pinyin": "kè" }
         ],
         "texts": {
-          "es": "Haciendo que la preciosa vida tenga pérdidas y ganancias.",
-          "en": "Letting precious life have losses and gains.",
+          "es": "Son esas cosas las que nos trajeron a este momento",
+          "en": "It's those things that brought us to this moment",
+          "zh-CN": "是那些带我们 来到了这一刻",
+          "zh-TW": "是那些帶我們 來到了這一刻"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "讓", "pinyin": "ràng" },
+          { "char": "珍", "pinyin": "zhēn" },
+          { "char": "貴", "pinyin": "guì" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "人", "pinyin": "rén" },
+          { "char": "生", "pinyin": "shēng" },
+          { "char": " ", "pinyin": " " },
+          { "char": "有", "pinyin": "yǒu" },
+          { "char": "失", "pinyin": "shī" },
+          { "char": "有", "pinyin": "yǒu" },
+          { "char": "得", "pinyin": "dé" }
+        ],
+        "texts": {
+          "es": "Haciendo que esta preciosa vida tenga pérdidas y ganancias",
+          "en": "Letting this precious life have losses and gains",
           "zh-CN": "让珍贵的人生 有失有得",
           "zh-TW": "讓珍貴的人生 有失有得"
         }
       },
       {
+        "duration": 3.0,
+        "isMelody": true,
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
+        }
+      },
+      {
+        "duration": 6.0,
+        "isMelody": true,
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
+        }
+      },
+      {
         "duration": 2.0,
         "isMelody": true,
         "original_char_pinyin": [],
         "texts": {
-          "es": "♫ Música instrumental ♫",
-          "en": "♫ Instrumental Break ♫",
+          "es": "♫ Música Instrumental Corta ♫",
+          "en": "♫ Short Instrumental Break ♫",
           "zh-CN": "♫ 间奏 ♫",
           "zh-TW": "♫ 間奏 ♫"
         }
       },
       {
-        "duration": 24.0,
+        "duration": 3.0,
         "isMelody": false,
         "original_char_pinyin": [
-          { "char": "用", "pinyin": "yòng" }, { "char": "新", "pinyin": "xīn" }, { "char": "的", "pinyin": "de" }, { "char": "幸", "pinyin": "xìng" }, { "char": "福", "pinyin": "fú" }, { "char": " ", "pinyin": " " },
-          { "char": "把", "pinyin": "bǎ" }, { "char": "遺", "pinyin": "yí" }, { "char": "憾", "pinyin": "hàn" }, { "char": "包", "pinyin": "bāo" }, { "char": "著", "pinyin": "zhe" }, { "char": " ", "pinyin": " " },
-          { "char": "就", "pinyin": "jiù" }, { "char": "這", "pinyin": "zhè" }, { "char": "麼", "pinyin": "me" }, { "char": "朝", "pinyin": "cháo" }, { "char": "著", "pinyin": "zhe" }, { "char": " ", "pinyin": " " },
-          { "char": "未", "pinyin": "wèi" }, { "char": "來", "pinyin": "lái" }, { "char": "前", "pinyin": "qián" }, { "char": "進", "pinyin": "jìn" }, { "char": "了", "pinyin": "le" }, { "char": " ", "pinyin": " " },
-          { "char": "有", "pinyin": "yǒu" }, { "char": "再", "pinyin": "zài" }, { "char": "多", "pinyin": "duō" }, { "char": "的", "pinyin": "de" }, { "char": "不", "pinyin": "bù" }, { "char": "捨", "pinyin": "shě" }, { "char": " ", "pinyin": " " },
-          { "char": "也", "pinyin": "yě" }, { "char": "要", "pinyin": "yào" }, { "char": "狠", "pinyin": "hěn" }, { "char": "心", "pinyin": "xīn" }, { "char": "割", "pinyin": "gē" }, { "char": "捨", "pinyin": "shě" }, { "char": " ", "pinyin": " " },
-          { "char": "別", "pinyin": "bié" }, { "char": "回", "pinyin": "huí" }, { "char": "頭", "pinyin": "tóu" }, { "char": "看", "pinyin": "kàn" }, { "char": "我", "pinyin": "wǒ" }, { "char": " ", "pinyin": " " },
-          { "char": "親", "pinyin": "qīn" }, { "char": "愛", "pinyin": "ài" }, { "char": "的", "pinyin": "de" }
+          { "char": "用", "pinyin": "yòng" },
+          { "char": "新", "pinyin": "xīn" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "幸", "pinyin": "xìng" },
+          { "char": "福", "pinyin": "fú" },
+          { "char": " ", "pinyin": " " },
+          { "char": "把", "pinyin": "bǎ" },
+          { "char": "遺", "pinyin": "yí" },
+          { "char": "憾", "pinyin": "hàn" },
+          { "char": "包", "pinyin": "bāo" },
+          { "char": "著", "pinyin": "zhe" }
         ],
         "texts": {
-          "es": "Usa una nueva felicidad para envolver los arrepentimientos, y así avanza hacia el futuro. No importa cuánta renuencia haya, debes ser cruel y dejarlo ir. No mires atrás hacia mí, querida.",
-          "en": "Use new happiness to wrap regrets, and just like that, move towards the future. No matter how much reluctance there is, you must be ruthless and let go. Don't look back at me, my dear.",
-          "zh-CN": "用新的幸福 把遗憾包着 就这么朝着 未来前进了 有再多的不舍 也要狠心割舍 别回头看我 亲爱的",
-          "zh-TW": "用新的幸福 把遺憾包著 就這麼朝著 未來前進了 有再多的不捨 也要狠心割捨 別回頭看我 親愛的"
+          "es": "Con nueva felicidad, envuelve los remordimientos",
+          "en": "With new happiness, wrap up the regrets",
+          "zh-CN": "用新的幸福 把遗憾包着",
+          "zh-TW": "用新的幸福 把遺憾包著"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "就", "pinyin": "jiù" },
+          { "char": "這", "pinyin": "zhè" },
+          { "char": "麼", "pinyin": "me" },
+          { "char": "朝", "pinyin": "cháo" },
+          { "char": "著", "pinyin": "zhe" },
+          { "char": " ", "pinyin": " " },
+          { "char": "未", "pinyin": "wèi" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "前", "pinyin": "qián" },
+          { "char": "進", "pinyin": "jìn" },
+          { "char": "了", "pinyin": "le" }
+        ],
+        "texts": {
+          "es": "Así, avanza hacia el futuro",
+          "en": "Just like that, move towards the future",
+          "zh-CN": "就这么朝着 未来前进了",
+          "zh-TW": "就這麼朝著 未來前進了"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "有", "pinyin": "yǒu" },
+          { "char": "再", "pinyin": "zài" },
+          { "char": "多", "pinyin": "duō" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "捨", "pinyin": "shě" },
+          { "char": " ", "pinyin": " " },
+          { "char": "也", "pinyin": "yě" },
+          { "char": "要", "pinyin": "yào" },
+          { "char": "狠", "pinyin": "hěn" },
+          { "char": "心", "pinyin": "xīn" },
+          { "char": "割", "pinyin": "gē" },
+          { "char": "捨", "pinyin": "shě" }
+        ],
+        "texts": {
+          "es": "No importa cuánta reticencia haya, debes cortar con crueldad",
+          "en": "No matter how much reluctance there is, you must cruelly let go",
+          "zh-CN": "有再多的不舍 也要狠心割舍",
+          "zh-TW": "有再多的不捨 也要狠心割捨"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "別", "pinyin": "bié" },
+          { "char": "回", "pinyin": "huí" },
+          { "char": "頭", "pinyin": "tóu" },
+          { "char": "看", "pinyin": "kàn" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": " ", "pinyin": " " },
+          { "char": "親", "pinyin": "qīn" },
+          { "char": "愛", "pinyin": "ài" },
+          { "char": "的", "pinyin": "de" }
+        ],
+        "texts": {
+          "es": "No mires atrás hacia mí, querida",
+          "en": "Don't look back at me, my dear",
+          "zh-CN": "别回头看我 亲爱的",
+          "zh-TW": "別回頭看我 親愛的"
         }
       },
       {
         "duration": 12.0,
-        "isMelody": false,
-        "original_char_pinyin": [
-          { "char": "只", "pinyin": "zhǐ" }, { "char": "期", "pinyin": "qī" }, { "char": "待", "pinyin": "dài" }, { "char": " ", "pinyin": " " },
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "的", "pinyin": "de" }, { "char": "你", "pinyin": "nǐ" }, { "char": " ", "pinyin": " " },
-          { "char": "能", "pinyin": "néng" }, { "char": "快", "pinyin": "kuài" }, { "char": "樂", "pinyin": "lè" }, { "char": " ", "pinyin": " " },
-          { "char": "那", "pinyin": "nà" }, { "char": "就", "pinyin": "jiù" }, { "char": "是", "pinyin": "shì" }, { "char": " ", "pinyin": " " },
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "的", "pinyin": "de" }, { "char": "我", "pinyin": "wǒ" }, { "char": " ", "pinyin": " " },
-          { "char": "最", "pinyin": "zuì" }, { "char": "想", "pinyin": "xiǎng" }, { "char": "的", "pinyin": "de" }
-        ],
+        "isMelody": true,
+        "original_char_pinyin": [],
         "texts": {
-          "es": "Solo espero que el \"tú\" de después pueda ser feliz. Eso es lo que el \"yo\" de después más desea.",
-          "en": "I only hope that the later you can be happy. That is what the later me wants the most.",
-          "zh-CN": "只期待 后来的你 能快乐 那就是 后来的我 最想的",
-          "zh-TW": "只期待 後來的你 能快樂 那就是 後來的我 最想的"
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
         }
       },
       {
-        "duration": 11.0,
+        "duration": 2.0,
         "isMelody": false,
         "original_char_pinyin": [
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "的", "pinyin": "de" }, { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": " ", "pinyin": " " },
-          { "char": "依", "pinyin": "yī" }, { "char": "然", "pinyin": "rán" }, { "char": "走", "pinyin": "zǒu" }, { "char": "著", "pinyin": "zhe" }, { "char": " ", "pinyin": " " },
-          { "char": "只", "pinyin": "zhǐ" }, { "char": "是", "pinyin": "shì" }, { "char": "不", "pinyin": "bú" }, { "char": "再", "pinyin": "zài" }, { "char": "並", "pinyin": "bìng" }, { "char": "肩", "pinyin": "jiān" }, { "char": "了", "pinyin": "le" }, { "char": " ", "pinyin": " " },
-          { "char": "朝", "pinyin": "cháo" }, { "char": "各", "pinyin": "gè" }, { "char": "自", "pinyin": "zì" }, { "char": "的", "pinyin": "de" }, { "char": "人", "pinyin": "rén" }, { "char": "生", "pinyin": "shēng" }, { "char": " ", "pinyin": " " },
-          { "char": "追", "pinyin": "zhuī" }, { "char": "尋", "pinyin": "xún" }, { "char": "了", "pinyin": "le" }
+          { "char": "只", "pinyin": "zhǐ" },
+          { "char": "期", "pinyin": "qī" },
+          { "char": "待", "pinyin": "dài" },
+          { "char": " ", "pinyin": " " },
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": " ", "pinyin": " " },
+          { "char": "能", "pinyin": "néng" },
+          { "char": "快", "pinyin": "kuài" },
+          { "char": "樂", "pinyin": "lè" }
         ],
         "texts": {
-          "es": "El \"nosotros\" de después sigue caminando, solo que ya no hombro con hombro. Cada uno persiguiendo su propia vida.",
-          "en": "The later us are still walking, just not side by side anymore. Each pursuing their own lives.",
-          "zh-CN": "后来的我们 依然走着 只是不再并肩了 朝各自的人生 追寻了",
-          "zh-TW": "後來的我們 依然走著 只是不再並肩了 朝各自的人生 追尋了"
+          "es": "Solo espero que tú, en el futuro, puedas ser feliz",
+          "en": "I only hope that you, later on, can be happy",
+          "zh-CN": "只期待 后来的你 能快乐",
+          "zh-TW": "只期待 後來的你 能快樂"
         }
       },
       {
-        "duration": 13.0,
+        "duration": 3.0,
         "isMelody": false,
         "original_char_pinyin": [
-          { "char": "無", "pinyin": "wú" }, { "char": "論", "pinyin": "lùn" }, { "char": "是", "pinyin": "shì" }, { "char": " ", "pinyin": " " },
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "故", "pinyin": "gù" }, { "char": "事", "pinyin": "shì" }, { "char": " ", "pinyin": " " },
-          { "char": "怎", "pinyin": "zěn" }, { "char": "麼", "pinyin": "me" }, { "char": "了", "pinyin": "le" }, { "char": " ", "pinyin": " " },
-          { "char": "也", "pinyin": "yě" }, { "char": "要", "pinyin": "yào" }, { "char": "讓", "pinyin": "ràng" }, { "char": " ", "pinyin": " " },
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "人", "pinyin": "rén" }, { "char": "生", "pinyin": "shēng" }, { "char": " ", "pinyin": " " },
-          { "char": "精", "pinyin": "jīng" }, { "char": "彩", "pinyin": "cǎi" }, { "char": "著", "pinyin": "zhe" }
+          { "char": "那", "pinyin": "nà" },
+          { "char": "就", "pinyin": "jiù" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": " ", "pinyin": " " },
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": " ", "pinyin": " " },
+          { "char": "最", "pinyin": "zuì" },
+          { "char": "想", "pinyin": "xiǎng" },
+          { "char": "的", "pinyin": "de" }
         ],
         "texts": {
-          "es": "No importa cómo termine la historia después, debemos hacer que la vida después sea maravillosa.",
-          "en": "No matter what happens to the story later, we must make the life later wonderful.",
-          "zh-CN": "无论是 后来故事 怎么了 也要让 后来人生 精彩着",
-          "zh-TW": "無論是 後來故事 怎麼了 也要讓 後來人生 精彩著"
+          "es": "Eso es lo que yo, en el futuro, más deseo",
+          "en": "That is what I, later on, want the most",
+          "zh-CN": "那就是 后来的我 最想的",
+          "zh-TW": "那就是 後來的我 最想的"
+        }
+      },
+      {
+        "duration": 7.0,
+        "isMelody": true,
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
+        }
+      },
+      {
+        "duration": 2.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "們", "pinyin": "men" },
+          { "char": " ", "pinyin": " " },
+          { "char": "依", "pinyin": "yī" },
+          { "char": "然", "pinyin": "rán" },
+          { "char": "走", "pinyin": "zǒu" },
+          { "char": "著", "pinyin": "zhe" }
+        ],
+        "texts": {
+          "es": "Nosotros, después, seguimos caminando",
+          "en": "We, afterwards, are still walking",
+          "zh-CN": "后来的我们 依然走着",
+          "zh-TW": "後來的我們 依然走著"
+        }
+      },
+      {
+        "duration": 2.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "只", "pinyin": "zhǐ" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "再", "pinyin": "zài" },
+          { "char": "並", "pinyin": "bìng" },
+          { "char": "肩", "pinyin": "jiān" },
+          { "char": "了", "pinyin": "le" }
+        ],
+        "texts": {
+          "es": "Solo que ya no hombro con hombro",
+          "en": "Just no longer side by side",
+          "zh-CN": "只是不再并肩了",
+          "zh-TW": "只是不再並肩了"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "朝", "pinyin": "cháo" },
+          { "char": "各", "pinyin": "gè" },
+          { "char": "自", "pinyin": "zì" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "人", "pinyin": "rén" },
+          { "char": "生", "pinyin": "shēng" },
+          { "char": " ", "pinyin": " " },
+          { "char": "追", "pinyin": "zhuī" },
+          { "char": "尋", "pinyin": "xún" },
+          { "char": "了", "pinyin": "le" }
+        ],
+        "texts": {
+          "es": "Buscando cada uno nuestras propias vidas",
+          "en": "Towards our respective lives, we pursued",
+          "zh-CN": "朝各自的人生 追寻了",
+          "zh-TW": "朝各自的人生 追尋了"
+        }
+      },
+      {
+        "duration": 4.0,
+        "isMelody": true,
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "無", "pinyin": "wú" },
+          { "char": "論", "pinyin": "lùn" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": " ", "pinyin": " " },
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "故", "pinyin": "gù" },
+          { "char": "事", "pinyin": "shì" },
+          { "char": " ", "pinyin": " " },
+          { "char": "怎", "pinyin": "zěn" },
+          { "char": "麼", "pinyin": "me" },
+          { "char": "了", "pinyin": "le" }
+        ],
+        "texts": {
+          "es": "No importa cómo termine la historia después",
+          "en": "No matter what happened to the story later",
+          "zh-CN": "无论是 后来故事 怎么了",
+          "zh-TW": "無論是 後來故事 怎麼了"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "也", "pinyin": "yě" },
+          { "char": "要", "pinyin": "yào" },
+          { "char": "讓", "pinyin": "ràng" },
+          { "char": " ", "pinyin": " " },
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "人", "pinyin": "rén" },
+          { "char": "生", "pinyin": "shēng" },
+          { "char": " ", "pinyin": " " },
+          { "char": "精", "pinyin": "jīng" },
+          { "char": "彩", "pinyin": "cǎi" },
+          { "char": "著", "pinyin": "zhe" }
+        ],
+        "texts": {
+          "es": "Debemos dejar que la vida después sea maravillosa",
+          "en": "We must let life afterwards be brilliant",
+          "zh-CN": "也要让 后来人生 精彩着",
+          "zh-TW": "也要讓 後來人生 精彩著"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "們", "pinyin": "men" },
+          { "char": " ", "pinyin": " " },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "期", "pinyin": "qī" },
+          { "char": "待", "pinyin": "dài" },
+          { "char": "著", "pinyin": "zhe" }
+        ],
+        "texts": {
+          "es": "Nosotros, después, espero",
+          "en": "We, afterwards, I'm looking forward",
+          "zh-CN": "后来的我们 我期待着",
+          "zh-TW": "後來的我們 我期待著"
+        }
+      },
+      {
+        "duration": 4.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "淚", "pinyin": "lèi" },
+          { "char": "水", "pinyin": "shuǐ" },
+          { "char": "中", "pinyin": "zhōng" },
+          { "char": " ", "pinyin": " " },
+          { "char": "能", "pinyin": "néng" },
+          { "char": "看", "pinyin": "kàn" },
+          { "char": "到", "pinyin": "dào" },
+          { "char": " ", "pinyin": " " },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "真", "pinyin": "zhēn" },
+          { "char": "的", "pinyin": "de" },
+          { "char": " ", "pinyin": " " },
+          { "char": "幸", "pinyin": "xìng" },
+          { "char": "福", "pinyin": "fú" },
+          { "char": "快", "pinyin": "kuài" },
+          { "char": "樂", "pinyin": "lè" }
+        ],
+        "texts": {
+          "es": "Que entre lágrimas pueda ver que realmente eres feliz",
+          "en": "That in tears I can see you are truly happy and joyful",
+          "zh-CN": "泪水中 能看到 你真的 幸福快乐",
+          "zh-TW": "淚水中 能看到 你真的 幸福快樂"
         }
       },
       {
         "duration": 17.0,
-        "isMelody": false,
-        "original_char_pinyin": [
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "的", "pinyin": "de" }, { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": " ", "pinyin": " " },
-          { "char": "我", "pinyin": "wǒ" }, { "char": "期", "pinyin": "qī" }, { "char": "待", "pinyin": "dài" }, { "char": "著", "pinyin": "zhe" }, { "char": " ", "pinyin": " " },
-          { "char": "淚", "pinyin": "lèi" }, { "char": "水", "pinyin": "shuǐ" }, { "char": "中", "pinyin": "zhōng" }, { "char": " ", "pinyin": " " },
-          { "char": "能", "pinyin": "néng" }, { "char": "看", "pinyin": "kàn" }, { "char": "到", "pinyin": "dào" }, { "char": " ", "pinyin": " " },
-          { "char": "你", "pinyin": "nǐ" }, { "char": "真", "pinyin": "zhēn" }, { "char": "的", "pinyin": "de" }, { "char": " ", "pinyin": " " },
-          { "char": "幸", "pinyin": "xìng" }, { "char": "福", "pinyin": "fú" }, { "char": "快", "pinyin": "kuài" }, { "char": "樂", "pinyin": "lè" }
-        ],
+        "isMelody": true,
+        "original_char_pinyin": [],
         "texts": {
-          "es": "El \"nosotros\" de después, espero ver entre lágrimas que realmente eres feliz y dichoso.",
-          "en": "The later us, I hope to see in tears that you are truly happy and joyful.",
-          "zh-CN": "后来的我们 我期待着 泪水中 能看到 你真的 幸福快乐",
-          "zh-TW": "後來的我們 我期待著 淚水中 能看到 你真的 幸福快樂"
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
         }
       },
       {
@@ -637,119 +1377,310 @@
         "isMelody": true,
         "original_char_pinyin": [],
         "texts": {
-          "es": "♫ Música instrumental (Outro Piano) ♫",
-          "en": "♫ Instrumental Break (Piano Outro) ♫",
-          "zh-CN": "♫ 间奏 (钢琴尾奏) ♫",
-          "zh-TW": "♫ 間奏 (鋼琴尾奏) ♫"
-        }
-      },
-      {
-        "duration": 13.0,
-        "isMelody": false,
-        "original_char_pinyin": [
-          { "char": "在", "pinyin": "zài" }, { "char": "某", "pinyin": "mǒu" }, { "char": "處", "pinyin": "chù" }, { "char": " ", "pinyin": " " },
-          { "char": "另", "pinyin": "lìng" }, { "char": "一", "pinyin": "yī" }, { "char": "個", "pinyin": "gè" }, { "char": "你", "pinyin": "nǐ" }, { "char": " ", "pinyin": " " },
-          { "char": "留", "pinyin": "liú" }, { "char": "下", "pinyin": "xià" }, { "char": "了", "pinyin": "le" }, { "char": " ", "pinyin": " " },
-          { "char": "在", "pinyin": "zài" }, { "char": "那", "pinyin": "nà" }, { "char": "裡", "pinyin": "lǐ" }, { "char": " ", "pinyin": " " },
-          { "char": "另", "pinyin": "lìng" }, { "char": "一", "pinyin": "yī" }, { "char": "個", "pinyin": "gè" }, { "char": "我", "pinyin": "wǒ" }, { "char": " ", "pinyin": " " },
-          { "char": "微", "pinyin": "wēi" }, { "char": "笑", "pinyin": "xiào" }, { "char": "著", "pinyin": "zhe" }
-        ],
-        "texts": {
-          "es": "En algún lugar, otro \"tú\" se quedó. Allí, otro \"yo\" sonríe.",
-          "en": "Somewhere, another you stayed. There, another me is smiling.",
-          "zh-CN": "在某处 另一个你 留下了 在那里 另一个我 微笑着",
-          "zh-TW": "在某處 另一個你 留下了 在那裡 另一個我 微笑著"
-        }
-      },
-      {
-        "duration": 12.0,
-        "isMelody": false,
-        "original_char_pinyin": [
-          { "char": "另", "pinyin": "lìng" }, { "char": "一", "pinyin": "yī" }, { "char": "個", "pinyin": "gè" }, { "char": " ", "pinyin": " " },
-          { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": "還", "pinyin": "hái" }, { "char": "深", "pinyin": "shēn" }, { "char": "愛", "pinyin": "ài" }, { "char": "著", "pinyin": "zhe" }, { "char": " ", "pinyin": " " },
-          { "char": "代", "pinyin": "dài" }, { "char": "替", "pinyin": "tì" }, { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": "永", "pinyin": "yǒng" }, { "char": "恆", "pinyin": "héng" }, { "char": "著", "pinyin": "zhe" }, { "char": " ", "pinyin": " " },
-          { "char": "如", "pinyin": "rú" }, { "char": "果", "pinyin": "guǒ" }, { "char": "能", "pinyin": "néng" }, { "char": "這", "pinyin": "zhè" }, { "char": "麼", "pinyin": "me" }, { "char": "想", "pinyin": "xiǎng" }, { "char": " ", "pinyin": " " },
-          { "char": "就", "pinyin": "jiù" }, { "char": "夠", "pinyin": "gòu" }, { "char": "了", "pinyin": "le" }
-        ],
-        "texts": {
-          "es": "Otro \"nosotros\" que todavía se ama profundamente, representándonos eternamente. Si podemos pensar así, es suficiente.",
-          "en": "Another us still deeply in love, representing us eternally. If we can think this way, it's enough.",
-          "zh-CN": "另一个 我们还深爱着 代替我们永恒着 如果能这么想 就够了",
-          "zh-TW": "另一個 我們還深愛著 代替我們永恆著 如果能這麼想 就夠了"
-        }
-      },
-      {
-        "duration": 13.0,
-        "isMelody": false,
-        "original_char_pinyin": [
-          { "char": "無", "pinyin": "wú" }, { "char": "論", "pinyin": "lùn" }, { "char": "是", "pinyin": "shì" }, { "char": " ", "pinyin": " " },
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "故", "pinyin": "gù" }, { "char": "事", "pinyin": "shì" }, { "char": " ", "pinyin": " " },
-          { "char": "怎", "pinyin": "zěn" }, { "char": "麼", "pinyin": "me" }, { "char": "了", "pinyin": "le" }, { "char": " ", "pinyin": " " },
-          { "char": "也", "pinyin": "yě" }, { "char": "要", "pinyin": "yào" }, { "char": "讓", "pinyin": "ràng" }, { "char": " ", "pinyin": " " },
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "人", "pinyin": "rén" }, { "char": "生", "pinyin": "shēng" }, { "char": " ", "pinyin": " " },
-          { "char": "值", "pinyin": "zhí" }, { "char": "得", "pinyin": "dé" }
-        ],
-        "texts": {
-          "es": "No importa cómo termine la historia después, debemos hacer que la vida después valga la pena.",
-          "en": "No matter what happens to the story later, we must make the life later worthwhile.",
-          "zh-CN": "无论是 后来故事 怎么了 也要让 后来人生 值得",
-          "zh-TW": "無論是 後來故事 怎麼了 也要讓 後來人生 值得"
-        }
-      },
-      {
-        "duration": 17.0,
-        "isMelody": false,
-        "original_char_pinyin": [
-          { "char": "後", "pinyin": "hòu" }, { "char": "來", "pinyin": "lái" }, { "char": "的", "pinyin": "de" }, { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": " ", "pinyin": " " },
-          { "char": "我", "pinyin": "wǒ" }, { "char": "期", "pinyin": "qī" }, { "char": "待", "pinyin": "dài" }, { "char": "著", "pinyin": "zhe" }, { "char": " ", "pinyin": " " },
-          { "char": "淚", "pinyin": "lèi" }, { "char": "水", "pinyin": "shuǐ" }, { "char": "中", "pinyin": "zhōng" }, { "char": " ", "pinyin": " " },
-          { "char": "能", "pinyin": "néng" }, { "char": "看", "pinyin": "kàn" }, { "char": "到", "pinyin": "dào" }, { "char": " ", "pinyin": " " },
-          { "char": "你", "pinyin": "nǐ" }, { "char": "真", "pinyin": "zhēn" }, { "char": "的", "pinyin": "de" }, { "char": " ", "pinyin": " " }
-        ],
-        "texts": {
-          "es": "El \"nosotros\" de después, espero ver entre lágrimas que realmente...",
-          "en": "The later us, I hope to see in tears that you truly...",
-          "zh-CN": "后来的我们 我期待着 泪水中 能看到 你真的",
-          "zh-TW": "後來的我們 我期待著 淚水中 能看到 你真的"
-        }
-      },
-      {
-        "duration": 2.0,
-        "isMelody": false,
-        "original_char_pinyin": [
-          { "char": "自", "pinyin": "zì" }, { "char": "由", "pinyin": "yóu" }, { "char": "了", "pinyin": "le" }
-        ],
-        "texts": {
-          "es": "...eres libre.",
-          "en": "...are free.",
-          "zh-CN": "自由了",
-          "zh-TW": "自由了"
-        }
-      },
-      {
-        "duration": 15.0,
-        "isMelody": true,
-        "original_char_pinyin": [],
-        "texts": {
-          "es": "♫ Outro Instrumental (con créditos en pantalla) ♫",
-          "en": "♫ Instrumental Outro (with on-screen credits) ♫",
-          "zh-CN": "♫ 尾奏 (屏幕显示制作人员名单) ♫",
-          "zh-TW": "♫ 尾奏 (螢幕顯示製作人員名單) ♫"
+          "es": "♫ Outro Instrumental Piano ♫",
+          "en": "♫ Instrumental Piano Outro ♫",
+          "zh-CN": "♫ 钢琴尾奏 ♫",
+          "zh-TW": "♫ 鋼琴尾奏 ♫"
         }
       },
       {
         "duration": 3.0,
         "isMelody": false,
         "original_char_pinyin": [
-          { "char": "我", "pinyin": "wǒ" }, { "char": "始", "pinyin": "shǐ" }, { "char": "終", "pinyin": "zhōng" }, { "char": "相", "pinyin": "xiāng" }, { "char": "信", "pinyin": "xìn" }, { "char": " ", "pinyin": " " },
-          { "char": "所", "pinyin": "suǒ" }, { "char": "有", "pinyin": "yǒu" }, { "char": "相", "pinyin": "xiāng" }, { "char": "遇", "pinyin": "yù" }, { "char": " ", "pinyin": " " },
-          { "char": "都", "pinyin": "dōu" }, { "char": "有", "pinyin": "yǒu" }, { "char": "意", "pinyin": "yì" }, { "char": "義", "pinyin": "yì" }
+          { "char": "在", "pinyin": "zài" },
+          { "char": "某", "pinyin": "mǒu" },
+          { "char": "處", "pinyin": "chù" },
+          { "char": " ", "pinyin": " " },
+          { "char": "另", "pinyin": "lìng" },
+          { "char": "一", "pinyin": "yī" },
+          { "char": "個", "pinyin": "gè" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": " ", "pinyin": " " },
+          { "char": "留", "pinyin": "liú" },
+          { "char": "下", "pinyin": "xià" },
+          { "char": "了", "pinyin": "le" }
         ],
         "texts": {
-          "es": "Siempre creo que todos los encuentros tienen un significado.",
+          "es": "En algún lugar, otro tú se quedó",
+          "en": "Somewhere, another you stayed",
+          "zh-CN": "在某处 另一个你 留下了",
+          "zh-TW": "在某處 另一個你 留下了"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "在", "pinyin": "zài" },
+          { "char": "那", "pinyin": "nà" },
+          { "char": "裡", "pinyin": "lǐ" },
+          { "char": " ", "pinyin": " " },
+          { "char": "另", "pinyin": "lìng" },
+          { "char": "一", "pinyin": "yī" },
+          { "char": "個", "pinyin": "gè" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": " ", "pinyin": " " },
+          { "char": "微", "pinyin": "wēi" },
+          { "char": "笑", "pinyin": "xiào" },
+          { "char": "著", "pinyin": "zhe" }
+        ],
+        "texts": {
+          "es": "Allí, otro yo sonreía",
+          "en": "There, another me was smiling",
+          "zh-CN": "在那里 另一个我 微笑着",
+          "zh-TW": "在那裡 另一個我 微笑著"
+        }
+      },
+      {
+        "duration": 7.0,
+        "isMelody": true,
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
+        }
+      },
+      {
+        "duration": 2.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "另", "pinyin": "lìng" },
+          { "char": "一", "pinyin": "yī" },
+          { "char": "個", "pinyin": "gè" },
+          { "char": " ", "pinyin": " " },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "們", "pinyin": "men" },
+          { "char": "還", "pinyin": "hái" },
+          { "char": "深", "pinyin": "shēn" },
+          { "char": "愛", "pinyin": "ài" },
+          { "char": "著", "pinyin": "zhe" }
+        ],
+        "texts": {
+          "es": "Otros nosotros aún se aman profundamente",
+          "en": "Another us are still deeply in love",
+          "zh-CN": "另一个 我们还深爱着",
+          "zh-TW": "另一個 我們還深愛著"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "代", "pinyin": "dài" },
+          { "char": "替", "pinyin": "tì" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "們", "pinyin": "men" },
+          { "char": "永", "pinyin": "yǒng" },
+          { "char": "恆", "pinyin": "héng" },
+          { "char": "著", "pinyin": "zhe" }
+        ],
+        "texts": {
+          "es": "Existiendo eternamente en nuestro lugar",
+          "en": "Existing eternally in our place",
+          "zh-CN": "代替我们永恒着",
+          "zh-TW": "代替我們永恆著"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "如", "pinyin": "rú" },
+          { "char": "果", "pinyin": "guǒ" },
+          { "char": "能", "pinyin": "néng" },
+          { "char": "這", "pinyin": "zhè" },
+          { "char": "麼", "pinyin": "me" },
+          { "char": "想", "pinyin": "xiǎng" },
+          { "char": " ", "pinyin": " " },
+          { "char": "就", "pinyin": "jiù" },
+          { "char": "夠", "pinyin": "gòu" },
+          { "char": "了", "pinyin": "le" }
+        ],
+        "texts": {
+          "es": "Si podemos pensar así, es suficiente",
+          "en": "If we can think like this, it's enough",
+          "zh-CN": "如果能这么想 就够了",
+          "zh-TW": "如果能這麼想 就夠了"
+        }
+      },
+      {
+        "duration": 4.0,
+        "isMelody": true,
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "無", "pinyin": "wú" },
+          { "char": "論", "pinyin": "lùn" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": " ", "pinyin": " " },
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "故", "pinyin": "gù" },
+          { "char": "事", "pinyin": "shì" },
+          { "char": " ", "pinyin": " " },
+          { "char": "怎", "pinyin": "zěn" },
+          { "char": "麼", "pinyin": "me" },
+          { "char": "了", "pinyin": "le" }
+        ],
+        "texts": {
+          "es": "No importa cómo termine la historia después",
+          "en": "No matter what happened to the story later",
+          "zh-CN": "无论是 后来故事 怎么了",
+          "zh-TW": "無論是 後來故事 怎麼了"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "也", "pinyin": "yě" },
+          { "char": "要", "pinyin": "yào" },
+          { "char": "讓", "pinyin": "ràng" },
+          { "char": " ", "pinyin": " " },
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "人", "pinyin": "rén" },
+          { "char": "生", "pinyin": "shēng" },
+          { "char": " ", "pinyin": " " },
+          { "char": "值", "pinyin": "zhí" },
+          { "char": "得", "pinyin": "dé" }
+        ],
+        "texts": {
+          "es": "Debemos dejar que la vida después valga la pena",
+          "en": "We must let life afterwards be worthwhile",
+          "zh-CN": "也要让 后来人生 值得",
+          "zh-TW": "也要讓 後來人生 值得"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "後", "pinyin": "hòu" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "們", "pinyin": "men" },
+          { "char": " ", "pinyin": " " },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "期", "pinyin": "qī" },
+          { "char": "待", "pinyin": "dài" },
+          { "char": "著", "pinyin": "zhe" }
+        ],
+        "texts": {
+          "es": "Nosotros, después, espero",
+          "en": "We, afterwards, I'm looking forward",
+          "zh-CN": "后来的我们 我期待着",
+          "zh-TW": "後來的我們 我期待著"
+        }
+      },
+      {
+        "duration": 6.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "淚", "pinyin": "lèi" },
+          { "char": "水", "pinyin": "shuǐ" },
+          { "char": "中", "pinyin": "zhōng" },
+          { "char": " ", "pinyin": " " },
+          { "char": "能", "pinyin": "néng" },
+          { "char": "看", "pinyin": "kàn" },
+          { "char": "到", "pinyin": "dào" },
+          { "char": " ", "pinyin": " " },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "真", "pinyin": "zhēn" },
+          { "char": "的", "pinyin": "de" }
+        ],
+        "texts": {
+          "es": "Que entre lágrimas pueda ver que realmente",
+          "en": "That in tears I can see you truly",
+          "zh-CN": "泪水中 能看到 你真的",
+          "zh-TW": "淚水中 能看到 你真的"
+        }
+      },
+      {
+        "duration": 12.0,
+        "isMelody": true,
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "自", "pinyin": "zì" },
+          { "char": "由", "pinyin": "yóu" },
+          { "char": "了", "pinyin": "le" }
+        ],
+        "texts": {
+          "es": "Eres libre",
+          "en": "Are free",
+          "zh-CN": "自由了",
+          "zh-TW": "自由了"
+        }
+      },
+      {
+        "duration": 11.0,
+        "isMelody": true,
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Outro Instrumental Final con créditos en pantalla ♫",
+          "en": "♫ Final Instrumental Outro with on-screen credits ♫",
+          "zh-CN": "♫ 尾奏 (屏幕显示制作人员名单) ♫",
+          "zh-TW": "♫ 尾奏 (螢幕顯示製作人員名單) ♫"
+        }
+      },
+      {
+        "duration": 4.0,
+        "isMelody": false,
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "始", "pinyin": "shǐ" },
+          { "char": "終", "pinyin": "zhōng" },
+          { "char": "相", "pinyin": "xiāng" },
+          { "char": "信", "pinyin": "xìn" },
+          { "char": " ", "pinyin": " " },
+          { "char": "所", "pinyin": "suǒ" },
+          { "char": "有", "pinyin": "yǒu" },
+          { "char": "相", "pinyin": "xiāng" },
+          { "char": "遇", "pinyin": "yù" },
+          { "char": " ", "pinyin": " " },
+          { "char": "都", "pinyin": "dōu" },
+          { "char": "有", "pinyin": "yǒu" },
+          { "char": "意", "pinyin": "yì" },
+          { "char": "義", "pinyin": "yì" }
+        ],
+        "texts": {
+          "es": "Siempre he creído que todos los encuentros tienen un significado.",
           "en": "I always believe that all encounters have meaning.",
           "zh-CN": "我始终相信 所有相遇 都有意义",
           "zh-TW": "我始終相信 所有相遇 都有意義"
+        }
+      },
+      {
+        "duration": 3.0,
+        "isMelody": true,
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫",
+          "en": "♫",
+          "zh-CN": "♫",
+          "zh-TW": "♫"
         }
       }
     ]
