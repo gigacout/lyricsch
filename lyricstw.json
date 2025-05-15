@@ -326,10 +326,10 @@
       { "duration": 15.0, "isMelody": true, "original_char_pinyin": [], "texts": { "es": "♫ Outro Instrumental ♫", "en": "♫ Instrumental Outro ♫", "zh-CN": "♫ 尾奏 ♫", "zh-TW": "♫ 尾奏 ♫" } }
     ]
   },
-    "hou_lai_de_wo_men_mayday_cover_xiaoyang": {
+    "hou_lai_de_wo_men_mayday": {
     "title": "後來的我們",
     "artist": "五月天 (Mayday)",
-    "cover_url": "https://i.pinimg.com/originals/4e/0d/2c/4e0d2c2a7111b0e76311254551e0d88c.jpg",
+    "cover_url": "https://i.ibb.co/Rp80ZDNc/mayday.png",
     "language_names": { "es": "Español", "en": "English", "zh-CN": "简体中文 (Chino Simplificado)", "zh-TW": "繁體中文 (Chino Tradicional)" },
     "lines": [
       { "duration": 15.0, "isMelody": true, "original_char_pinyin": [], "texts": { "es": "♫ Intro (五月天 後來的我們 - Título en pantalla) ♫", "en": "♫ Intro (Mayday 後來的我們 - Title on screen) ♫", "zh-CN": "♫ 前奏 (五月天 后来的我们 - 标题画面) ♫", "zh-TW": "♫ 前奏 (五月天 後來的我們 - 標題畫面) ♫" } },
