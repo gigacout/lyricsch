@@ -1285,5 +1285,891 @@
         "isMelody": true
       }
     ]
+  },
+  "zhishao_hai_you_ni_sandy_lam": {
+    "title": "至少還有你",
+    "artist": "林憶蓮 (Sandy Lam)",
+    "cover_url": "",
+    "language_names": {
+      "es": "Español",
+      "en": "English",
+      "zh-CN": "简体中文 (Chino Simplificado)",
+      "zh-TW": "繁體中文 (Chino Tradicional)"
+    },
+    "lines": [
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Intro (林憶蓮 至少還有你 - Título en pantalla) ♫",
+          "en": "♫ Intro (林憶蓮 至少還有你 - Title on screen) ♫",
+          "zh-CN": "♫ 前奏 (林忆莲 至少还有你 - 标题画面) ♫",
+          "zh-TW": "♫ 前奏 (林憶蓮 至少還有你 - 標題畫面) ♫"
+        },
+        "duration": 16.0,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "怕", "pinyin": "pà" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "及", "pinyin": "jí" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "要", "pinyin": "yào" },
+          { "char": "抱", "pinyin": "bào" },
+          { "char": "著", "pinyin": "zhe" },
+          { "char": "你", "pinyin": "nǐ" }
+        ],
+        "texts": {
+          "es": "Temo no tener tiempo, quiero abrazarte",
+          "en": "I'm afraid I won't have enough time, I want to hold you",
+          "zh-CN": "我怕来不及我要抱着你",
+          "zh-TW": "我怕來不及我要抱著你"
+        },
+        "duration": 7.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "直", "pinyin": "zhí" },
+          { "char": "到", "pinyin": "dào" },
+          { "char": "感", "pinyin": "gǎn" },
+          { "char": "覺", "pinyin": "jué" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "皺", "pinyin": "zhòu" },
+          { "char": "紋", "pinyin": "wén" },
+          { "char": " ", "pinyin": " " },
+          { "char": "有", "pinyin": "yǒu" },
+          { "char": "了", "pinyin": "le" },
+          { "char": "歲", "pinyin": "suì" },
+          { "char": "月", "pinyin": "yuè" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "痕", "pinyin": "hén" },
+          { "char": "跡", "pinyin": "jì" }
+        ],
+        "texts": {
+          "es": "Hasta sentir tus arrugas, con las huellas del tiempo",
+          "en": "Until I feel your wrinkles, bearing the traces of the years",
+          "zh-CN": "直到感觉你的皱纹 有了岁月的痕迹",
+          "zh-TW": "直到感覺你的皺紋 有了歲月的痕跡"
+        },
+        "duration": 8.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "直", "pinyin": "zhí" },
+          { "char": "到", "pinyin": "dào" },
+          { "char": "肯", "pinyin": "kěn" },
+          { "char": "定", "pinyin": "dìng" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": "真", "pinyin": "zhēn" },
+          { "char": "的", "pinyin": "de" },
+          { "char": " ", "pinyin": " " },
+          { "char": "直", "pinyin": "zhí" },
+          { "char": "到", "pinyin": "dào" },
+          { "char": "失", "pinyin": "shī" },
+          { "char": "去", "pinyin": "qù" },
+          { "char": "力", "pinyin": "lì" },
+          { "char": "氣", "pinyin": "qì" }
+        ],
+        "texts": {
+          "es": "Hasta estar segura de que eres real, hasta perder las fuerzas",
+          "en": "Until I'm sure you are real, until I lose all my strength",
+          "zh-CN": "直到肯定你是真的 直到失去力气",
+          "zh-TW": "直到肯定你是真的 直到失去力氣"
+        },
+        "duration": 9.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "為", "pinyin": "wèi" },
+          { "char": "了", "pinyin": "le" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "願", "pinyin": "yuàn" },
+          { "char": "意", "pinyin": "yì" }
+        ],
+        "texts": {
+          "es": "Por ti, estoy dispuesta",
+          "en": "For you, I am willing",
+          "zh-CN": "为了你我愿意",
+          "zh-TW": "為了你我願意"
+        },
+        "duration": 7.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "動", "pinyin": "dòng" },
+          { "char": "也", "pinyin": "yě" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "能", "pinyin": "néng" },
+          { "char": "動", "pinyin": "dòng" },
+          { "char": "也", "pinyin": "yě" },
+          { "char": "要", "pinyin": "yào" },
+          { "char": "看", "pinyin": "kàn" },
+          { "char": "著", "pinyin": "zhe" },
+          { "char": "你", "pinyin": "nǐ" }
+        ],
+        "texts": {
+          "es": "Aunque no pueda moverme, quiero seguir mirándote",
+          "en": "Even if I can't move, I still want to watch you",
+          "zh-CN": "动也不能动也要看着你",
+          "zh-TW": "動也不能動也要看著你"
+        },
+        "duration": 7.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "直", "pinyin": "zhí" },
+          { "char": "到", "pinyin": "dào" },
+          { "char": "感", "pinyin": "gǎn" },
+          { "char": "覺", "pinyin": "jué" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "髮", "pinyin": "fà" },
+          { "char": "線", "pinyin": "xiàn" },
+          { "char": " ", "pinyin": " " },
+          { "char": "有", "pinyin": "yǒu" },
+          { "char": "了", "pinyin": "le" },
+          { "char": "白", "pinyin": "bái" },
+          { "char": "雪", "pinyin": "xuě" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "痕", "pinyin": "hén" },
+          { "char": "跡", "pinyin": "jì" }
+        ],
+        "texts": {
+          "es": "Hasta sentir que en tu cabello hay rastros de nieve blanca",
+          "en": "Until I feel the white snow's traces in your hairline",
+          "zh-CN": "直到感觉你的发线 有了白雪的痕迹",
+          "zh-TW": "直到感覺你的髮線 有了白雪的痕跡"
+        },
+        "duration": 8.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "直", "pinyin": "zhí" },
+          { "char": "到", "pinyin": "dào" },
+          { "char": "視", "pinyin": "shì" },
+          { "char": "線", "pinyin": "xiàn" },
+          { "char": "變", "pinyin": "biàn" },
+          { "char": "得", "pinyin": "dé" },
+          { "char": "模", "pinyin": "mó" },
+          { "char": "糊", "pinyin": "hú" },
+          { "char": " ", "pinyin": " " },
+          { "char": "直", "pinyin": "zhí" },
+          { "char": "到", "pinyin": "dào" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "能", "pinyin": "néng" },
+          { "char": "呼", "pinyin": "hū" },
+          { "char": "吸", "pinyin": "xī" }
+        ],
+        "texts": {
+          "es": "Hasta que la vista se vuelva borrosa, hasta no poder respirar",
+          "en": "Until my vision becomes blurry, until I can no longer breathe",
+          "zh-CN": "直到视线变得模糊 直到不能呼吸",
+          "zh-TW": "直到視線變得模糊 直到不能呼吸"
+        },
+        "duration": 8.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "讓", "pinyin": "ràng" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "們", "pinyin": "men" },
+          { "char": "形", "pinyin": "xíng" },
+          { "char": "影", "pinyin": "yǐng" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "離", "pinyin": "lí" }
+        ],
+        "texts": {
+          "es": "Permítenos ser inseparables, como la forma y su sombra",
+          "en": "Let us be inseparable, like form and shadow",
+          "zh-CN": "让我们形影不离",
+          "zh-TW": "讓我們形影不離"
+        },
+        "duration": 5.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "如", "pinyin": "rú" },
+          { "char": "果", "pinyin": "guǒ" },
+          { "char": "全", "pinyin": "quán" },
+          { "char": "世", "pinyin": "shì" },
+          { "char": "界", "pinyin": "jiè" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "也", "pinyin": "yě" },
+          { "char": "可", "pinyin": "kě" },
+          { "char": "以", "pinyin": "yǐ" },
+          { "char": "放", "pinyin": "fàng" },
+          { "char": "棄", "pinyin": "qì" }
+        ],
+        "texts": {
+          "es": "Si pudiera renunciar al mundo entero",
+          "en": "If I could give up the whole world",
+          "zh-CN": "如果全世界我也可以放弃",
+          "zh-TW": "如果全世界我也可以放棄"
+        },
+        "duration": 6.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "至", "pinyin": "zhì" },
+          { "char": "少", "pinyin": "shǎo" },
+          { "char": "還", "pinyin": "hái" },
+          { "char": "有", "pinyin": "yǒu" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "值", "pinyin": "zhí" },
+          { "char": "得", "pinyin": "dé" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "去", "pinyin": "qù" },
+          { "char": "珍", "pinyin": "zhēn" },
+          { "char": "惜", "pinyin": "xī" }
+        ],
+        "texts": {
+          "es": "Al menos te tengo a ti, a quien vale la pena atesorar",
+          "en": "At least I still have you, worthy of my珍惜 (cherishing)",
+          "zh-CN": "至少还有你值得我去珍惜",
+          "zh-TW": "至少還有你值得我去珍惜"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "而", "pinyin": "ér" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "在", "pinyin": "zài" },
+          { "char": "這", "pinyin": "zhè" },
+          { "char": "裡", "pinyin": "lǐ" },
+          { "char": " ", "pinyin": " " },
+          { "char": "就", "pinyin": "jiù" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": "生", "pinyin": "shēng" },
+          { "char": "命", "pinyin": "mìng" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "奇", "pinyin": "qí" },
+          { "char": "蹟", "pinyin": "jì" }
+        ],
+        "texts": {
+          "es": "Y que estés aquí, ese es el milagro de la vida",
+          "en": "And you being here, that is the miracle of life",
+          "zh-CN": "而你在这里 就是生命的奇迹",
+          "zh-TW": "而你在這裡 就是生命的奇蹟"
+        },
+        "duration": 7.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "也", "pinyin": "yě" },
+          { "char": "許", "pinyin": "xǔ" },
+          { "char": "全", "pinyin": "quán" },
+          { "char": "世", "pinyin": "shì" },
+          { "char": "界", "pinyin": "jiè" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "也", "pinyin": "yě" },
+          { "char": "可", "pinyin": "kě" },
+          { "char": "以", "pinyin": "yǐ" },
+          { "char": "忘", "pinyin": "wàng" },
+          { "char": "記", "pinyin": "jì" }
+        ],
+        "texts": {
+          "es": "Quizás podría olvidar el mundo entero",
+          "en": "Perhaps I could forget the whole world",
+          "zh-CN": "也许全世界我也可以忘记",
+          "zh-TW": "也許全世界我也可以忘記"
+        },
+        "duration": 5.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "就", "pinyin": "jiù" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": "不", "pinyin": "bú" },
+          { "char": "願", "pinyin": "yuàn" },
+          { "char": "意", "pinyin": "yì" },
+          { "char": "失", "pinyin": "shī" },
+          { "char": "去", "pinyin": "qù" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "消", "pinyin": "xiāo" },
+          { "char": "息", "pinyin": "xi" }
+        ],
+        "texts": {
+          "es": "Pero no estoy dispuesta a perder noticias de ti",
+          "en": "But I am unwilling to lose news of you",
+          "zh-CN": "就是不愿意失去你的消息",
+          "zh-TW": "就是不願意失去你的消息"
+        },
+        "duration": 4.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "掌", "pinyin": "zhǎng" },
+          { "char": "心", "pinyin": "xīn" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "痣", "pinyin": "zhì" },
+          { "char": " ", "pinyin": " " },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "總", "pinyin": "zǒng" },
+          { "char": "記", "pinyin": "jì" },
+          { "char": "得", "pinyin": "dé" },
+          { "char": "在", "pinyin": "zài" },
+          { "char": "那", "pinyin": "nà" },
+          { "char": "裡", "pinyin": "lǐ" }
+        ],
+        "texts": {
+          "es": "El lunar en la palma de tu mano, siempre recuerdo dónde está",
+          "en": "The mole in your palm, I always remember where it is",
+          "zh-CN": "你掌心的痣 我总记得在那里",
+          "zh-TW": "你掌心的痣 我總記得在那裡"
+        },
+        "duration": 7.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Música instrumental ♫",
+          "en": "♫ Instrumental Break ♫",
+          "zh-CN": "♫ 间奏 ♫",
+          "zh-TW": "♫ 間奏 ♫"
+        },
+        "duration": 4.0,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "怕", "pinyin": "pà" },
+          { "char": "來", "pinyin": "lái" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "及", "pinyin": "jí" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "要", "pinyin": "yào" },
+          { "char": "抱", "pinyin": "bào" },
+          { "char": "著", "pinyin": "zhe" },
+          { "char": "你", "pinyin": "nǐ" }
+        ],
+        "texts": {
+          "es": "Temo no tener tiempo, quiero abrazarte",
+          "en": "I'm afraid I won't have enough time, I want to hold you",
+          "zh-CN": "我怕来不及我要抱着你",
+          "zh-TW": "我怕來不及我要抱著你"
+        },
+        "duration": 8.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "直", "pinyin": "zhí" },
+          { "char": "到", "pinyin": "dào" },
+          { "char": "感", "pinyin": "gǎn" },
+          { "char": "覺", "pinyin": "jué" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "髮", "pinyin": "fà" },
+          { "char": "線", "pinyin": "xiàn" },
+          { "char": " ", "pinyin": " " },
+          { "char": "有", "pinyin": "yǒu" },
+          { "char": "了", "pinyin": "le" },
+          { "char": "白", "pinyin": "bái" },
+          { "char": "雪", "pinyin": "xuě" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "痕", "pinyin": "hén" },
+          { "char": "跡", "pinyin": "jì" }
+        ],
+        "texts": {
+          "es": "Hasta sentir que en tu cabello hay rastros de nieve blanca",
+          "en": "Until I feel the white snow's traces in your hairline",
+          "zh-CN": "直到感觉你的发线 有了白雪的痕迹",
+          "zh-TW": "直到感覺你的髮線 有了白雪的痕跡"
+        },
+        "duration": 7.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "直", "pinyin": "zhí" },
+          { "char": "到", "pinyin": "dào" },
+          { "char": "視", "pinyin": "shì" },
+          { "char": "線", "pinyin": "xiàn" },
+          { "char": "變", "pinyin": "biàn" },
+          { "char": "得", "pinyin": "dé" },
+          { "char": "模", "pinyin": "mó" },
+          { "char": "糊", "pinyin": "hú" },
+          { "char": " ", "pinyin": " " },
+          { "char": "直", "pinyin": "zhí" },
+          { "char": "到", "pinyin": "dào" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "能", "pinyin": "néng" },
+          { "char": "呼", "pinyin": "hū" },
+          { "char": "吸", "pinyin": "xī" }
+        ],
+        "texts": {
+          "es": "Hasta que la vista se vuelva borrosa, hasta no poder respirar",
+          "en": "Until my vision becomes blurry, until I can no longer breathe",
+          "zh-CN": "直到视线变得模糊 直到不能呼吸",
+          "zh-TW": "直到視線變得模糊 直到不能呼吸"
+        },
+        "duration": 8.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "讓", "pinyin": "ràng" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "們", "pinyin": "men" },
+          { "char": "形", "pinyin": "xíng" },
+          { "char": "影", "pinyin": "yǐng" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "離", "pinyin": "lí" }
+        ],
+        "texts": {
+          "es": "Permítenos ser inseparables, como la forma y su sombra",
+          "en": "Let us be inseparable, like form and shadow",
+          "zh-CN": "让我们形影不离",
+          "zh-TW": "讓我們形影不離"
+        },
+        "duration": 6.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "如", "pinyin": "rú" },
+          { "char": "果", "pinyin": "guǒ" },
+          { "char": "全", "pinyin": "quán" },
+          { "char": "世", "pinyin": "shì" },
+          { "char": "界", "pinyin": "jiè" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "也", "pinyin": "yě" },
+          { "char": "可", "pinyin": "kě" },
+          { "char": "以", "pinyin": "yǐ" },
+          { "char": "放", "pinyin": "fàng" },
+          { "char": "棄", "pinyin": "qì" }
+        ],
+        "texts": {
+          "es": "Si pudiera renunciar al mundo entero",
+          "en": "If I could give up the whole world",
+          "zh-CN": "如果全世界我也可以放弃",
+          "zh-TW": "如果全世界我也可以放棄"
+        },
+        "duration": 6.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "至", "pinyin": "zhì" },
+          { "char": "少", "pinyin": "shǎo" },
+          { "char": "還", "pinyin": "hái" },
+          { "char": "有", "pinyin": "yǒu" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "值", "pinyin": "zhí" },
+          { "char": "得", "pinyin": "dé" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "去", "pinyin": "qù" },
+          { "char": "珍", "pinyin": "zhēn" },
+          { "char": "惜", "pinyin": "xī" }
+        ],
+        "texts": {
+          "es": "Al menos te tengo a ti, a quien vale la pena atesorar",
+          "en": "At least I still have you, worthy of my cherishing",
+          "zh-CN": "至少还有你值得我去珍惜",
+          "zh-TW": "至少還有你值得我去珍惜"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "而", "pinyin": "ér" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "在", "pinyin": "zài" },
+          { "char": "這", "pinyin": "zhè" },
+          { "char": "裡", "pinyin": "lǐ" },
+          { "char": "就", "pinyin": "jiù" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": "生", "pinyin": "shēng" },
+          { "char": "命", "pinyin": "mìng" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "奇", "pinyin": "qí" },
+          { "char": "蹟", "pinyin": "jì" }
+        ],
+        "texts": {
+          "es": "Y que estés aquí, ese es el milagro de la vida",
+          "en": "And you being here, that is the miracle of life",
+          "zh-CN": "而你在这里就是生命的奇迹",
+          "zh-TW": "而你在這裡就是生命的奇蹟"
+        },
+        "duration": 7.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "也", "pinyin": "yě" },
+          { "char": "許", "pinyin": "xǔ" },
+          { "char": "全", "pinyin": "quán" },
+          { "char": "世", "pinyin": "shì" },
+          { "char": "界", "pinyin": "jiè" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "也", "pinyin": "yě" },
+          { "char": "可", "pinyin": "kě" },
+          { "char": "以", "pinyin": "yǐ" },
+          { "char": "忘", "pinyin": "wàng" },
+          { "char": "記", "pinyin": "jì" }
+        ],
+        "texts": {
+          "es": "Quizás podría olvidar el mundo entero",
+          "en": "Perhaps I could forget the whole world",
+          "zh-CN": "也许全世界我也可以忘记",
+          "zh-TW": "也許全世界我也可以忘記"
+        },
+        "duration": 5.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "就", "pinyin": "jiù" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": "不", "pinyin": "bú" },
+          { "char": "願", "pinyin": "yuàn" },
+          { "char": "意", "pinyin": "yì" },
+          { "char": "失", "pinyin": "shī" },
+          { "char": "去", "pinyin": "qù" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "消", "pinyin": "xiāo" },
+          { "char": "息", "pinyin": "xi" }
+        ],
+        "texts": {
+          "es": "Pero no estoy dispuesta a perder noticias de ti",
+          "en": "But I am unwilling to lose news of you",
+          "zh-CN": "就是不愿意失去你的消息",
+          "zh-TW": "就是不願意失去你的消息"
+        },
+        "duration": 4.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "掌", "pinyin": "zhǎng" },
+          { "char": "心", "pinyin": "xīn" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "痣", "pinyin": "zhì" },
+          { "char": " ", "pinyin": " " },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "總", "pinyin": "zǒng" },
+          { "char": "記", "pinyin": "jì" },
+          { "char": "得", "pinyin": "dé" },
+          { "char": "在", "pinyin": "zài" },
+          { "char": "那", "pinyin": "nà" },
+          { "char": "裡", "pinyin": "lǐ" }
+        ],
+        "texts": {
+          "es": "El lunar en la palma de tu mano, siempre recuerdo dónde está",
+          "en": "The mole in your palm, I always remember where it is",
+          "zh-CN": "你掌心的痣 我总记得在那里",
+          "zh-TW": "你掌心的痣 我總記得在那裡"
+        },
+        "duration": 7.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Música instrumental (Puente) ♫",
+          "en": "♫ Instrumental Bridge ♫",
+          "zh-CN": "♫ 间奏 (桥段) ♫",
+          "zh-TW": "♫ 間奏 (橋段) ♫"
+        },
+        "duration": 16.0,
+        "isMelody": true
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "們", "pinyin": "men" },
+          { "char": "好", "pinyin": "hǎo" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "容", "pinyin": "róng" },
+          { "char": "易", "pinyin": "yì" },
+          { "char": " ", "pinyin": " " },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "們", "pinyin": "men" },
+          { "char": "身", "pinyin": "shēn" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "由", "pinyin": "yóu" },
+          { "char": "己", "pinyin": "jǐ" }
+        ],
+        "texts": {
+          "es": "No ha sido fácil para nosotros, no podemos evitarlo (las circunstancias)",
+          "en": "It hasn't been easy for us, we can't help ourselves (due to circumstances)",
+          "zh-CN": "我们好不容易 我们身不由己",
+          "zh-TW": "我們好不容易 我們身不由己"
+        },
+        "duration": 8.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "怕", "pinyin": "pà" },
+          { "char": "時", "pinyin": "shí" },
+          { "char": "間", "pinyin": "jiān" },
+          { "char": "太", "pinyin": "tài" },
+          { "char": "快", "pinyin": "kuài" },
+          { "char": " ", "pinyin": " " },
+          { "char": "不", "pinyin": "bú" },
+          { "char": "夠", "pinyin": "gòu" },
+          { "char": "將", "pinyin": "jiāng" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "看", "pinyin": "kàn" },
+          { "char": "仔", "pinyin": "zǐ" },
+          { "char": "細", "pinyin": "xì" }
+        ],
+        "texts": {
+          "es": "Temo que el tiempo pase demasiado rápido, y no sea suficiente para mirarte con detalle",
+          "en": "I'm afraid time passes too quickly, not enough to look at you closely",
+          "zh-CN": "我怕时间太快 不够将你看仔细",
+          "zh-TW": "我怕時間太快 不夠將你看仔細"
+        },
+        "duration": 7.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "怕", "pinyin": "pà" },
+          { "char": "時", "pinyin": "shí" },
+          { "char": "間", "pinyin": "jiān" },
+          { "char": "太", "pinyin": "tài" },
+          { "char": "慢", "pinyin": "màn" },
+          { "char": " ", "pinyin": " " },
+          { "char": "日", "pinyin": "rì" },
+          { "char": "夜", "pinyin": "yè" },
+          { "char": "擔", "pinyin": "dān" },
+          { "char": "心", "pinyin": "xīn" },
+          { "char": "失", "pinyin": "shī" },
+          { "char": "去", "pinyin": "qù" },
+          { "char": "你", "pinyin": "nǐ" }
+        ],
+        "texts": {
+          "es": "Temo que el tiempo pase demasiado lento, preocupándome día y noche por perderte",
+          "en": "I'm afraid time passes too slowly, worrying day and night about losing you",
+          "zh-CN": "我怕时间太慢 日夜担心失去你",
+          "zh-TW": "我怕時間太慢 日夜擔心失去你"
+        },
+        "duration": 6.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "恨", "pinyin": "hèn" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "得", "pinyin": "dé" },
+          { "char": "一", "pinyin": "yí" },
+          { "char": "夜", "pinyin": "yè" },
+          { "char": "之", "pinyin": "zhī" },
+          { "char": "間", "pinyin": "jiān" },
+          { "char": "白", "pinyin": "bái" },
+          { "char": "頭", "pinyin": "tóu" },
+          { "char": " ", "pinyin": " " },
+          { "char": "永", "pinyin": "yǒng" },
+          { "char": "不", "pinyin": "bù" },
+          { "char": "分", "pinyin": "fēn" },
+          { "char": "離", "pinyin": "lí" }
+        ],
+        "texts": {
+          "es": "Desearía encanecer de la noche a la mañana, para nunca separarnos",
+          "en": "I wish we could grow white-haired overnight, never to be parted",
+          "zh-CN": "恨不得一夜之间白头 永不分离",
+          "zh-TW": "恨不得一夜之間白頭 永不分離"
+        },
+        "duration": 9.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "如", "pinyin": "rú" },
+          { "char": "果", "pinyin": "guǒ" },
+          { "char": "全", "pinyin": "quán" },
+          { "char": "世", "pinyin": "shì" },
+          { "char": "界", "pinyin": "jiè" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "也", "pinyin": "yě" },
+          { "char": "可", "pinyin": "kě" },
+          { "char": "以", "pinyin": "yǐ" },
+          { "char": "放", "pinyin": "fàng" },
+          { "char": "棄", "pinyin": "qì" }
+        ],
+        "texts": {
+          "es": "Si pudiera renunciar al mundo entero",
+          "en": "If I could give up the whole world",
+          "zh-CN": "如果全世界我也可以放弃",
+          "zh-TW": "如果全世界我也可以放棄"
+        },
+        "duration": 5.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "至", "pinyin": "zhì" },
+          { "char": "少", "pinyin": "shǎo" },
+          { "char": "還", "pinyin": "hái" },
+          { "char": "有", "pinyin": "yǒu" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "值", "pinyin": "zhí" },
+          { "char": "得", "pinyin": "dé" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "去", "pinyin": "qù" },
+          { "char": "珍", "pinyin": "zhēn" },
+          { "char": "惜", "pinyin": "xī" }
+        ],
+        "texts": {
+          "es": "Al menos te tengo a ti, a quien vale la pena atesorar",
+          "en": "At least I still have you, worthy of my cherishing",
+          "zh-CN": "至少还有你值得我去珍惜",
+          "zh-TW": "至少還有你值得我去珍惜"
+        },
+        "duration": 4.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "而", "pinyin": "ér" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "在", "pinyin": "zài" },
+          { "char": "這", "pinyin": "zhè" },
+          { "char": "裡", "pinyin": "lǐ" },
+          { "char": "就", "pinyin": "jiù" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": "生", "pinyin": "shēng" },
+          { "char": "命", "pinyin": "mìng" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "奇", "pinyin": "qí" },
+          { "char": "蹟", "pinyin": "jì" }
+        ],
+        "texts": {
+          "es": "Y que estés aquí, ese es el milagro de la vida",
+          "en": "And you being here, that is the miracle of life",
+          "zh-CN": "而你在这里就是生命的奇迹",
+          "zh-TW": "而你在這裡就是生命的奇蹟"
+        },
+        "duration": 6.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "也", "pinyin": "yě" },
+          { "char": "許", "pinyin": "xǔ" },
+          { "char": "全", "pinyin": "quán" },
+          { "char": "世", "pinyin": "shì" },
+          { "char": "界", "pinyin": "jiè" },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "也", "pinyin": "yě" },
+          { "char": "可", "pinyin": "kě" },
+          { "char": "以", "pinyin": "yǐ" },
+          { "char": "忘", "pinyin": "wàng" },
+          { "char": "記", "pinyin": "jì" }
+        ],
+        "texts": {
+          "es": "Quizás podría olvidar el mundo entero",
+          "en": "Perhaps I could forget the whole world",
+          "zh-CN": "也许全世界我也可以忘记",
+          "zh-TW": "也許全世界我也可以忘記"
+        },
+        "duration": 5.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "就", "pinyin": "jiù" },
+          { "char": "是", "pinyin": "shì" },
+          { "char": "不", "pinyin": "bú" },
+          { "char": "願", "pinyin": "yuàn" },
+          { "char": "意", "pinyin": "yì" },
+          { "char": "失", "pinyin": "shī" },
+          { "char": "去", "pinyin": "qù" },
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "消", "pinyin": "xiāo" },
+          { "char": "息", "pinyin": "xi" }
+        ],
+        "texts": {
+          "es": "Pero no estoy dispuesta a perder noticias de ti",
+          "en": "But I am unwilling to lose news of you",
+          "zh-CN": "就是不愿意失去你的消息",
+          "zh-TW": "就是不願意失去你的消息"
+        },
+        "duration": 4.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "你", "pinyin": "nǐ" },
+          { "char": "掌", "pinyin": "zhǎng" },
+          { "char": "心", "pinyin": "xīn" },
+          { "char": "的", "pinyin": "de" },
+          { "char": "痣", "pinyin": "zhì" },
+          { "char": " ", "pinyin": " " },
+          { "char": "我", "pinyin": "wǒ" },
+          { "char": "總", "pinyin": "zǒng" },
+          { "char": "記", "pinyin": "jì" },
+          { "char": "得", "pinyin": "dé" },
+          { "char": "在", "pinyin": "zài" },
+          { "char": "那", "pinyin": "nà" },
+          { "char": "裡", "pinyin": "lǐ" }
+        ],
+        "texts": {
+          "es": "El lunar en la palma de tu mano, siempre recuerdo dónde está",
+          "en": "The mole in your palm, I always remember where it is",
+          "zh-CN": "你掌心的痣 我总记得在那里",
+          "zh-TW": "你掌心的痣 我總記得在那裡"
+        },
+        "duration": 10.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [
+          { "char": "在", "pinyin": "zài" },
+          { "char": "那", "pinyin": "nà" },
+          { "char": "裡", "pinyin": "lǐ" }
+        ],
+        "texts": {
+          "es": "Ahí...",
+          "en": "There...",
+          "zh-CN": "在那里",
+          "zh-TW": "在那裡"
+        },
+        "duration": 3.0,
+        "isMelody": false
+      },
+      {
+        "original_char_pinyin": [],
+        "texts": {
+          "es": "♫ Outro Instrumental ♫",
+          "en": "♫ Instrumental Outro ♫",
+          "zh-CN": "♫ 尾奏 ♫",
+          "zh-TW": "♫ 尾奏 ♫"
+        },
+        "duration": 15.0,
+        "isMelody": true
+      }
+    ]
   }
 }
