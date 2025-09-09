@@ -785,6 +785,6 @@
       { "duration": 2.0, "isMelody": false, "original_char_pinyin": [ { "char": "勞", "pinyin": "lao" }, { "char": "力", "pinyin": "lee" }, { "char": "士", "pinyin": "shir" }, { "char": "還", "pinyin": "hwahn" }, { "char": "是", "pinyin": "shir" }, { "char": "A", "pinyin": "A" }, { "char": "M", "pinyin": "M" }, { "char": "G", "pinyin": "G" } ], "texts": { "es": "Rolex o AMG - ¿qué es real?", "en": "Rolex or AMG — what's true?" } },
       { "duration": 9.0, "isMelody": true, "original_char_pinyin": [], "texts": { "es": "♫ Outro (Música de Ópera Cantonesa y efectos) ♫", "en": "♫ Outro (Cantonese Opera music & effects) ♫" } }
     ]
-  },  
+  }
 }
 
