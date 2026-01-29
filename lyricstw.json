@@ -1,4 +1,18 @@
 {
+    "women_jinsheng_shi_xiongdi_zhang_zhao": {
+    "title": "兄弟",
+    "artist": "張爪 (Zhang Zhao)",
+    "cover_url": "https://i.ibb.co/JWTmb5Mb/2026-01-29-143318.png",
+    "language_names": { "es": "Español", "en": "English", "ja": "日本語 (Japonés)", "zh-CN": "简体中文 (Chino Simplificado)", "zh-TW": "繁體中文 (Chino Tradicional)" },
+    "lines": [
+      { "duration": 0.5, "isMelody": true, "original_char_pinyin": [], "texts": { "es": "♫ Intro (Melodía emotiva) ♫", "en": "♫ Emotional Intro ♫", "ja": "♫ イントロ (感動的なメロディー) ♫", "zh-CN": "♫ 前奏 (感人旋律) ♫", "zh-TW": "♫ 前奏 (感人旋律) ♫" } },
+      { "duration": 6.0, "isMelody": false, "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": "今", "pinyin": "jīn" }, { "char": "生", "pinyin": "shēng" }, { "char": "註", "pinyin": "zhù" }, { "char": "定", "pinyin": "dìng" }, { "char": "是", "pinyin": "shì" }, { "char": "滄", "pinyin": "cāng" }, { "char": "桑", "pinyin": "sāng" } ], "texts": { "es": "En esta vida, nos toca enfrentar la adversidad", "en": "In this life, we are bound to face hardships", "ja": "この一生、荒波を越える運命にある", "zh-CN": "我们今生注定是沧桑", "zh-TW": "我們今生註定是滄桑" } },
+      { "duration": 7.0, "isMelody": false, "original_char_pinyin": [ { "char": "哭", "pinyin": "kū" }, { "char": "著", "pinyin": "zhe" }, { "char": "來", "pinyin": "lái" }, { "char": "要", "pinyin": "yào" }, { "char": "笑", "pinyin": "xiào" }, { "char": "著", "pinyin": "zhe" }, { "char": "走", "pinyin": "zǒu" }, { "char": "過", "pinyin": "guò" }, { "char": "呀", "pinyin": "ya" } ], "texts": { "es": "Llegamos llorando, pero hay que vivir sonriendo", "en": "We came crying, but we must walk on smiling", "ja": "泣いて生まれ、笑顔で歩き続けよう", "zh-CN": "哭着来要笑着走过呀", "zh-TW": "哭著來要笑著走過呀" } },
+      { "duration": 6.5, "isMelody": false, "original_char_pinyin": [ { "char": "朋", "pinyin": "péng" }, { "char": "友", "pinyin": "yǒu" }, { "char": "啊", "pinyin": "a" }, { "char": " ", "pinyin": " " }, { "char": "讓", "pinyin": "ràng" }, { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": "一", "pinyin": "yī" }, { "char": "起", "pinyin": "qǐ" }, { "char": "牢", "pinyin": "láo" }, { "char": "牢", "pinyin": "láo" }, { "char": "銘", "pinyin": "míng" }, { "char": "記", "pinyin": "jì" }, { "char": "啊", "pinyin": "a" } ], "texts": { "es": "¡Amigo! Llevémoslo grabado en el corazón", "en": "Oh friend! Let's keep this deep in our hearts", "ja": "友よ、この絆を魂に刻み込もう", "zh-CN": "朋友啊 让我们一起牢牢铭记啊", "zh-TW": "朋友啊 讓我們一起牢牢銘記啊" } },
+      { "duration": 7.0, "isMelody": false, "original_char_pinyin": [ { "char": "我", "pinyin": "wǒ" }, { "char": "們", "pinyin": "men" }, { "char": "今", "pinyin": "jīn" }, { "char": "生", "pinyin": "shēng" }, { "char": "兄", "pinyin": "xiōng" }, { "char": "弟", "pinyin": "dì" }, { "char": "情", "pinyin": "qíng" }, { "char": "誼", "pinyin": "yì" }, { "char": "長", "pinyin": "cháng" } ], "texts": { "es": "Que nuestra hermandad perdure para siempre", "en": "Our brotherhood shall last forever", "ja": "今生、兄弟の絆は永遠に続く", "zh-CN": "我们今生兄弟情谊长", "zh-TW": "我們今生兄弟情誼長" } },
+      { "duration": 5.0, "isMelody": true, "original_char_pinyin": [], "texts": { "es": "♫ Outro Instrumental ♫", "en": "♫ Instrumental Outro ♫", "ja": "♫ アウトロ ♫", "zh-CN": "♫ 尾奏 ♫", "zh-TW": "♫ 尾奏 ♫" } }
+    ]
+  },
   "qifengle_zhou_shen": {
     "title": "起風了",
     "artist": "周深 (Zhou Shen)",
