@@ -94,9 +94,9 @@
       { "duration": 5.0, "isMelody": true, "original_char_pinyin": [], "texts": { "es": "♫ Outro Instrumental ♫", "en": "♫ Instrumental Outro ♫", "ja": "♫ アウトロ ♫", "zh-CN": "♫ 尾奏 ♫", "zh-TW": "♫ 尾奏 ♫" } }
     ]
   },
-  "qifengle_zhou_shen": {
+  "qifengle_zhou_shen2": {
     "title": "起風了",
-    "artist": "周深 (Zhou Shen)",
+    "artist": "周深",
     "cover_url": "https://i.ibb.co/dJt07cry/image.png",
     "language_names": { "es": "Español", "en": "English", "ja": "日本語 (Japonés)", "zh-CN": "简体中文 (Chino Simplificado)", "zh-TW": "繁體中文 (Chino Tradicional)" },
     "lines": [
